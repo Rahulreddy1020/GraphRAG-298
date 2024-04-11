@@ -1,0 +1,6 @@
+Model,Similarity Score,Answer Relevance,Context Relevance,Faithfulness,Groundedness
+GPT-3.5,0.862,1.0,0.923,0.88,0.99
+LLAMA-2,0.802,0.94,0.843,0.834,0.95
+MISTRAL,0.823,0.9,0.856,0.894,0.98
+LLAMA-2 Fine-tuned,0.875,1.0,0.947,0.932,0.99
+MISTRAL Fine-tuned,0.854,1.0,0.925,0.915,0.98
