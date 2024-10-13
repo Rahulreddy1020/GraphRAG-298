@@ -1,0 +1,29 @@
+Please extract the following metadata from the provided research article text:
+
+1. Title: The full title of the research article 
+2. Authors: A list with the full names of all authors
+3. Journal: The name of the journal the article was published in
+4. PublicationDate: The online publication date if available, otherwise the print publication date, in YYYY-MM-DD format
+5. Summary: A one sentence summary of the key findings or conclusions of the article
+
+Provide the extracted metadata in the following JSON format:
+
+{
+  "Title": "",
+  "Authors": [],
+  "Journal": "",
+  "PublicationDate": "",
+  "Summary": ""
+}
+
+Only include the metadata that is explicitly stated in the provided article text. 
+If any of the metadata fields are not found, leave that field blank in the JSON output. 
+Do not make any inferences or include information not directly stated.
+
+Please follow the instructions below:
+- Use the provided research article text to extract the metadata
+- Make sure the output is in the correct JSON format
+- Do not include any additional information
+
+
+Research article text:

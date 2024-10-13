@@ -1,0 +1,252 @@
+Journal of Atherosclerosis and Thrombosis
+Reviews
+ 
+Vol. 11, No. 6
+ 
+
+The Roles of Cytokines, Inflammation and Immunity in Vascular Diseases
+
+
+Fumitaka Ohsuzu
+
+The First Department of Medicine, National Defense Medical College, Saitama, Japan.
+
+
+Recent findings regarding the roles of cytokines, inflammation and immunity during the development of atherosclerosis were reviewed. Especially, the relationships among pro-inflammatory cytokines such as interleukin (IL)-1, IL-18 and osteopontin, and anti- inflammatory cytokines such as IL-1 receptor antagonist, IL-10 and IL-18 binding pro- tein to inflammation and atherosclerosis were investigated and are described in de- tail. In addition, helicobacter pylori and C pneumoniae infections to inflammations regarding the persistence of inflammation have been pointed out. A pro-inflammatory genotype or haplotype and toll-like receptors have been shown to be involved in hu- man atherosclerosis. Atherosclerosis might therefore be a specific form of the chronic inflammatory process. In addition to hyperlipidemia, infections, cytokines and immu- nity might also be involved in the development of atherosclerosis. Certain treatments that reduce coronary risk also limit inflammation. Statins possess multiple pleiotropic effects such as an anti-inflammatory effect in addition to a lipid-lowering effect. J Atheroscler Thromb, 2004; 11: 313–321.
+Key words: Cytokine, Inflammation, Toll-like receptor, Immunity, Atherosclerosis
+
+
+ 
+Introduction
+Atherosclerosis is a complex disease whose etiology is multifactorial. Recently, inflammation has been reported to play an important role in vascular disease (1). In addi- tion, the persistence of such inflammation might be par- tially determined by the genetic immune response of an individual. From the results of an experimental study us- ing either transgenic or gene-targeted mice, early ath- erosclerotic lesions, such as fatty streaks, were consid- ered to possibly form due to an excessive stimulation of cytokines such as interleukin (IL)-1. However, advanced lesion formation (such as lipid-rich plaque) was found in mice with excessive cytokine stimulation and cholesterol overloading such as in mice fed an atherogenic diet or apoprotein E (apo E) knockout mice. Inflammatory mark- ers are strong predictors of cardiovascular disease (CVD) in humans. In addition, the autoantibody titers against
+
+Address for correspondence: Fumitaka Ohsuzu, The First Depart- ment of Medicine, National Defense Medical College, 3–2 Namiki, Tokorozawa, Saitama 359–0042, Japan.
+E-mail: ohsuzu@me.ndmc.ac.jp Received March 19, 2004.
+Accepted for publication July 29, 2004.
+ 
+epitopes of oxidized LDL and heat shock protein have been shown to increase in CVD patients, and the pres- ence of antigen-specific T cells and immunoglobulins in lesions also indicates that immune mechanisms may thus be relevant to humans as well (2). The association be- tween the total white blood cell (WBC) count and the risk of coronary heart disease is well known (3). After adjust- ing for smoking and other coronary risk factors, patients with elevated WBC counts have been shown to have an increased risk of death from coronary heart disease. A multiple regression analysis showed that age, body mass index (BMI), triglyceride (TG), high density lipoprotein cholesterol (HDLc), and the Community Periodontal In- dex of Treatment Needs significantly correlated with the white blood cell (WBC) counts in a smoking group (3). In addition, the plasma osteopontin (OPN) levels have been shown to be associated with the presence and extent of coronary artery disease. Compared with patients with- out CAD, patients with CAD had higher OPN levels and a stepwise increase in the OPN levels was found depend- ing on the number of > 50% stenotic coronary vessels
+(4). The OPN levels demonstrated a significant associa- tion with CAD independent of any traditional risk factors. The plasma OPN levels in patients with CAD were thus
+ 
+314	Ohsuzu
+
+ 
+suggested to reflect the extent of coronary atheroscle- rosis and OPN might thus play a role in the plaque for- mation of coronary arteries (4). These results suggest that atherosclerosis in humans might be a specific form of the chronic inflammatory process resulting from the in- teractions between plasma lipoproteins, cellular compo- nents (macrophages, T lymphocytes, endothelial cells and smooth muscle cells) and the extracellular matrix of the arterial wall (5). The purpose of this article is to review the recent progress regarding the roles of cytokines, in- flammation and immunity during the development of ath- erosclerosis.
+ 
+Experimental Studies Cytokines and inflammation
+Interleukin-1
+Neointimal hyperplasia is characterized by smooth muscle cell (SMC) activation, migration and proliferation and it is associated with inflammatory mediators such as cytokines (Table 1, Fig. 1). A recent study showed that vascular intima formation after mechanical injury was found to consist mainly of inflammation-associated cells which originated from bone marrow (6). IL-1 is a
+ 
+
+Table 1. Possible proatherogenic effects of the cytokine-targeted-gene manipulated mouse.
+Animal Model	Method	Effects	Possible mechanisms
+IL-1 KO10)	Apoe-/-	Atheroscleroasis 	VCAM-1 , MCP-1 
+IL-1RI KO9)	CCA ligation	Neointima 	E-selectin , VCAM-1 ,
+T cell remain unactivated
+IL-1Ra KO12)	Cuff	Neointima 	PCNA index 
+IL-1Ra KO13)	Apoe-/-	Atherosclerosis 
+Plaque vulnerability 	MCP-1 , adhesion molecule 
+Recombinant IL-18 administration15)	Apoe-/-	Atherosclerosis 	Release of IFN-
+OPN TG20)	Cuff	Neointima 
+Media 	MMP-2 , MMP-9 ,
+NF-B-mediated induction of membrane type 1 MMP-1
+OPN TG21)	Atherogenic diet	Atherosclerosis 	IL-10 production  IL-12 production  IFN- 
+KO: knock out, OPN: osteopontin, TG: transgenic, CCA ligation: unilateral common carotid artery ligation
+
+Fig. 1. Model of IL-1 and toll-like receptors, and related cytokines for signaling in mediating NF-B activation in endothelial cells (modified from the Figure 7 published in the following article: Fan J, Frey RS, and Malik AB: TLR4 signaling induces TLR2 expres- sion in endothelial cells via neutrophil NADPH oxidase. J Clin Invest, 112: 1234–1243, 2003)
+IL-1, IL-1R, IL-1Ra, IL-18, IL-18R, IL-18RAcP, TLR-2, TLR-4, and CD14 mediating or blocking signal through NF-B activation.
+IL-1Ra, IL-1 receptor antagonist; IL-18RacP, IL-18 receptor accessory protein; LPS, lipopolysaccharide; LBP, lipopolysaccharide binding protein; MYD88, myeloid differentiation primary response gene 88; TLR, toll-like receptor; NF-B, nuclear factor-B; Traf- 6, TNF receptor-associated factor 6; IRAK, IL-1 receptor-associated kinase; MAPK, mitogen activated protein kinase; ICAM1, intracellular adhesion molecule-1; VCAM1, vascular cell adhesion molecule-1
+Reproduced and modified with permission from J Clin Invest.
+ 
+Cytokine and Atherosclerosis
+ 
+315
+ 
+
+ 
+chemoattractant and mitogen for SMCs that is overexpressed at sites of active proliferation and migra- tion of this cell type as a result of injury (7, 8). It was previously demonstrated that IL-1 type I receptor gene- deficient mice tend to develop less neointima than wild- type mice, and this observation was attributed to a di- minished shear stress (9). In addition, the lack of IL-1 caused a decrease in the severity of atherosclerosis in apoE-deficient mice (10). Therefore, IL-1 was thus sug- gested to promote neointimal formation. IL-1 is a proinflammatory cytokine which is thought to play an important role in inflammation and atherosclerosis (7, 11).
+
+Interleukin-1 receptor antagonist
+The activity of IL-1 is counterregulated by its endog- enous inhibitor IL-1 receptor antagonist (IL-1Ra) (Fig. 1). IL-1Ra may attenuate the biological function of IL-1 in the vascular wall after mechanical insult (8). The absence of IL-1Ra promotes neointimal formation in mice after femoral artery balloon injury which is induced using an external vascular cuff model (12). Differences in the inti- mal thickening between IL-1Ra+/+ and IL-1Ra-/- mice were observed despite a comparable expression pattern of IL- 1 in the arterial wall and similar serum levels of cytokines. These results suggest that IL-1Ra protein prevents in- flammation in both the intima and adventitia after cuff injury, whereas, endogenous IL-1Ra may suppress other occlusive vascular responses to injury, such as athero- sclerosis and restenosis (12). The contribution of IL-1Ra to the development of atherosclerosis was investigated using mice deficient for IL-1Ra and apoE. IL-1Ra not only reduces the formation of atherosclerotic lesions but fur- thermore modulates the plaque composition (13).
+ 
+Interleukin 18
+The exogenous expression of murine IL-18 (Fig. 1) bind- ing protein (the endogenous inhibitor of IL-18) reduced atherosclerotic lesion development in apo E-/- mice (14). IL-18 administration did not affect either the serum cho- lesterol concentrations or lipoprotein-cholesterol distri- bution (15). The exogenous IL-18 administration in- creased the lesion size 2-fold in both the ascending aorta and the aortic arch in apo E-/- mice (15). Exogenous IL- 18 promoted a 4-fold increase in the number of lesion- associated T lymphocytes and cells expressing major histocompatability complex II. IL-18 promotes the inflam- matory responses through the release of IFN- (Fig. 2)
+(15). These results thus suggest that IL-18 might be a proatherogenic cytokine.
+
+Osteopontin
+OPN possesses the tripeptide sequence Arg-Gly-Asp like other extracellular matrix proteins and serum pro- teins such as fibronectin, vitronectin, and collagen. The OPN functions as a cell adhesion and migration molecule that can bind to several ligands including v3 integrin, CD44, and fibronectin. A wide range of cell types includ- ing some epithelia, macrophages, T cells, and vascular SMCs express OPN in a constitutive or inducible fashion (Fig. 2). OPN has recently emerged as a key factor in the development of atherosclerosis (16, 17). The biological function of OPN and whether or not it plays a significant role in lesion development remains to be elucidated. OPN expression was reported to be closely related to arterial SMC proliferation both in vitro and in vivo (18, 19). An OPN overexpression was associated with a significant increase in medial thickening with aging in vivo and in
+ 
+
+
+ 
+Fig. 2. Pathway of innate immunity to acquired immunity through cytokines.
+Macrophages, a central mediator of cellular innate and adaptive immunity, are essential in lesion initiation and progression in atherosclerosis. Dendritic cells and macrophages can activate T cells. Dendritic cells and macrophages are important in adaptive immunity in their capacity to ingest pathogens and present antigens to initiate adaptive immune responses.
+TLR: toll-like receptor; > induction; - -> inhibition, NK cells: Natural Killer cells
+ 
+316	Ohsuzu
+
+ 
+intimal thickening using OPN transgenic mice after arte- rial injury (20). These results suggest that OPN plays an important role in the pathological processes associated with arterial SMC proliferation, such as atherosclerosis and restenosis. The contribution that OPN makes to ath- erosclerosis was investigated by evaluating aortic sinus lesions in both OPN transgenic (Tg) and non-Tg mice fed an atherogenic diet for 16 weeks. The atheroscle- rotic lesions were found to be significantly larger in OPN- Tg than those in non-Tg. The lesions in both mice were fatty-streak lesions with an accumulation of mononuclear cells and lipids (21).
+
+Osteopontin and interleukin-10
+The production of IL-10 by macrophages from both OPN transgenic (Tg) and non-Tg mice was investigated. Com- pared with the non-Tg mice, a 73% and 42% decrease in the IL-10 production was identified in the OPN-Tg mice either with or without lipopolysaccharide (LPS) (21). The expression of OPN has been shown to induce fatty-streak lesion formation in mice fed an atherogenic diet and in- hibits IL-10 production by macrophages (21). These re- sults are compatible with the results of a previous study, in which OPN suppressed the LPS-dependent IL-10 re- sponse of peritoneal macrophages (22). The decrease in IL-10 is thus considered to contribute to the develop- ment of fatty-streak lesions. Indeed, previous studies showed that an IL-10 overexpression can inhibit fatty- streak formation in mice fed an atherogenic diet (23, 24), and that IL-10 can induce endothelial cells to inhibit oxi- dized phospholipids-induced monocyte-endothelial in- teractions in vitro (23).
+Infection and inflammation
+Immunity and persistence of inflammation
+There are many traditional risk factors such as hyperecholesterolemia, smoking, male gender, hyperten- sion, diabetes and age. However, newly defined non-tra- ditional risk factors are now emerging as possibly equally important. Among these, it is now apparent that the im- mune system, when considered in the broadest context, is one of the dominant factors, aside from cholesterol, modulating atherogenesis (2). OPN has recently been classified as a T-helper 1 cytokine because of its ability to enhance interferon- and IL-12 production and to di- minish IL-10 (22). The strong influence toward a T-helper- 1 phenotype has previously been demonstrated in an atherosclerotic model (25, 26), and therefore, it is sug- gested that these factors may cause an increase of fatty- streak lesions in OPN-Tg mice (21).
+
+Toll-like receptor
+There is now much evidence that both innate and adap- tive immune mechanisms are involved in atherogenesis, as might be anticipated for disease that is a chronic in-
+ 
+flammatory process (2). Toll-like receptor (TLR) 4 and TLR2 do not merely sense the specific ligands individu- ally but rather work in concert to protect the host from infection (27). P38 mitogen-activated protein kinase (MAPK)-extracellular signal-regulated protein kinase (ERK) kinase kinase was reported to be an essential sig- nal transducer of the Myd88–IL-1R–associated protein kinase (IRAK)–tumor necrosis factor receptor-associated factor 6 (TRAF6) complex in IL-1R–TLR4 signaling (28). ERK kinase kinase (MEKK3) plays a crucial role in the IL- 1- and LPS-induced activation of NK-B and c-Jun N- terminal kinase–p38 but not ERK, thus indicating that MAPKs were differentially activated during IL-1R–TLR4 signaling (28).
+
+Crosstalk between Toll-like receptor family
+LPS induced TLR2 upregulation through TLR4- and MyD88-dependent signaling (Fig. 1) (29). In mouse mac- rophages, TLR4 mRNA was reported to be constitutively expressed and such expression stayed at a constant level after stimulation with LPS or pro-inflammatory cytokines
+(30). On the other hand, TLR2 mRNA was expressed at low levels in the absence of stimulation but rose to high levels when the cells were stimulated with either LPS or pro-inflammatory cytokines. Such LPS-mediated TLR2 mRNA induction was then terminated by the blockade from NF-B activation, thus suggesting that the NF-B pathway plays an essential role in this process. The pres- ence of receptor cross talk between the members of the TLR family has been reported (29). TLR2 expression by endothelia is locally upregulated by the action of acti- vated polymorphonuclear neutrophils via an unprec- edented mechanism involving cell-cell interaction and NAD(P)H oxidase (29).
+The stimulation of antigen-presenting cells with LPS has been reported to induce IL-10 release, which is then fur- ther increased by the presence of damaged cells (Fig. 2)
+(31). IL-10 is a potent stimulator of NK cells, a function that might contribute to the clearance of the pathogen and facilitate antigen acquisition from dead cells for cross-priming by activating antigen-presenting cells, thus providing a link between the innate and the adaptive im- mune responses (31).
+Inflammation and atherogenesis
+The chief risk factors for atherogenesis, such as dyslipidemia and diabetes as well as the insulin resis- tance associated with obesity, also contribute to inflam- matory conditions through complex mechanisms, includ- ing enhanced lipid peroxidation, glycoxidation and an increased secretion of pro-inflammatory cytokines, among other effects (2). Atherosclerosis (including that in CAD) has been reported to be associated not only with local inflammation in the arterial walls but also with the systemic inflammatory response (32, 33). The macroph-
+ 
+Cytokine and Atherosclerosis
+ 
+317
+ 
+
+ 
+age innate immunity signaling pathways normally acti- vated by pathogens were also reported to be activated in response to hyperlipidemia (34). Atherosclerotic lesion developments in uninfected, hyperlipidemic mice lack- ing an expression of either CD14 or Myd88, which trans- duces cell signaling events downstream of the Toll-like receptors, as well as receptors for IL-1 and IL-18, were examined (34). Although mice deficient in CD14 had no decrease in early lesion development, the Myd88-defi- cient mice revealed a marked reduction in atherosclero- sis. Diminished atherosclerosis in the absence of Myd88 is associated with a marked reduction in the number of macrophages in the artery wall. These findings link el- evated serum lipid levels to a proinflammatory signaling cascade that is also engaged by microbial pathogens
+(34). Inflammation therefore appears to mediate all stages of this disease from initiation through progression, and, ultimately, the thrombotic complications of atheroscle- rosis (35).
+C-reactive protein
+Low-grade chronic inflammation, as indicated by the inflammatory marker C-reactive protein (CRP) levels, pro- spectively defines the risk of atherosclerotic complica- tions (35). Human CRP transgene expression caused an acceleration of aortic atherosclerosis in apo E-/- mice. CRP was detected in the lesion, which was then associated with an increased C3 deposition, along with increases in angiotensin type 1 receptor, vascular cell adhesion mol- ecule-1, and collagen expression (36).
+
+Human Studies
+Interleukin-1 receptor antagonist, interleukin 18, osteopontin and interleukin-10
+Unlike markers of necrosis, an increased IL-1Ra level occurring early in patients with acute myocardial infarc- tion, is more significant in those with prodromal angina occurring in the previous seven days and with symptom onset  3 h, and such an increase precedes the release of necrosis markers (37). IL-18 (mRNA and protein) was expressed in human carotid atherosclerotic plaque re- trieved during an endarterectomy (38). Patients with el- evated IL-10 levels ( > 3.5 pg/ml) were at a significantly lower risk for the occurrence of death or nonfatal myo- cardial infarction at 6 months of follow-up in patients with acute coronary syndrome (39). Elevated IL-10 serum lev- els are thus associated with a more favorable prognosis in patients with acute coronary syndrome and elevated CRP levels (39).
+Infection and inflammation
+Helicobacter pylori infection
+Helicobacter pylori (H pylori) infection is associated with a variety of clinical outcomes including gastric cancer
+ 
+and duodenal ulcer disease, but the reason for this varia- tion is not clear. IL-1 gene cluster polymorphisms sus- pected of enhancing the production of IL-1 are associ- ated with an increased risk of both hypochlorhydria in- duced by H pylori and gastric cancer (40). The associa- tion with disease may be explained by the biological prop- erties of IL-1, which include an important pro-inflam- matory cytokine and a powerful inhibitor of gastric acid secretion (40). The host genetic factors that affect IL-1 may determine why some individuals infected with H pylori develop gastric cancer while others do not (40).
+
+Chlamydia pneumoniae infection
+A significant correlation between the prevalence and severity of atherosclerosis in carotid and femoral arter- ies and IgA antibodies to Chlamydia pneumoniae (CP) has been demonstrated (41). For anti-H pylori IgG anti- bodies, the significant correlations to vascular disease are generally restricted to a low social status and lesions in the carotid arteries. In this prospective analysis, CP seropositivity emerged as a significant risk predictor. An- tibody titers against cytomegalovirus were not a marker for the prevalence or incidence of atherosclerosis in this population. Serum antibodies to myocardial heat-shock protein 65 correlated with seropositivity to CP and H pylori but not to cytomegalovirus. The potential atherogenic role of persistent bacterial infection, especially CP, was indi- cated by both serological and clinical data (41).
+
+Pro-inflammatory haplotype
+CP immunoglobulin (IgG) seropositivity and IL-1 (a C/ T transition at – 511) and IL-1 Ra (a variable-number re- peat in intron 2) gene polymorphisms were evaluated in patients undergoing coronary angiography (42). The per- centage of patients having an IL-1 (– 511) C/C geno- type and/or an IL-1 Ra (intron 2) 2- or 3-repeat allele was higher in patients with CAD than in those without CAD. To clarify the effects of these CAD-associated variants (IL-1 C/C and/or IL-1Ra 2- or 3- repeat), the patients were divided into four groups. The odds ratios for CAD were 1.4 in the group with seropositivity alone, 1.7 with the variants alone and 3.8 with seropositivity and the vari- ants. A high prevalence of the myocardial infarction was confined to the group with seropositivity and the vari- ants (OR, 2.8). Individuals may vary in their inflammatory response to CP infection, and only certain individuals may be susceptible to the atherogenic effects of CP infec- tion, thus leading to the development of CAD (42). Such disease-modifying gene polymorphisms may determine the pattern of CAD. The IL-1Ra 2-repeat allele was re- ported to be associated with an enhanced IL-1 produc- tion (43) (Fig. 1). Although this polymorphism is a marker of genetic susceptibility to ulcerative colitis, it was re- ported to determine the course and severity of diseases such as ulcerative colitis, alopecia and diabetic nephr-
+ 
+318	Ohsuzu
+
+ 
+opathy (44–46). It is possible that IL-1 variants (IL-1 C/ C and/or IL-1Ra 2- or 3- repeat) modify the process of CAD associated with CP infection, thereby leading to the development of myocardial infarction (42). The presence of susceptibility loci in the IL-1 gene cluster for gastric cancer and its precursor have been reported (40). The effects of these loci influence the early stage of the dis- ease process and require the presence of an H pylori infection (40). Progression towards cancer is probably influenced by other components of the host genetic con- stitution acting epistatically, as well as by dietary and other factors in the environment. IL-1 - 31T/IL-1RN*2 constitutes a pro-inflammatory haplotype that demon- strates a strong linkage disequilibrium, at least in the Caucasian population (40). It is speculated that such link- age disequilibrium reflects past selective pressure for or against enhancement of the IL-1 response to environ- mental challenges (40). However, pro-inflammatory geno- types may be advantageous for the host response to some infections, the vigorous IL-1 production associ- ated with H pylori infection may exacerbate mucosal or endothelial damage and increase the risk of eventual neoplasia or atherosclerosis (40).
+Toll-like receptor and Crosstalk between Toll-like receptor family
+Evidence suggests that TLRs (Fig. 1) (30) are involved in human atherosclerosis (47, 48). Regarding the role of TLR4 and TLR2 in the pathogenesis of atherosclerosis, TLR4 and TLR2 have been reported to be expressed on macrophages invading atherosclerotic plaques and their immunoreactivities were co-localized with the nuclear translocation of NF-B, a marker of activation of this path- way in human atherosclerotic plaques, thus suggesting that TLR4 and TLR2 could play an important role in the macrophage activation of such plaques (47). Inflamma- tion via TLR4 resulted in the enhanced expression of TLR2 (49, 50). The TLR2 levels have been reported to increase in unstable angina patients (51).
+CRP
+More recently, CRP has not only been shown to be a marker, but also a potential participant in the pathogen- esis of cardiovascular disease (52). IFN- did not induce any tissue factor but synergized with CRP to approxi- mately double its activity (53). The synergy between CRP and inflammatory mediators may play a direct prothrombotic role in the pathogenesis of coronary ath- erosclerosis and its acute complications by increasing the amount of monocyte/macrophage tissue factor (53). CRP in vivo has been reported to play a proatherogenic role (36). However, the mechanism by which infections are involved in vascular disease remains to be elucidated. Increased blood viscosity, hypercoagulability, and alter- ations of the serum lipid profile are some of the postu-
+ 
+lated mechanisms that have so far been hypothesized (54).
+Treatment of inflammation with statins
+Moreover, certain treatments that reduce coronary risk also limit inflammation. Statins possess an anti-inflammatory property in addition to their lipid lowering effects (55). Mevalonate, which is the product of HMG-CoA reduc- tase, is not only the precursor of cholesterol, but also the precursor of many nonsteroidal isoprenoid com- pounds. Therefore, the inhibition of HMG-CoA reductase by statins may produce a pleotropic effect (56). In the case of lipid lowering with statins, this anti-inflammatory effect does not appear to correlate with a reduction in low-density lipoprotein levels (35). The recently identi- fied inhibitory effects of statins on monocyte-endothelial interaction suggest their effect on inflammation (57). Pa- tients with rheumatoid arthritis (RA) are at greater risk of developing coronary heart disease than those without RA (58). In an 8-year follow-up of RA patients, almost a 4-fold higher incidence of cardiovascular events relative to a community-dwelling cohort was noted (59). How- ever, this risk ratio was only slightly reduced after ad- justing for conventional risk factors. These clinical epi- demiological observations strongly suggest that mecha- nisms other than classic risk factors promote an accel- erated atherogenesis in RA (60). There is a major interest in determining whether the established therapies for CHD risk reduction, such as statins or ACE inhibitors, offer either a similar or conceivably greater protection for RA patients (60). These drugs may provide multiple benefi- cial “pleiotropic” effects and could therefore favorably affect several sites (60). The anti-inflammatory proper- ties of statins may offer particular adnvantages to RA patients (60). For example, statins inhibit the interferon-
+-inducible macrophage major histocompatibility class II expression via class II transactivator suppression, ac- tivate peroxisome proliferators-activated receptor- via inhibition of Rho-dependent pathways, and dampen fac- tor-B activity and may modulate T-cell costimulation through the direct effects on the leukocyte function-as- sociated antigen-1/ICAM-1 interactions (61). These prop- erties indicate that statins might modulate the functional maturation of T lymphocytes (60). The type of immune response by statins may depend on the ability of statins to induce the release of the Th2-promoting cytokines (IL- 4, IL-5, IL-10, or TGF-), and diminish the secretion of the Th1 subtype (IL-2, IL-12, or IFN-) (62). The Th2 cytokines IL-4 and IL-10 have antiatherogenic proper- ties, and their overexpression protects against athero- sclerosis (63). However, the hypothesis that statins exert anti-inflammatory properties independent of their LDL- lowering functions remains unproven (64).
+ 
+Cytokine and Atherosclerosis
+ 
+319
+ 
+
+ 
+Conclusion
+Recent findings regarding the roles of pro-inflamma- tory and anti-inflammatory cytokines, infections, inflam- mation and immunity (including toll-like receptors) dur- ing the development of atherosclerosis were reviewed by using the data from both experimental and human studies. Although the hypothesis that hyperlipidemia is central to the process of atherosclerosis has been vali- dated by numerous data, great attention was also di- rected to the new hypothesis that atherosclerosis might be a specific form of the chronic inflammatory process. Statins might reduce coronary risk by their multiple pleio- tropic effects in addition to their lipid-lowering effects. Further studies are therefore necessary to clarify the roles of infection, cytokines, immunity and inflammation re- garding hyperlipidemia during the development of ath- erosclerosis
+
+Acknowledgments: The author wishes to acknowledge the essential contributions of Drs. Masatoshi Kusuhara, Yukihiko Momiyama, Kohji Miyazaki, Kikuo Isoda, Reiko Ohmori, and Kazuhiro Ashida, all of the National Defense Medical College.
+
+References
+( 1 ) Ridker PM: On evolutionary biology, inflammation, infection, and the cause of atherosclerosis. Circu- lation, 105: 2–4, 2002
+( 2 ) Binder CJ, Chang M-K, Shaw PX, Miller YI, Hartvigsen K, Dewan A, and Witztum JL: Innate and acquired immunity in atherogenesis, Nat Med, 8: 1218–1225, 2002
+( 3 ) Hasegawa T, Negishi T, and Deguchi M: WBC count, atherosclerosis and coronary risk factors. J Atheroscler Thromb, 9: 219–223, 2002
+( 4 ) Ohmori R, Momiyama Y, Taniguchi H, Takahashi R, Kusuhara M, Nakamura H, and Ohsuzu F: Plasma osteopontin levels are associated with the presence and extent of coronary artery disease. Atheroscle- rosis, 170: 333–337, 2003
+( 5 ) Fan J and Watanabe T: Inflammatory reactions in the pathogenesis of atherosclerosis. J Atheroscler Thromb, 10: 63–71, 2003
+( 6 ) Sata M, Saiura A, Kunisato A, Tojo A, Okada S, Tokuhisa T, Hirai H, Makuuchi M, Hirata Y, and Nagai R: Hematopoietic stem cells differentiate into vascular cells that participate in the pathogenesis of atherosclerosis. Nat Med, 8: 403–409, 2002
+( 7 ) Dinarello CA: Biologic basis for interleukin-1 in dis- ease. Blood, 87: 2095–2147, 1996
+( 8 ) Wang X, Romanic AM, Yue TL, Feuerstein GL, and Ohlstein EH: Expression of interleukin-1beta, interleukin-1 receptor, and interleukin-1 receptor
+ 
+antagonist mRNA in rat carotid artery after balloon angioplasty. Biochem Biophys Res Commun, 271: 138–143, 2000
+( 9 ) Rectenwald JE, Moldawer LL, Huber TS, Seeger JM, and Ozaki CK: Direct evidence for cytokine involve- ment in neointimal hyperplasia. Circulation, 102: 1697–1702, 2000
+(10)	Kirii H, Niwa T, Yamada Y, Wada H, Saito K, Iwakura Y, Asano M, Moriwaki H, and Seishima M: Lack of interleukin-1 decreases the severity of atheroscle- rosis in ApoE-deficient mice. Arterioscler Thromb Vasc Biol, 23: 656–660, 2003
+(11)	Loppnow H, Werdan K, Reuter G, and Flad HD: The interleukin-1 and interleukin-1 converting enzyme families in the cardiovascular system. Eur Cytokine Netw, 9: 675–680, 1998
+(12)	Isoda K, Shiigai M, Ishigami N, Matsuki T, Horai R, Nishikawa K, Kusuhara M, Nishida Y, Iwakura Y, and Ohsuzu F: Deficiency of interleukin-1 receptor antagonist promotes neointimal formation after in- jury. Circulation, 108: 516–518, 2003
+(13)	Isoda K, Sawada S, Ishigami N, Matsuki T, Miyazaki K, Kusuhara M, Iwakura Y, and Ohsuzu F: Lack of interleukin-1 receptor antagonist modulates plaque composition in apolipoprotein E-deficient mice.
+Arterioscler Thromb Vasc Biol, 24: 1068–1073, 2004
+(14)		Mallat Z, Corbaz A, Scoazec A, Graber P, Alouani S, Esposito B, Humbert Y, Chvatchko Y, and Tedgui A: Interleukin-18/ interleukin-18 binding protein sig- naling modulates atherosclerotic lesion develop- ment and stability. Circ Res, 89: e41–e45, 2001
+(15)	Whitman SC, Ravisankar P, and Daugherty A: Interleukin-18 enhances atherosclerosis in Apolipoprotein E-/- mice through release of inter- feron-, Circ Res, 90: e34–e38, 2002
+(16)	Ikeda T, Shirasawa T, Esaki Y, Yoshiki S, and Hirokawa K: Osteopontin mRNA is expressed by smooth muscle-derived foam cells in human ath- erosclerotic lesions of the aorta. J Clin Invest, 92: 2814–2820, 1993
+(17)	Giachelli CM, Base N, Almeida MM, Denhardt DT, Alpers CE, and Schwartz SM: Osteopontin is el- evated during neointima formation in rat arteries and is a novel component of human atherosclerotic plaques. J Clin Invest, 92: 1686–1696, 1993
+(18)	Giachelli C, Bae N, Lombardi D, Majesky M, and Schwartz S: Molecular cloning and characterization of 2B7, a rat mRNA which distinguishes smooth muscle cell phenotypes in vitro and is identical to osteopontin (secreted phosphoprotein I, 2aR). Biochem Biophys Res Commun, 177: 867–873,
+1991
+(19)	Gadeau AP, Campan M, Millet D, Candresse T, and Desgranges C: Osteopontin overexpression is as- sociated with arterial smooth muscle cell prolifera-
+ 
+320	Ohsuzu
+
+ 
+tion in vitro. Arterioscler Thromb, 13: 120–125, 1993
+(20)	Isoda K, Nishikawa K, Kamezawa Y, Yoshida M, Kusuhara M, Moroi M, Tada N, and Ohsuzu F: Osteopontine plays an important role in the devel- opment of medial thickening and neointimal forma- tion. Circ Res, 91: 77–82, 2002
+(21)	Isoda K, Kamezawa Y, Ayaori M, Kusuhara M, Tada N, and Ohsuzu F: Osteopontin transgenic mice fed a high-cholesterol diet develop fatty-streak lesions.
+Circulation, 107: 679–681, 2003
+(22)	Ashkar S, Weber GF, Panoutsakopoulou V, Sanchirico ME, Jansson M, Zawaideh S, Rittling SR, Denhardt DT, Glimcher MJ, and Cantor H: Eta-1 (osteopontin): an early component of type-1 (cell- mediated) immunity. Science, 287: 860–864, 2000
+(23)	Mallat Z, Besnard S, Duriez M, Deleuze V, Emanuel F, Dureau MF, Soubrier F, Esposito B, Duez H, Fievet C, Staels B, Duverger N, Scherman D, and Tedgui A: Protective role of interleukin-10 in ath- erosclerosis. Circ Res, 85: e17–e24, 1999
+(24)	Pinderski Oslund LJ, Hedrick CC, Olvera T, Hagenbaugh A, Territo M, Berliner JA, and Fyfe AI: Interleukin-10 blocks atherosclerotic events in vitro and in vivo. Atheroscler Thomb Vasc Biol, 19: 2847– 2853, 1999
+(25)	Zhou X, Paulsson G, Stemme S, and Hansson GK: Hypercholesterolemia is associated with a T helper (Th) 1/Th2 switch of the autoimmune response in atherosclerotic apo E-knockout mice. J Clin Invest 101: 1717–1725, 1998
+(26)	Frostegard J, Ulfgren AK, Nyberg P, Hedin U, Swedenborg J, Andersson U, and Hansson GK: Cytokine expression in advanced human athero- sclerotic plaques: dominance of proinflammatory (Th1) and macrophage-stimulating cytokines. Ath- erosclerosis 145: 33–43, 1999
+(27)	Latz E, and Golenbock DT: Receptor “cross talk” in innate immunity. J Clin Invest, 112: 1136–1137, 2003
+(28)	Huang Q, Yang J, Lin Y, Walker C, Cheng J, Liu ZG, and Su B: Differential regulation of interleukin 1 receptor and toll-like receptor signaling by MEKK3. Nat Immunol, 5: 98–103, 2004
+(29)	Fan J, Frey RS, and Malik AB: TLR4 signaling in- duces TLR2 expression in endothelial cells via neu- trophil NADPH oxidase. J Clin Invest, 112: 1234– 1243, 2003
+(30)	Matsuguchi T, Musikacharoen T, Ogawa T, and Yasunobu Y: Gene expression of Toll-like receptor 2, but not Toll-like receptor 4, is induced by LPS and inflammatory cytokines in mouse macrophages.
+J Immunol, 165: 5767–5772, 2000
+(31)	Mocellin S, Panelli MC, Wang E, Nagorsen D, and Marincola M: The dual role of IL-10, Trends Immunol, 24: 36–43, 2003
+ 
+(32)	Ross R: Atherosclerosis: an inflammatory disease.
+N Engl J Med, 340: 115–126, 1999
+(33)	Shah PK: Circulatory markers of inflammation for vascular risk prediction; are they ready for prime time. Circulation, 105: 1758–1759, 2000
+(34)	Bjorkbacka H, Kunjathoor VV, Moore KJ, Koehn S, Ordija CM, Lee MA, Means T, Halmen K, Luster AD, Golenbock DT, and Freeman MW: Reduced ath- erosclerosis in Myd88-null mice links elevated se- rum cholesterol levels to activation of innate immu- nity signaling pathways. Nat Med, 10: 416–421, 2004
+(35)	Libby P, Ridker PM, and Maseri A: Inflammation and atherosclerosis. Circulation, 105: 1135–1143, 2002
+(36)	Paul A, Ko K W, Li L, Yechoor V, McCrory MA, Szalai AJ, and Chan L: C-reactive protein accelerates the progression of atherosclerosis in apolipoprotein E- deficient mice. Circulation, 109: 647–655, 2004
+(37)	Patti G, D’Ambrosio A, Mega S, Giorgi G, Zardi EM, Zardi DM, Dicuonzo G, Dobrina A, and Sciascio GD: Early interleukin-1 receptor antagonist elevation in patients with acute myocardial infarction. J Am Coll Cardiol, 43: 35–38, 2004
+(38)	Mallat Z, Corbaz A, Scoazec A, Besnard S, Leseche G, Chvatchko Y, and Tedgui A: Expression of interleukin-18 in human atherosclerotic plaques and relation to plaque instability. Circulation, 104: 1598– 1603, 2001
+(39)	Heeschen C, Dimmeler S, Hamm CW, Frichtlscherer S, Boersma E, Simooons ML, Zeiher AM and for the CAPTURE Study Investigators: Serum level of the anti-inflammatory cytokine interleukin-10 is an important prognostic determinant in patients with acute coronary syndromes. Circulation, 107: 2109–
+2114, 2003
+(40)	El-Omar EM, Carrington M, Chow W-H, McColl KEL, Bream JH, Young HA, Herrera J, Lissowska J, Yuan C-C, Rothman N, Lanyon G, Martin M, Fraumeni JFJr, and Rabkin CS: Interleukin-1 polymorphisms associated with increased risk of gastric cancer.
+Nature, 404: 398–402, 2000
+(41)	Mayr M, Kiechl S, Willeit J, Wick G and Xu Q: Infec- tion, immunity and atherosclerosis. Associations of antibodies to Chlamydia pneumoniae, Helicobacter pylori and Cytomegalovirus with immune reactions to heat-shock protein 60 and carotid or femoral ath- erosclerosis. Circulation, 102: 833–839, 2000
+(42)	Momiyama Y, Hirano R, Taniguchi H, Nakamura H, and Ohsuzu F: Effects of interleukin-1 gene poly- morphisms on the development of coronary artery disease associated with Chlamydia pneumoniae infection. J Am Coll Cardiol, 38: 712–717, 2001
+(43)	Danis VA, Millington M, Hyland VJ, and Grennan D: Cytokine production by normal human monocytes: inter-subject variation and relationship to an IL-1
+ 
+Cytokine and Atherosclerosis
+ 
+321
+ 
+
+ 
+receptor antagonist (IL-1 Ra) gene polymorphism.
+Clin Exp Immunol, 99: 303–310, 1995
+(44)	Mansfield JC, Holden H, Tarlow JK, Di Giovine FS, McDowell TL, Wilson AG, Holdsworth CD, and Duff GW: Novel genetic association between ulcerative colitis and anti-inflammatory cytokine interleukin-1 receptor antagonist. Gastroenterology, 106: 637–
+642, 1994
+(45)	Blakemore AIF, Cox A, Gonzalez AM, Maskill JK, Hughes ME, Wilson RM, Ward JD, and Duff GW: Interleukin-1 receptor antagonist allele (IL1RN*2) as- sociated with nephropathy in diabetes mellitus. Hum Genet, 97: 369–374, 1996
+(46)	Cork MJ, Tarlow JK, Clay FE, Crane A, Blakemore AI, McDonagh AJ, Messenger AG, and Duff GW: An allele of interleukin-1 receptor antagonist as a genetic severity factor in alopecia areata, J Invest Dermatol, 104: 15S–16S, 1995
+(47)	Edfeldt K, Swedenborg J, Hansson GK, and Yan ZQ: Expression of toll-like receptors in human ath- erosclerotic lesions: a possible pathway for plaque activation. Circulation, 105: 1158–1161, 2002
+(48)	Xu XH, Shap PK, Faure E, Equlis O, Thomas L, Fishbein MC, Luthringer D, Xu XP, Rajavashisth TB, Yano J, Kaul S, and Arditi M: Toll-like receptor-4 is expressed by macrophages in murine and human lipid-rich atherosclerotic plaques and upregulated by oxidized LDL. Circulation, 104: 3103–3108, 2001
+(49)		Faure E, Thomas L, Xu H, Medvedev A, Equils O, and Arditi M: Bacterial lipopolysaccharide and IFN- gamma induce Toll-like receptor 2 and Toll-like re- ceptor 4 expression in human endothelial cells: role of NF-kappa B activation. J Immunol, 166: 2018– 2024, 2001
+(50)	Visintin A, Mazzoni A, Spitzer JA, Wyllie DH, Dower SK, and Segal DM: Regulation of Toll-like recep- tors in human monocytes and dendritic cells. J Immunol, 166: 249–255, 2001
+(51)	Ashida K, Miyazaki K, Takayama E, Tsujimoto H, Ayaori M, Yakushiji T, Iwamoto N, Yonemura A, Isoda K, Mochizuki H, Hiraide H, Kusuhara M, and Ohsuzu F: Characterization of the expression of TLR2 (Toll-like receptor 2) and TLR4 on circulating monocytes in coronary artery disease. J Atheroscler Thromb, 12, 2005 (in press)
+(52)	Kluft C, and De Maat MP: Genetics of c-reactive protein. New possibilities and complications.
+ 
+Atheroscler Thromb Vasc Biol, 23: 1956–1959, 2003
+(53)	Nagatomi A, Freeman SB, Geczy CL: Interferon-É¡ and its lipopolysaccharide potentiate monocyte tis- sue factor induction by C-reactive protein. Relation- ship with age, sex, and hormone replacement treat- ment. Circulation, 101: 1785–1791, 2000
+(54)	Danesh J, Collins R, Peto R: Chronic infections and coronary heart disease: is there a link? Lancet, 350: 430–436, 1997
+(55)	Mach F: Statins as immunomodulators. Transpl Immunol, 9: 197–200, 2002
+(56)	Mach F: Statins as immunomodulatory agents. Cir- culation, 109 suppl II: II15–II17, 2004
+(57)	Yoshida M: Potential role of statins in inflammation and atherosclerosis. J Atheroscler Thromb, 10: 140– 144, 2003
+(58)	Van Doornum S, McColl G, and Wicks IP: Acceler- ated atherosclerosis: an extraarticular feature of rheumatoid arthritis? Arthritis Rheum, 46: 862–873,
+2002
+(59)	del Rincon ID, Williams K, Stern MP, Freeman GL, Escalante A: High incidence of cardiovascular events in a rheumatoid arthritis cohort not explained by traditional cardiac risk factors. Arthritis Rheum, 44: 2737–2745, 2001
+(60)	Sattar N, McCarey DW, Capell H, and McInnes IB: Explaining how “high-grade” systemic inflammation accelerates vascular risk in rheumatoid arthritis. Cir- culation, 108: 2957–2963, 2003
+(61)	Palinski W and Napoli C: Unraveling pleiotropic ef- fects of statins on plaque rupture. Arterioscler Thromb Vasc Biol, 22: 1745–1750, 2002
+(62)	Youssef F, Stuve O, Patarroyo JC, Ruiz PJ, Radosevich JL, Hur EM, Bravo M, Mitchell DJ, Sobel RA, and Steinman L: The HMG-CoA reductase in- hibitor, atorvastatin, promotes a Th2 bias and re- verses paralysis in central nervous system autoim- mune disease. Nature, 420: 78–84, 2002
+(63)	Uyemura K, Demer LL, Castle SCÅAJullien D, Ber- liner JA, Gately MK, Warrier RR, Pham N, Fogelman AM, and Modlin RL: Cross-regulatory roles of interleukin (IL)-12 and IL-10 in atherosclerosis. J Clin Invest, 97: 2130–2138, 1996
+(64)	Schönbeck U, and Libby P: Inflammation, immu- nity, and HMG-CoA reductase inhibitors. Statins as anti-inflammatory agents?, Circulation, 109 suppl II: II18–II26, 2004

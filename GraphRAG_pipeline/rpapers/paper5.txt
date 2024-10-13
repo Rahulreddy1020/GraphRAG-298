@@ -1,0 +1,750 @@
+Acta Biomaterialia 159 (2023) 21–37
+
+ 	 	 
+
+
+Review article
+Targeting active sites of inﬂammation using inherent properties of tissue-resident mast cells
+Shammy Raj, Larry D. Unsworth∗
+Department of Chemical and Materials Engineering, Donadeo Innovation Centre for Engineering, 9211-116 Street NW, University of Alberta, Edmonton, AB, T6G1H9, Canada
+
+
+a r t i c l e	i n f o	a b s t r a c t
+
+ 	 
+ 
+Article history:
+Received 7 September 2022
+Revised 12 December 2022
+Accepted 10 January 2023
+Available online 16 January 2023
+
+Keywords:
+Stimuli-responsive Biomaterials
+Mast cells Enzymes ROS MRGPRX2
+ 
+Mast cells play a pivotal role in initiating and directing host’s immune response. They reside in tissues that primarily interface with the external environment. Activated mast cells respond to environmental cues throughout acute and chronic inﬂammation through releasing immune mediators via rapid degran- ulation, or long-term de novo expression. Mast cell activation results in the rapid release of a variety of unique enzymes and reactive oxygen species. Furthermore, the increased density of mast cell unique receptors like mas related G protein-coupled receptor X2 also characterizes the inﬂamed tissues. The presence of these molecules (either released mediators or surface receptors) are particular to the sites of active inﬂammation, and are a result of mast cell activation. Herein, the molecular design principles for capitalizing on these novel mast cell properties is discussed with the goal of manipulating localized inﬂammation.
+
+Statement of signiﬁcance
+
+Mast cells are immune regulating cells that play a crucial role in both innate and adaptive immune re- sponses. The activation of mast cells causes the release of multiple unique proﬁles of biomolecules, which are speciﬁc to both tissue and disease. These unique characteristics are tightly regulated and afford a localized stimulus for targeting inﬂammatory diseases. Herein, these important mast cell attributes are discussed in the frame of highlighting strategies for the design of bioresponsive functional materials to target regions of inﬂammations.
+© 2023 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+ 
+
+ 
+
+ 
+1.	Introduction
+
+Mast cells are central to the initiation, ampliﬁcation, and reg- ulation of inﬂammation. Mast cell action can be both beneﬁcial and harmful to the host: the protection against pathogenic inva- sions [1,2], or being complicit in allergy and autoimmune diseases, respectively [3–6]. Primarily localized in tissues that contact the external environment, mast cell populations may differ from one tissue to another, and are dynamic in response to environmental cues. The number of mast cells in the tissue drastically increases during inﬂammatory events, as observed in the: (i) airways and lungs of pulmonary vascular diseases (PVD) and asthmatic patients [7,8]; (ii) skin of atopic dermatitis patients [9–13]; (iii) synovial tis- sue of osteoarthritic patients [14]; and (iv) cancerous tissue during metastasis [15,16]. The aberrational surge in the number of mast
+
+∗ Corresponding author.
+E-mail address: lunswort@ualberta.ca (L.D. Unsworth).
+ 
+cells in the inﬂamed tissues, in synergy with the characteristic de- granulation of activated mast cells extend the leverage of targeted immunological therapies through the mast cell released bioactive mediators as localized stimulus.
+Activated mast cells rapidly degranulate to release bioactive molecules from their secretory granules [1,17–19]. Mast cell activa- tion were thought to be orchestrated through the FcɛRI, and other ligand speciﬁc receptors like Toll like Receptors (TLR), KIT receptor, and C5a and C3a complement receptors [20–22]. However, the re- cently identiﬁed mas related G protein-coupled receptor X2 (MRG- PRX2) on mast cells has been shown to initiate mast cell activa- tion against a variety of endogenous and synthetic peptides, and approved drugs [23,24]. Few of the well characterized molecules that are released in the vicinity of inﬂamed tissue by the activated mast cells include: (i) pro-inﬂammatory cytokines (interleukin (IL)
+- 4,5,6,15); (ii) tumor necrosis factor - α; (iii) vascular endothe-
+lial growth factors (VEGFs); (iv) biogenic amines (histamines); (v) tissue remodeling and chemoattractant proteases (tryptase, chy- mase, and carboxypeptidases); and (vi) pathogen neutralizing hy-
+ 
+
+
+https://doi.org/10.1016/j.actbio.2023.01.024
+1742-7061/© 2023 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+ 
+S. Raj and L.D. Unsworth	Acta Biomaterialia 159 (2023) 21–37
+
+ 
+drolases (β-hexosaminidase, (β-hex)) [1,17,25–28]. Intra- and ex- tracellular reactive oxygen species (ROS) are also formed during the acute activation of mast cells [29,30]. Adding to these, chronic mast cell activation concurrently leads to the de novo expression and release of cytokines, chemokines, and largely mast cell spe- ciﬁc enzymes, whilst increasing the density of mast cell receptors like FcɛRI and MRGPRX2 [31–35]. Table 1 lists few of the various molecules that are released upon mast cell activation. Ultimately, the activation of mast cells leads to the release of a plethora of bioactive compounds that are spatiotemporally regulated to spe- ciﬁc inﬂammatory processes, and that are tissue speciﬁc and work together to restore homeostasis. That said, these mast cell unique bioactive molecules that are only available depending on disease state and tissue location, provide unprecedented targets for biore- sponsive materials to modulate inﬂammations.
+The aim of the present review-cum-analysis is to highlight the discriminating mast cell characteristics speciﬁc to an inﬂamed tis- sue that is not present during healthy physiological conditions; and to discuss strategies to harness these differences in the microen- vironment for targeted therapies. We discuss here the increased concentration of mast cell released enzymes during inﬂammation and survey their respective substrates for the express purpose of designing materials for therapeutic application. In addition to the enzymes, activated mast cells also witness elevated levels of intra- and extracellular ROS. Given the fact that ROS production, by mast cell or macrophage, occurs early in the inﬂammatory response, it is possible to target local sites of inﬂammation at the earliest stages. Consequently, the design and development of ROS respon- sive materials have also been discussed. Finally, the increased den- sity of mast cell MRGPRX2 receptor in diseased states have been discussed along with ideas on exploiting this receptor for targeted therapeutic approaches. The physiochemical characteristics of pep- tide ligands for MRGPRX2 is well elucidated, thus, their use as homing peptides to the inﬂamed tissue has been discussed.
+
+2.	Mast cell speciﬁc enzymes as inﬂammatory stimulus
+
+Mast cell activation results in the rapid release of preformed granular enzymes like β-hex, tryptase, and chymase, which have a speciﬁc and well-deﬁned activity against a limited set of substrates (Fig. 1). Chronic activation of mast cells induces the de novo ex- pression and release of metalloproteinase-9 (MMP-9), among other mediators, which digests gelatin and collagen. Herein, these en- zymes and their substrates are discussed in terms of their use in developing bioactive materials to target regions of active inﬂam- mation.
+
+2.1.	Mast cell enzymes released via degranulation
+
+2.1.1.	Enzyme composition, mast cell population and dynamics
+β-hex is a key marker of mast cell activation and is routinely used to study mast cell activation in the presence of any speciﬁc or general agonists [23,36]. Release of β-hex has been shown to be proportional to the concentration of agonist, where minutes af- ter activation 45 – 62% of the 3.8 U of β-hex stored in the secre- tory granules of 106 lung mast cells is released, and ﬁnally plateaus at 86% of the total granulated β-hex [37,39,54]. Furthermore, mast cells can resupply their compliment of bioactive molecules in the granules within a 24 h timeframe and can undergo successive de- granulation, releasing similar amounts of β-hex each time [38].
+Mast cell degranulation also releases preformed tryptase and chymase into the tissue milieu. Though tryptase has also been shown to be expressed by monocytes and basophils, mast cell re-
+lease is the dominant source: monocytes predominantly release in- active α-tryptase, and basophil tryptase is < 1% of that contained
+ 
+in mast cells [40,55]. Mast cells are classiﬁed into two subpopula- tions, viz., (i) MCTC – mast cell containing both tryptase and chy- mase, and (ii) MCT – mast cell predominantly containing tryptase [56]. Further, it has been shown that about 79% of total tryptase contained in human lung MCT cells are released upon the activa- tion [39]. When designing strategies for affecting localized inﬂam- mation through mast cell properties, it is important to recognize that mast cell subpopulations vary with tissue type. For example, MCTC are the dominant mast cell population in skin and intesti- nal submucosa, accounting for 89 and 87% of the total mast cell population respectively; on the contrary, lung and intestinal mu- cosa mast cells are predominantly MCT (∼100%) [41,56]. Moreover, the granular composition of serine enzymes have been shown to vary with tissue type; skin mast cells (106 cells) contain 35 and
+4.5 μg, while lung mast cells (106 cells) contain 10.8 and 0.3 μg of tryptase and chymase, respectively [42]. Differences in the relative composition of mast cell populations and their respective enzyme proﬁles provide a novel design strategy for developing therapeutics that can be locally activated in speciﬁc inﬂamed tissues.
+Mast cell populations are dynamic and vary with disease type and severity. For example, mast cell population transition from predominantly MCT in healthy subjects to MCTC in patients with asthma and pulmonary diseases, and the extent of this change is directly related to disease severity [7,8,43,44,57]. Situations like this provide a unique trigger for targeted release, where the tis- sue has elevated levels of chymase during the time for treating the
+disease. On the contrary, osteoarthritis has an increased population of MCT (77%) cells in the human synovial tissue (81 in patients vs. 24-32 cells/mm2 in controls), compared to controls [14]. Similarly, human scar tissue has a dramatic increase in MCT skin mast cells, increasing to 91% from 11% in a normal skin tissue [41]. This is not always the case though and the mast cell proﬁle for each dis- ease needs to be characterized. Tryptase, for example, though was at an increased level in the bronchoalveolar lavage (BAL) ﬂuid of patients with asthma when compared to the control, the relative level of tryptase did not change with disease severity [57]. These examples illustrate situations where chymase and tryptase levels vary depending on disease location and state, allowing for speciﬁc and local targeting of affected tissues.
+2.1.2.	Substrate considerations for β-hex
+β-hex is a lysosomal enzyme that promotes the hydrolysis of 1,4 glycosidic bonds in glycosaminoglycans [58]. Chitin, a β-1,4 glucoside linked N-acetylglucosamine polysaccharide, a microbial cell wall component, is therefore an ideal substrate for β-hex [59–61]. However, research has shown that β-hex only processes hydrolyzed colloidal and ground chitin (i.e., short chain chitin- oligosaccharides (COS)) [62,63]. The catalytic activity of the en- zyme sequentially removes monomers from the non-reducing end of the chain to furnish monomeric N-acetylglucosamine as the end product (Fig. 2) [62,64,65]. The kinetic parameters for mast cell sourced β-hex against COS has not been detailed, but β-hex de- rived from other sources have shown varying degradation kinetics for COS of 2 to 6 degrees of polymerization (DP). β-hex cloned from bacteria Stenotrophomonas maltophilia and Vibrio harveyi had a Kcat/Km value of 246 and 166 M−1s−1 respectively for DP6 chitin; the Vmax and Km value for Vibrio furnissi β-hex against DP6 chitin was found to be 3.5 mM and 376 μmol-min−1mg−1, respec- tively [62,65,66]. The kinetic values were obtained for a range of pH between 5 to 8, and temperature between 30 to 40 ͦC, mean- ing that this function could be expected in physiological situations with mast cell derived β-hex. Further, the catalytic activity of β- hex is mediated by the 2-acetamide group present in the monomer unit of its substrate, without which the enzymatic activity is inhib- ited (Fig. 2a) [58,64]. Chitin derivatives, like chitosan in its acety- lated form, and hyaluronic acid, thus are commonly engineered
+ 
+
+22
+ 
+Table 1
+Molecules released from mast cell upon activation.
+
+
+Mediator (Type)	Mast Cell Source	Stimulus	Time (min)	Technique used	Reference
+ 
+β-hex (Granular)	Laboratory of Allergic Disease 2 (LAD 2)	Antibody-Antigen (Ab-Ag), compound 48/80,
+Mastoparan, Icatibant, Atracurium, Ciproﬂoxacin
+ 
+30	Colorimetry (hydrolysis of p-nitrophenyl- N-acetyl-β-D- glucosaminide)
+ 
+[23]
+ 
+LAD 2	PAMP-12	30	[36]
+Rat serosal mast cell	Ab-Ag	0	[37]
+Mouse bone marrow-derived mast cells (mBMMC)	Ab-Ag	90	[38]
+Human lung mast cell		Ab-Ag			5			[39] Tryptase (Granular)	HMC-1, human skin mast cell		Solubilized by sonication			NA	ELISA		[40] Human skin mast cell		PAMP-12		120	ddPCR (TPSAB1 expression)	[36]
+Human scar tissue mast cell	NA	NA	Immunostaining	[41]
+ 
+Human foreskin mast cell	Solubilized by sonication	NA	ELISA, colorimetry (hydrolysis of
+tosyl-L-Gly-Pro- Lys-p-nitroanilide)
+Human lung mast cell	Ab-Ag	5	Colorimetry (hydrolysis of tosyl- L-Arg-methyl ester)
+Human lung mast cell	Solubilized by sonication	NA	ELISA, colorimetry (hydrolysis of tosyl-L-Gly-Pro- Lys-p-nitroanilide)
+ 
+[42]
+
+[39]
+
+[7]
+ 
+
+
+Chymase (Granular)
+ 
+Rat heart mast cell	Heart surgery (transverse aortic constriction)	NA	Immunostaining, western blot, ELISA	[26] LAD 2	Covid spike protein	120	ELISA	[27] Human scar tissue mast cell	NA	NA	Immunostaining	[41]
+ 
+Human foreskin mast cell	ELISA, colorimetry (hydrolysis of
+D-Suc-L-Ala-Ala- Pro-Phe-p-nitroanilide)
+ 
+[42]
+ 
+Human lung mast cell (from patients with chronic obstructive pulmonary disease)
+Human lung mast cell (from patients with congenital heart disease)
+Human lung mast Cell (from patients with asthma)
+Human lung mast cell (from patients with Chronic obstructive pulmonary disease)
+ 
+hCMA1 expression	[28]
+
+Immunostaining	[8]
+
+[43]
+
+[44]
+ 
+Rat Heart mast cell	Ovarian hormones	Periodic	Immunostaining, western blot, ELISA	[25] Rat Heart mast cell	Heart surgery (transverse aortic constriction)	NA	ELISA	[26]
+LAD 2	Covid spike protein	120	[27]
+ 
+MMP-9 (De Novo)	HMC-1, human cord blood-derived mast cell
+(CB-HMC)
+ 
+Phorbol ester	360	RT-PCR, zymography	[33]
+ 
+Human skin mast cell	NA	NA	Immunostaining Human lung mast cell (from patients with lung
+cancer)
+Human synovial Membrane mast cell (from patients with rheumatoid arthritis)
+Human synovial Tissue mast cell (from Patient with rheumatoid arthritis)
+HMC-1, CB-HMC	Cytokines (TNF-α, IFN-γ )	240-1440	RT-PCR, zymography
+ 
+Mouse peritoneal cavity Mast cell (Inﬂamed model)
+ 
+NA	NA	RT-PCR, ELISA	[45]
+ 
+mBMMC	Bacterial lipopolysaccharide	1440	Zymography	[46]
+HMC-1	Phorbol ester	1440	RT-qPCR, zymography		[35] (continued on next page)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 1 (continued)
+
+Mediator (Type)	Mast Cell Source	Stimulus	Time (min)	Technique used	
+
+Reference
+ROS (intracellular)	human bone marrow- derived mast cells	Ab-Ag	0	Flow cytometer (DCF-DA)	[47]
+(De Novo)	(hBMMC), rat mast cell from peritoneal lavage				
+	cavity, mBMMC				
+	mBMMC, RBL-2H3	Thapsigargin, Ab-Ag			[30]
+	hBMMC, mBMMC	Ab-Ag		Fluorescence (DCF-DA)	[48]
+	hBMMC, mBMMC			Fluorescence (DCF-DA), ﬂow cytometry	[49]
+				(dihydroethidium (DHE))	
+	RBL-2H3			Fluorescence (DCF-DA), ﬂow cytometry	[50]
+				(DCF-DA)	
+	LAD2, mBMMC			Fluorescence (DCF-DA), ﬂow cytometry	[51]
+				(DCF-DA, DHE)	
+	mBMMC, RBL-2H3	Silver		Flow cytometry (DCF-DA)	[52]
+ROS (extracellular)	RBL-2H3	Glycated albumin	0	Absorbance (Cytochrome C reduction)	[22]
+(De Novo)					
+	mBMMC, RBL-2H3	Thapsigargin, Ab-Ag			[30]
+	RBL-2H3	Galectin-3			[53]
+	RBL-2H3	Epigallocatechin- 3-gallate			[29]
+	mBMMC, RBL-2H3	Silver		Chemiluminescence	[52]
+NA = Not available/applicable.
+ 
+
+ 
+
+Fig. 1. Illustration of the activity of various mass cell released enzymes. Mast cell secretes various enzymes and each exhibit speciﬁc catalytic activity on their substrates. Serine proteases and β-hex are preformed granular components of mast cells and exert their catalytic activities on peptide substrates and chitin oligomers, respectively. MMP-9 is synthesized upon mast cell activation and degrades gelatin and collagen.
+
+
+Fig. 2. a) Substrate assisted mechanism of β-hexosaminidase. The monomers of chitin are removed successively by the hydrolysis of 1,4 glycosidic bond. The enzyme favours the carbonyl group on the acetamide of the monomer from non-reducing terminal to acts as a nucleophile, and attacks the C1 carbon of the terminal monomer. Thereafter the enzyme facilitates the attack of a water molecule at C1 causing the hydrolysis of the 1,4 glycosidic bond. The image has been adapted [58]; b) A cartoon representation of sequential removal of monomers from the non-reducing terminal by the β-hex enzyme.
+
+ 
+substrates for this enzyme [67–69]; where the rate of enzymatic activity can be manipulated by varying the degree of acetylation in chitosan [70].
+
+2.1.3.	Substrate considerations for tryptase
+It is evident that the spatiotemporally controlled release of tryptase upon mast cell activation is a cardinal event in an inﬂam-
+ 
+matory condition, yet there remains a dearth in the literature on utilizing this enzyme as a means to trigger latent functionalities programmed within a bioresponsive material. Scope of these ma- terials in therapeutic applications are huge, be it for drug delivery, presentation of occult amino acid residues for cell signaling, de- struction of cell signaling molecules, among others. Further consid- eration of these enzymes, their activity and inhibition are thought
+ 
+
+ 
+
+Fig. 3. Optimized amino acids on each side of sessile bond in a peptide substrate for a) tryptase and c) chymase. Triangles facing towards the amino acid positions shows various amino acids and general group of amino acids that are favored at that position in a peptide substrate. Triangles facing away from the amino acid positions represent the amino acids or groups which are not favored at the position. Amino acid speciﬁcity for tryptase exists on the N-terminal side of the sessile bond while it exists on both the sides for chymase. b) General representation of amino acid positions in a peptide substrate. Two forward slashes denote the substrate cleavage site.
+
+
+Table 2
+Peptide substrates for human tryptase and their enzymatic kinetics.
+
+Entry	Peptide Substrate	Kcat /Km
+(106 M−1s−1)	Source
+1	Z-Lys-Gly-Arg-NA	0.46	Human Skin [75]
+2	Z-Lys-Phe-Arg-NA	0.048	
+3	Z-Asn-Gly-Arg-NA	0.0387	
+4	Z-Pro-Gly-Arg-NA	0.0063	
+5	Z-Pro-Phe-Arg-NA	0.000464	
+6	Z-Lys-Gly-Arg-NA	0.039	Human Lung [75]
+7	Z-Asn-Gly-Arg-NA	0.0083	
+8	Z-Lys-Phe-Arg-NA	0.0053	
+9	Z-Pro-Gly-Arg-NA	0.00049	
+10	Z-Pro-Phe-Arg-NA	0.00004	
+11	Ac-Pro-Arg-Asn-Lys-AAC	1.89	Recombinant βII [73]
+12	Ac-Pro-Arg-Thr-Lys-AAC	1.27	
+13	Ac-Pro-Arg-Asn-Lys-AAC	1.23	Recombinant βI [73]
+14	Ac-Pro-Arg-Thr-Lys-AAC	0.78	
+15	Pro-Ile-Arg-Asn-Lys-ANB-NH2	9.953	Human Mast Cellβ Tryptase [74]
+16	Ala-Ala-Pro-Ile-Arg-Asn-Lys-ANB-NH2	4.746	
+17	Ac-Arg-Asn-Lys-ANB-NH2	2.822	
+18	Arg-Asn-Lys-ANB-NH2	1.587	
+19	Boc-Phe-Ser-Arg-4-MCA	0.2757	Human Mast Cellβ Tryptase [77]
+20	ABZ-Arg-Gln-Asp-Arg-ANB-NH2	0.0274	
+21	ABZ-Arg-Gln-Asp-Lys-ANB-NH2	0.0067	
+22	Z-Ala-Lys-Arg-AMC	238	Human PituitaryTryptase [76]
+23	Z-Ala-Lys-Lys-AMC	103	
+24	Z-Ala-Arg-Arg-AMC	49.9	
+25	Boc-Val-Leu-Lys-AMC	1.78	
+Z = benzyloxycarbonyl, NA = 4-nitroanilide, Ac = acetyl, AAC = 7-amino-4-carbamoylmethylcoumarin, ANB = 5-amino-2-nitrobenzoic acid, Boc = tert-butyloxycarbonyl, ABZ = 2-aminobenzoic acid, AMC = 4-methylcoumarin-7-amide.
+
+ 
+to provide design rules for targeting tissue and disease speciﬁc in- ﬂammatory conditions.
+A basic amino acid residue at the C-terminal of the cleavage domain in a peptide substrate facilitates the cleavage by tryptase (P1, Fig. 3b) [71,72]. The conserved aspartic acid in the tryptase substrate-binding domain interacts with the positively charged ba- sic residue of the substrate and governs enzymatic activity. Com- binatorial peptide screenings have shown lysine and arginine at P1 renders a greater tryptase catalytic activity (Table 2) [73,74]. Argi- nine, with a longer side chain, interacts directly with the aspartic acid and the lysine interaction is bridged by a water molecule [71]. Tryptase exhibits an extended substrate speciﬁcity, where com- binatorial experiments have shown a clear preference for as- paragine, followed by other polar or uncharged residues at P2 [71,73–75]. Replacing asparagine with threonine at P2 caused more than a 30% decrease in tryptase catalytic activity (Table 2, en-
+ 
+try 11 vs 12, and entry 13 vs 14) [73]. However, in a study of tripeptide substrates with human pituitary tryptase it was found that peptides containing positively charged residues at both P1 and P2 have a high Kcat/KM of 107 – 108 M−1s−1 (Table 2, en- try 22-24) [76]. These ﬁndings suggest that tryptase favors both positively charged and uncharged residues at P2, however, a neg- atively charged residue lowers the catalytic activity (Table 2, entry 19 with Kcat/KM values 10 and 33-fold higher than entry 20 and 21 respectively) [76,77]. A 100-fold decrease in catalytic activity was observed when P3 was proline [78,79]. This was also evident in the combinatorial amino acid study of the substrates [73,75]. Al- most all of the above studies have shown a clear preference for a basic charged residue lysine and arginine at P3 position (Table 2, tryptase is 100-fold more active on entry 1 and entry 6 as com- pared to entry 4 and entry 9, respectively). Finally, proline and other hydrophobic residues are preferred at P4 [73–75]. Beyond
+ 
+Table 3
+Peptide substrates for human chymase with varying enzyme kinetics.
+
+Entry	Peptide Substrate	Kcat /Km
+(106 M−1s−1)	Source
+1	Suc-Val-Pro-Pro-Phe-SBzl	8.3	Human Skin Chymase [87]
+2	Suc-Val-Pro-Phe-NA	0.81	
+3	Ile-His-Pro-Phe-Suc-His-Pro-Phe-NA	0.13	
+4	Suc-Val-Pro-Tyr-NA	0.11	
+5	Suc-Val-Pro-Leu-NA	0.024	
+6	Suc-Phe-Ser-Phe-NA	0.013	
+7	Suc-Val-Pro-Met-NA	0.0073	
+8	Suc-Phe-Glu-Phe-NA	0.006	
+9	Asp-Arg-Val-Tyr-Ile-His-Pro-Phe//Gly-Gly-Gly	9	Human Heart Chymase [83]
+10	Asp-Arg-Val-Tyr-Ile-His-Pro-Phe-//-His-Leu	3.6	
+11	Asp-Arg-Val-Tyr-Ile-His-Pro-Phe//Gly	0.12	
+12	Ile-His-Val-Tyr-//-Ile-His-Pro-Phe	0.071	
+13	Asp-Arg-Val-Tyr-//-Gly-Gly	0.051	
+14	Asp-Arg-Val-Tyr-//-Ile-His-Pro-Phe	0.0046	
+15	ABZ-Gly-Ile-Ala-Thr-Phe-//-Cys-Asp-Leu-Met-Pro-Glu-Gln-EDDnp	1.035	Human Mast Cell Chymase [88]
+16	ABZ-Gly-Ile-Ala-Thr-Phe-//-Cys-Met-Leu-Met-Pro-Glu-Gln-EDDnp	0.238	
+17	ABZ-Gly-Ile-Ala-Thr-Phe-//-Trp-Met-Leu-Met-Pro-Glu-Gln-EDDnp	0.096	
+18	Asp-Arg-Val-Tyr-Ile-His-Pro-Tyr-//-His-Leu	2.8	Human Heart Chymase [82]
+19	Asp-Arg-Val-Tyr-Ile-His-Pro-Phe-//-His-Leu	2.7	
+20	Asp-Arg-Val-Tyr-Ile-His-Pro-Tyr-//-Ile-Leu	1.6	
+21	Asp-Arg-Val-Tyr-Ile-His-Pro-Phe-//-His-Val	0.66	
+22	Asp-Arg-Val-Tyr-Ile-His-HIs-Phe-//-His-Leu	0.33	
+23	Asp-Arg-Val-Tyr-Ile-His-Pro-Leu-//-His-Leu	0.15	
+24	Asp-Arg-Val-Tyr-Ile-His-Pro-Phe-//-His-Pro	0.14	
+25	Asp-Arg-Val-Tyr-Ile-His-Pro-Phe-//-His	0.0035	
+Suc = succinyl, SBzl = S-Benzyl, NA = 4-nitroanilide, ABZ = 2-aminobenzoic acid, EDDnp = N-(2,4-dinitrophenyl)-ethylenediamine. The two forward slashes represent the cleavage site of the substrate.
+
+ 
+P4 amino acid composition has little effect on catalytic activity of tryptase [74].
+2.1.4.	Substrate consideration for chymase
+Human chymase activity also depends on the amino acid se- quence within the cleavage domain but, unlike tryptase, chymase substrate selectivity extends to both the C- and the N- terminal of the scissile bond [80–82]. Physiologically, chymase hydrolyses Angiotensin I (Ang I) to Angiotensin II (Ang II), hence Ang I has been widely used as a high aﬃnity substrate to study the amino acid speciﬁcity for the enzyme [82–85]. Human heart chymase has shown strong P1 speciﬁcity for a hydrophobic residue bearing an aromatic ring, particularly phenylalanine and tyrosine. A hydropho- bic residue devoid of an aromatic ring at P1 resulted in a loss of chymase activity (Table 3, entry 2 is 34-fold a better substrate that entry 5) [81–83,86,87]. Hydrophobic, or uncharged, residues at P2 and P3 are also preferred for increased substrate cleavage kinet- ics of chymase. Proline at P2 has been deemed crucial for catalytic activity, if other substrate parameters are not met [80–83,86].
+Human chymase hydrolyses the cleavage of Ang I (Asp-Arg-Val- Tyr-Ile-His-Pro-Phe-//-His-Leu) with 780-fold higher eﬃciency than Ang II (Asp-Arg-Val-Tyr-//-Ile-His-Pro-Phe) (Table 3, entry 10 and entry 14 respectively). The discrepancy in the catalytic activity of chymase against Ang I and Ang II, even though they have similar residue composition at the N-terminal of the scissile bond, under-
+scores the importance of C-terminal leaving groups (P1,, P2,,…,Pn,)
+in substrate speciﬁcity [83]. Peptide library studies have shown that chymase cleavage occurred for peptides with a higher fre- quency of an acidic residue at either of P1,, P2, or both, with slight preference for P2,. Similarly, serine and small hydrophobic residues were also conserved at P, [86].
+3.	De novo expressed mast cell enzyme
+
+3.1.	Release and pathophysiological signiﬁcance of MMP-9
+
+Neutrophils are considered as the main source of MMP-9, how- ever, activation of mast cells triggers the rapid release and long-
+ 
+term expression of MMP-9 (92-kDa), which then serves as the chemoattractant for neutrophil migration [33,45]. Local concentra- tions of MMP-9 are then increased due to the accumulation and activation of neutrophils which peaks at 6-8 h after the initial inﬂammatory event [89]. MMP-9 is a key inﬂammatory regulator that is prevalent in diseases like neuroinﬂammation, peritonitis, rheumatoid arthritis, cancer, immunological graft rejections, and wound healing [32,45,90,91]. It has been reported that 65% of mast cells from the synovial tissue of human patients with rheuma- toid arthritis had stained for MMP-9 [32]. The level of MMP-9 in the inﬂamed ﬂuid of the human peritoneal cavity and in the hu- man wound ﬂuid has been reported to be 0.3-0.4 ng/ml and 100 μg/ml respectively, which were signiﬁcantly higher than the basal level [45,92]. Increased level of MMP-9 has also been shown at the site of islet transplantation within 4 h of transplantation in mice, which resulted in initial inﬂammatory response and improper graft function [90]. Increased MMP-9 levels at the site of inﬂamed tis- sue provides another enzyme for designing bioresponsive materials that affects the earliest stages of inﬂammation.
+
+
+3.1.1.	Substrate consideration for MMP-9
+MMPs are a family of enzymes that degrades collagen. MMP-9 favors the peptide motif Pro-X-X-//-Z, where X is any amino acid, Z represents a hydrophobic residue, and // depict the cleaved bond. The amino acids at position P1, P2, and P2, separate MMP-9 from other MMPs; (i) small amino acids preferred (i.e. glycine, alanine and serine) at P1; (ii) arginine at P2; and (iii) serine and threo- nine at P2, [93–95]. Substrate for MMP-9, their respective kinet- ics, and speciﬁcity for other MMPs, have been derived computa- tionally and reported [94]. Table 4 lists the peptides whose kinet- ics were determined experimentally using ﬂuorogenic substrates and recombinant MMP-9 [95]. Further, unlike tryptase and chy- mase discussed above, peptide substrates for MMP-9 are well es- tablished and have been regularly used for biomedical applications. Peptide Gly-Glu-Arg-Gly-Pro-Pro-Gly-Pro-Gln-Gly-Ala-Arg-Gly-Phe- Pro-Gly-Thr-Pro-Gly-Leu and Cys-Gly-Pro-Gln-Gly-Ile-Trp-Gly-Gln-
+ 
+Table 4
+Peptide substrates for MMP-9 and their cleavage kinetics.
+
+Entry	Peptide Substrate	Kcat /Km
+(106 M−1s−1)	Source
+1	Ser-Gly-Lys-Gly-Pro-Arg-Gln-//-Ile-Thr-Ala	0.19	Recombinant
+2	Ser-Gly-Lys-Ile-Pro-Arg-Arg-//-Leu-Thr-Ala	0.16	MMP-9 [95]
+3	Ser-Gly-Lys-Ile-Pro-Arg-Thr-//-Leu-Thr-Ala	0.07	
+4	Ser-Gly-Pro-Arg-Ala-//-Val-Ser-Thr-Thr-Ala	0.06	
+5	Ser-Gly-Pro-Leu-Phe-//-Tyr-Ser-Val-Thr-Ala	0.03	
+6	Ser-Gly-Phe-Gly-Ser-Arg-Tyr-//-Leu-Thr-Ala	0.01	
+7	Ser-Gly-Gln-Pro-His-Tyr-//-Leu-Thr-Thr-Ala	0.009	
+8	Ser-Gly-Leu-Arg-Pro-Ala-Lys-//Ser-Thr-Ala	0.006	
+9	Ser-Gly-Lys-Ile-Pro-Arg-Thr-//-Ala-Thr-Ala	0.002	
+10	Ser-Gly-Arg-Arg-//-Leu-Leu-Ser-Arg-Thr-Ala	0.001	
+The two forward slashes represent the cleavage site of the substrate.
+
+ 
+Gly-Cys-Arg, Pro-Leu-Gly-Val-Arg-Gly-Lys and Pro-Leu-Gly-Leu-Ala- Gly have been used in designing various therapeutics [91,96–98].
+Gelatins are a natural substrate for MMP-9. Gelatins are classi- ﬁed as ‘generally recognized as safe’ by the FDA, and consequently, has been widely used in food, cosmetics, and pharmaceutical in- dustry. Gelatin has been studied in the context of drug delivery as it is inexpensive, easily available, biocompatible, and exhibits low immunogenicity [99,100]. Polypeptide chains (MW: 10 – 100 kDa) derived from the denaturation/degradation of collagens form the gelatin, with an overall amino acid composition that varies de- pending on the collagen source and degradation processes [101]. That said, gelatin retains the general repeating unit of Gly-X-Y of collagen, where X and Y are predominantly proline and hydrox- yproline [101,102]. The two major commercial sources of gelatin has shown glycine is the most dominant type of amino acid, with 108 and 239 glycine residues per 1000 amino acids in bovine and porcine skin gelatin, respectively. Glycine was followed by proline and arginine, however, all three amino acids (glycine, proline, and arginine) were 2-3-fold higher in porcine than bovine gelatin [103]. The predominance of glycine, proline, and arginine is also the fa- vored amino acids for an MMP-9 substrate, making gelatin a nat- ural substrate for MMP-9 that can be used to design therapeutic systems to target inﬂammation.
+
+4.	Probable strategies to design therapeutics responsive to mast cell enzymes
+
+In the preceding sections, we have highlighted enzymes that are released from mast cells upon cell activation, and which could serve as localized stimuli for inﬂammatory diseases. Next, we have identiﬁed substrates, or the physiochemical characteristics of amino acids which could be used to construct enzyme respective peptide substrates, for the development of bioresponsive materi- als. Starting with identiﬁed enzyme substrates, we also overview general approaches previously used to develop stimuli responsive therapeutics for a variety of biomedical applications for the express purpose of drawing parallels to how these strategies may be used to target inﬂammation.
+
+4.1.	Probable strategies around COS to design β-hex responsive systems
+
+COS are water-soluble molecules that are easy to conjugate to biological materials. Solubility, and hence hydrophobicity of COS can be easily modiﬁed by varying the degree of acetylation [104–106]. A ﬁne balance between hydrophilic COS and conju- gated hydrophobic domain facilitates self-association, which could be used to incorporate hydrophobic inﬂammatory drugs in its core and trigger its release in the β-hex rich regions. COS has been used as a backbone to graft polycaprolactone (PCL) branches
+ 
+onto, where varying the length of the PCL branches, different nano-morphologies including spherical, rod-shaped, and vesicles, have been formed [107]. In another study, hydrophobic PCL was conjugated to COS through a disulphide bond to design a self- assembling system. The disulphide linkage rendered GSH respon- siveness for the triggered delivery of incorporated Doxorubicin (DOX) to the cancerous cells [108]. This approach provides a way to design a dual responsive system - responsive to mast cell re- leased β-hex, as well as mast cell released ROS (discussed in later section), for localizing a therapeutic at the inﬂammatory site. Hydrophobic domains like that of retinoic acid and stearic acids could be used with COS to impart self-assembling characteristics, for applications including drug delivery and imaging, among other modalities [109,110]. COS has also been used to develop injectable hydrogels, where the gelation properties and degradation has been controlled by its degree of acetylation [106]. As discussed in the preceding section, skin infection causes a burst release of β-hex, and hence COS could be incorporated in the wound dressing ma- terials/gels to program its degradation, and to control the release of healing therapeutics laden in the material. In this regard, COS was used as a cross linker for electro-spun PCL ﬁbers to impart both bioactivity and mechanical properties to the ﬁbrous mats [111].
+β-hex digestion of COS/chitosan can also be coupled with lo-
+cal tissue characteristics to ensure the localized delivery. Owed to its plentiful functional groups, both COS and chitosan, can easily be customized to possess desired ionic charges, which can help in tar- geting inﬂamed tissues with charged microenvironments [109,112]. Chitosan, in this regard has already been in use for designing mu- coadhesive systems, coupling this with β-hex triggered degrada- tion will open new avenues in the delivery of therapeutics to the β-hex extensive inﬂamed tissues [113]. This approach will also cir- cumvent the challenge posed by the ultimate diffusion of enzymes into the blood stream. For instance, the anionic mucus and the in- creased activity of β-hex in the blood serum of asthmatic patients can be synergistically used to localize and release, respectively, the therapeutics for the respiratory diseases [113,114]. In contrast, in- ﬂammatory bowel diseases are reported to be devoid of mucus layer consequently exposing a rather positively charged surface; which again, by using β-hex responsive COS can be used to lo- calize and deliver therapeutics in the inﬂamed region [115].
+
+4.2.	Probable strategies around peptide substrates to design tryptase, chymase and MMP-9 responsive systems
+
+The application of tryptase and chymase speciﬁc peptide sub- strates, to the best of our knowledge, has not been applied to any disease state. Given that these are unique to mast cells and that their relative concentrations differ throughout the inﬂamma- tory cascade as a function of tissue type, the use of substrates spe- ciﬁc to tryptase and chymase offer an untapped means of target-
+ 
+ing active zones of inﬂammation. On the contrary, peptide sub- strates for MMP-9 have been studied, but largely in the context of drug delivery to cancer. Although our scope of discussion is a more general means of targeting inﬂammation for purposes be- yond drug delivery, the discussed studies utilizing peptide sub- strates may provide basic design principles that could be translated to this purpose. Polyethylene glycol (PEG)-MMP-9 peptide sub- strate (Cys-Gly-Pro-Gln-Gly-Ile-Trp-Gly-Gln-Gly-Cys-Arg) has been used to coat DOX loaded mesoporous silica nanoparticles (MSN) particles to deliver drugs in MMP-9 rich cancerous tissue [97]. Similarly, MMP-9 responsive peptide (Gly-Glu-Arg-Gly-Pro-Pro-Gly- Pro-Gln-Gly-Ala-Arg-Gly-Phe-Pro-Gly-Thr-Pro-Gly-Leu) was conju- gated to PEG-poly(lactic-co-glycolic) acid (PLGA) nanoparticles to initiate drug release upon encountering MMP-9 [98]. That said, the cleavage of another MMP-9 speciﬁc substrates (Pro-Leu-Gly-Val- Arg-Gly-Lys) has been used for detecting cancer through the pres- ence of MMP-9 [91].
+Peptide substrates with speciﬁcity to other MMPs have as well been used to design enzyme responsive materials. These methods could likewise be utilized for targeting inﬂammation. Our group coated cargo laden nanoparticles with peptides with varying MMP- 2 cleavage kinetics, providing a handle on how to not only use en- zymes to control the release proﬁle of the loaded drug, but also the cleavage kinetics of the substrate in particular [116]. Tables 2, 3 and 4, lists peptide substrates with varying enzyme kinetics, which could be used to achieve a desired therapeutic release kinetics. Fur- ther, enzyme substrates with varying enzyme kinetics can simulta- neously be used to tailor the release suited for a given eﬃcacy. Enzyme cleavable domains of varying activities were incorporated in a hydrogel system to modulate the degradation of the gel, and hence, the release of incorporated drug [117,118]. Adding to these, peptide substrates of enzymes have also been used to crosslink and stabilize the hydrogel systems [119–122]. The use of enzyme sensitive substrates to either cross-link or degrade 3D materials, however, obstructs the diffusion properties of the enzymes. These are important limitations which must be considered while devel- oping enzyme responsive hydrogel systems with tailored degrada- tion/drug release proﬁles [120,121].
+Enzyme sensitive peptide substrates have simultaneously been
+used as a linker molecule in nano-assemblies [123,124]. PEG - Pa- clitaxel (PTX) self-assembling prodrug was synthesized using an MMP-2 peptide linker to release PTX in MMP-2 extensive tumor environment. The group later used the MMP-2 sensitive system for the co-delivery of PTX and SiRNA to cancerous cells [125,126]. Fur- ther, a triblock polylactic acid (PLA)-peptide-PLA system was devel- oped using MMP-2 sensitive peptide. The peptide cleavage resulted in a decrease in glass transition temperature which was used as a trigger for targeted cargo release at cancerous site [127]. In an- other study, curcumin, as an antitumor drug was sandwiched be- tween two PCL blocks through MMP-2 sensitive peptide for cancer treatment [128]. Cathepsin B sensitive peptide was used to conju- gate drugs like DOX and Gemcitabine to a dendrimer system for targeted drug delivery [123,129]. MMP-9 responsive peptide was conjugated to gold nanoclusters for cancer detection, with a ratio- nale that upon enzyme activity in cancerous environment, the gold nanoclusters would pass through kidney to be detected in urine [91]. These modalities highlight various ways that tryptase, chy- mase, and MMP-9 peptide substrates can be used in targeting in- ﬂamed tissue to get favorable therapeutic results.
+In contrast to material design strategies, where enzymatic
+cleavage has resulted in degradation or disassembly, cleavage of MMP sensitive peptides were used to decrease the hydrophilic - hydrophobic ratio which resulted in the targeted aggregation of the otherwise soluble amphiphilic system [96]. An MMP respon- sive peptide was used as a hydrophilic domain in an amphiphilic system where PTX formed the hydrophobic domain. MMP degrada-
+ 
+tion of the outer shell resulted in the aggregation of hydrophobic drug at the cancerous site to exert its cytotoxicity [124]. These are only a few of the various ways in which mast cell enzyme sensitive peptide substrates may be used in designing mast cell responsive materials, and that the therapeutic potential of these substrates is both unstudied and of wide applicability.
+
+4.3.	Probable strategies around gelatin to design MMP-9 responsive systems
+
+Gelatin has been extensively studied in a variety of biomaterial forms, including hydrogels, nanostructured materials, electrospun mats, and coatings [99,100]. These systems exhibit high water ab- sorptivity which can result in rapid swelling due to a large num- ber of ionizable groups [130–132]. The internally charged structure of gelatin materials leads to a general electrostatic repulsion and uncontrolled burst release of encapsulated cargo; an unsuitable trait for targeted therapies [132]. However, varying the degree of crosslinking has shown to alter the release proﬁle of therapeutics from the gelatin-based materials at physiological conditions [133]. Pullulan dialdehyde was used to crosslink gelatin to form a high strength hydrogel which exhibited a crosslink-dependent degrada- tion proﬁle in the presence of type-1 collagenase [134]. Similarly, genipin was used as a crosslinker to prepare bone morphogenic protein 2 (BMP-2) laden gelatin microspheres as a delivery system application to bone therapy [135]. Gelatin based systems are easily amenable to strategies that utilize MMP-2 for targeting inﬂamed tissues.
+Another eﬃcient technique, which holds promise particularly in the design of MMP-9 stimulated release systems, is the application of gelatin coatings. Gelatin was thermally adsorbed and crosslinked onto DOX loaded MSNs. This nanoparticle-gelatin system remained stable, exhibiting less than 4% drug release at physiological con- ditions [132]. To demonstrate an MMP-9 triggered release system, DOX was adsorbed onto aldehyde modiﬁed MSNs, which were then sealed with crosslinked gelatin. The system, which otherwise was stable in normal physiological condition over a range of pH, the presence of MMP-9 in the in vitro condition resulted in burst re- lease of DOX [136]. Gelatin coating has also been used to ren- der stability to drug loaded lipid nanoparticles. The relative pH in- sensitivity of gelatin-based systems could be used to target a site of high MMP-9 concentrations for localized cargo delivery, as has been demonstrated by the release of BMP-2 upon the degradation of gelatin microspheres by the MMP produced by inﬂammatory macrophages [135,137].
+
+5.	Localized ROS from mast cell activation
+
+ROS as an immune regulating molecule is primarily associated with macrophages [138] and neutrophils [139], however, there are studies which have reported the release of both intra- (ROSin ) and extracellular (ROSex) ROS upon mast cell activation. ROSin is vi- tal in the downstream signaling of the cell and is pertinent to all modes of activation. Immunological activation upon the recogni- tion of antigens by the immunoglobulin E (IgE)- FcɛRI complex, or by thapsigargin and ionomycin, which activate mast cells non- immunologically through calcium transport mechanism, have both shown to induce ROSin [30,47,48]. Furthermore, compounds that activate mast cells through speciﬁc cell receptors, with the likes of advanced glycation end products and Galectin-3, have also been shown to induce ROSin [22,53]. ROSin is rapidly released, peaking within minutes of activation [30,47]. Superoxide radicals (O2−) rad- icals and hydrogen peroxides (H2O2) are the two main constituents of ROS that have been identiﬁed within mast cells [49,50]. How- ever, no intracellular nitric oxide was detected in rat, mouse, or human mast cells upon antigen stimulation [47]. FcɛRI mediated
+ 
+
+ 
+
+Fig. 4. Generalized response of ROS sensitive molecules in the presence of ROS. Two classes of ROS sensitive molecules are being widely used. The ﬁrst class, which includes sulphides, selenides and tellurides, respond by undergoing a hydrophobic to hydrophilic phase switch. The second class undergoes a ROS mediated cleavage, examples being diselenides and thioketals.
+
+ 
+mast cell activation results in both O2 − radicals and H2 O2 pro- duction, however, by two independent pathways, and have been shown to inversely effect each other’s release [51].
+In contrast to ROSin , no consensus in the literature has been arrived at regarding ROSex release. It has been argued that the evidence of ROSex is likely from the macrophage contamination
+in primary cell cultures of mast cells [140], however, others have
+shown that antigens, heavy metals like silver, and compound like epigallocatechin-3-gallate induce a rapid ROSex comprised of O2 − and H2 O2 [29,52]. The release of ROSex in response to galectin-3, though, has been associated with mast cell apoptosis [22,53]. Apart from ROSex derived exclusively from mast cells, close proximity of mast cells to macrophages, which are well documented to release ROS in their extracellular matrix, also exposes the mast cells to ROSex [138]. As discussed, ROSin and ROSex released upon mast cell activation is spatiotemporally controlled and occurs rapidly as a ﬁrst response to cellular activation; and hence are an excellent stimulus for targeted inﬂammation applications.
+
+5.1.	System design strategies responsive to mast cell released ROS
+
+Initial release of ROS upon mast cell activation, which is further reinforced by other immune cells, offers an excellent stimulus to develop strategies centered around mast cells to target regions of inﬂammation. Contemporary research on stimuli responsive mate- rials has seen signiﬁcant progress made in the design and devel- opment of ROS sensitive materials. ROS sensitive moieties within a material can be broadly classiﬁed into two types: (i) ROS sensi- tive molecule that undergoes a hydrophobic to hydrophilic phase switch and includes sulphides, selenides, and tellurides; and (ii) ROS based cleavage of the molecule that includes diselenides and thioketals (Fig. 4) [141,142]. An extensive review of ROS sensi- tive molecules is beyond this review and readers are directed to other recent reviews [141,142]. Herein, a discussion on ROS sensi- tive thioketal (TK) molecule is presented due to its robust response to a variety of ROS molecules, stability across pH ranges, nontoxi- city, high reaction yields, and relative ease of functional synthesis and conjugation to biomolecules [143–148].
+TK is hydrolyzed by ROS (O2 −, hydroxyl radicals (OH•) and
+H2O2) in the tissue environment to form a ketone and other reac- tion products (Fig. 5) [143–145,147]. Because of its excellent ROS sensitivity, TKs have found varied applications in biomedical re- search ranging from chemotherapy, photodynamic therapy (PDT), to drug and therapeutic delivery [147,149,150]. TKs of varied bi- functional groups (carboxylic, amine, hydroxyl, thio and allyl) have been reported to facilitate its incorporation and conjugation into biologically relevant material systems (Fig. 5) [149,151,152]. Inﬂam-
+ 
+mation, like cancer, has elevated levels of ROS, so strategies uti- lizing TK in cancer therapies could be easily translated for anti- inﬂammatory responses. Incorporating TK into the repeating unit of a polymer enables fast degradation and quick release of cargo where ROS is plentiful - an approach used for chemotherapeutic drug delivery [144,150,153]. TK could also be copolymerized with a suitable anti-inﬂammatory drug to form a polydrug system, as in the case with mitoxantrone (MTO)-TK system where MTO becomes active upon cleavage from TK in an ROS-rich environment [154]. Adding to these, mast cell ROSin is an excellent stimulus to bring about desired genetic manipulations. Materials, which are eﬃcient in condensing genetic materials, like COS, can be modiﬁed with ROS sensitive entities, to enhance cellular uptake, and effective transport and release of genetic material into the cell [109,112].
+
+6.	Mast cell MRGPRX2 as inﬂamed tissue speciﬁc receptor for targeted therapies
+
+MRGPRX2 is predominantly expressed by mast cells, but has also been reported to be found on sensory neurons, and other im- mune cells (i.e. basophils and eosinophils); however, their expres- sion on unstimulated immune cells have been reported to be neg- ligible [155,156]. MRGPRX2 offers a direct route of mast cell acti- vation, in parallel with the immunoglobulin mediated FcɛRI acti- vation pathway, to cause mast cell degranulation [23,34,157]. The expression proﬁle of this receptor on mast cell has been shown to vary with mast cell subclass (dominant in MCTC , but not in MCT ) and anatomical sites in normal physiological conditions, as well with disease conditions [158,159]. Increased density of mast cell MRGPRX2 receptor has been shown in the lung mast cells of patients with asthma [34]; and skin mast cells of patients with atopic dermatitis, psoriasis, urticaria and prurigo [11,160,161]. Fur- thermore, MRGPRX2 has been shown to be responsible for ad- verse drug allergies as shown in the case of peptide drugs like icatibant, atracurim, antibiotics like ciproﬂoxacin [23,162]; and peri-operative drugs like morphine, vanomycine and cisatracurium [163].
+Recent studies have identiﬁed several small molecules, antibod- ies, and peptide ligands which are speciﬁc to MRGPRX2 recep- tor [164–166]. The presence of the ‘distinct core structure’ within the amino acid sequence that activates MRGPRX2 allows for spe- ciﬁc targeting of the cells [167–169]. Taking this further, our group has proposed a generalized structure to design MRGPRX2 speciﬁc peptides with varied mast cell activating potential. An optimized core peptide structure which can activate mast cell MRGPRX2 re-
+ceptor can be deduced to Xa-(Y)(n ≥ 3)-Xb where - Xa is an aro- matic residue; Xb is a hydrophobic residue; and Y is a minimum
+ 
+
+ 
+
+Fig. 5. ROS triggered cleavage of TK molecule resulting in the formation of acetone and other reaction products (Z). The cleavage occurs in the presence of various types of ROS including O2−, OH• and H2O2. X, Y represent the various end functional groups that have been synthesized on TK to facilitate easy chemical conjugation to biological systems and drugs.
+
+Table 5
+MRGPRX2 speciﬁc peptide ligands to be used as homing peptides for inﬂamed tissues.
+
+Entry	Peptide Ligand	Relative mast cell degranulation %	Model Cell
+1	Trp-Lys-Lys-Lys-Trp	111	LAD 2 Cell;β-hex releasd upon stimulationwith PAMP-12 is taken as 100 %[24]
+2	Phe-Arg-Lys-Lys-Trp	108	
+3	Phe-Arg-Lys-Lys-Trp-Asn-Lys-Trp-Ala-Leu-Ser-Arg	100	
+4	Tyr-Lys-Lys-Lys-Tyr	89	
+5	Lys-Lys-Trp-Asn-Lys-Trp-Ala-Leu-Ser-Arg	75	
+6	Lys-Trp-Asn-Lys-Trp-Ala-Leu-Ser-Arg	59	
+7	Trp-Asn-Lys-Trp-Ala	52	
+8	Asn-Lys-Trp-Ala-Leu-Ser-Arg	8	
+9	Pro-Cys-Lys-Asn-Phe-Phe-Trp-Lys-Thr-Phe-Ser-Ser-Cys-Lys	100	MRGPRX2 transfected cell;calcium released upon
+			stimulationwith PAMP-12 and
+			Cortistatin-14is taken as 100 % [167]
+10	Ser-Glu-Phe-Arg-Lys-Lys-Trp-Asn-Lys-Trp-Ala-Leu-Ser-Arg	53	
+11	Asp-Val-Ala-Ser-Glu-Phe-Arg-Lys-Lys-Trp-Asn-Lys-Trp-Ala-	23	
+	Leu-Ser-Arg		
+12	Ala-Arg-Leu-Asp-Val	3	
+13	Cyclic-Ala-Gly-Cys-Lys-Asn-Phe-Phe-Trp-(D)Lys-Thr-Phe-Thr-	400	∗ Rat peritoneal mast cell;histamine released upon
+	Ser-Cys		stimulationwith Somatostatin is taken as 100 % [169]
+14	Cyclic-Ala-Gly-Cys-Lys-Asn-Phe-Phe-Trp-Lys-Thr-Phe-Thr-Ser-	100	
+	Cys		
+15	Non-Cyclic-Ala-Gly-Cys-Lys-Asn-Phe-Phe-Trp-Lys-Thr-Phe-	33	
+	Thr-Ser-Cys		
+
+∗Rat mast cells expresses MRGPRX2 ortholog, MRGPRB3 receptor [181].
+
+ 
+3 residue long sequence, containing a minimum of one positively charged residue with the remainder being uncharged residues [24]. Table 5 lists several MRGPRX2 speciﬁc peptide with varying activ- ity towards mast cells. These peptide motifs may be utilized in multiple ways, including as homing peptides as well as a direct way to control the activity of mast cells within the extracellular milieu [170,171]. The idea of targeting a diseased tissue through peptide ligand is already in practice and has been widely used in applications like cargo delivery, detection, and imaging [172]. We herein will highlight a few of the approaches involving the use of synthetic integrin recognizing peptides, as a means of elucidating
+ 
+potential strategies to target inﬂammation using the MRGPRX2 re- ceptor (Fig. 6).
+
+6.1.	Strategies around mast cell MRGPRX2 peptide ligands for targeted delivery
+
+Cell recognition peptides for cancerous tissues have been iden- tiﬁed and are routinely used in cancer research [172]. Tissue target- ing peptides attached to the surface of iron oxide nanoparticles al- lows for magnetic resonance imaging of cancerous tissue [173,174]. DOX loaded, gold coated, silica nanoparticles were decorated with
+ 
+
+ 
+
+Fig. 6. Cartoon representation of mast cell showing expression of MRGPRX2 receptor on its surface. MRGPRX2 can be used a cell speciﬁc receptor to speciﬁcally target mast cells. Several MRGPRX2 peptide substrates have been identiﬁed which can be exposed onto the surface of delivery systems to localize the delivery in and around inﬂammatory tissue.
+
+ 
+homing peptides for the NIR triggered release of drug at the can- cerous site [175]. Similarly, receptor speciﬁc peptide ligands have been conjugated to polymeric nano-assemblies, liposomes and hy- drogels to facilitate targeted release of cargo [176–178]. Moreover, targeting peptides have also been used in synergy with other func- tionalities [179]. For example, Arg-Gly-Asp has been used in conju- gation with the TK molecule to localize the ROS dependent release of chemotherapeutic drug to the cancerous tissue [148,154]. Fur- thermore, conjugation of cancerous cell penetrating peptides (Arg- Gly-Asp and LyP-1) to MMP-9 sensitive nano-sensors has been dis- cussed for the detection of small cancers through urine [180]. The discussed strategies can be readily applied to targeting sites of ac- tive inﬂammation.
+
+7.	Limitations and challenges
+
+Tryptase and chymase share substrate speciﬁcities with other serine proteases [71]. Prior to using the localized presence of these enzymes to trigger a change in the biomaterial, it is imperative to evaluate the enzymatic substrate speciﬁcity and the relative cleav- age velocities for these enzymes. The most common, and the most important enzymes, that must be considered while designing a peptide substrate for tryptase and chymase are trypsin and chy- motrypsin. Like tryptase, trypsin favors a basic residue at P1 [71], and similarly, like chymase, chymotrypsin prefers a hydrophobic amino acid with aromatic side chain [87]. It was found that enzy- matic activity of human airway trypsin (HAT) on substrates simul- taneously studied for tryptase was multifold higher. The Kcat/KM value for the enzymatic activity of HAT (Table 2, entry 20 and 21) was found to be one order of magnitude higher than that for
+ 
+tryptase (106 vs 105 M−1s−1, respectively) [77]. Substrate overlap of tryptase has also been shown with human plasma thrombin and coagulant factor Xa [75]. In case of chymase, substrate overlap has been shown with chymotrypsin, cathepsin G, and carboxypeptidase A [80,85,87]. A comparison of chymase activity with cathepsin G activity on thio-benzyl ester substrate (Table 3, entry 1) showed that human chymase was 7-fold higher than human cathepsin G, with respective Kcat/KM of 8.3 × 106 M−1s−1 and 1.2 × 106 M−1s−1 [87]. Likewise, substrate overlap should also be veriﬁed against other MMPs when designing MMP-9 responsive biomaterials for targeting inﬂammation.
+Though several enzymes may compete for a given substrate, subtle changes in the substrate structure can alter enzymatic ac- tivity. For example, C-terminal aldehyde analogues of substrates (Table 2, entry 20 and 21) have shown to reverse the enzymatic activity between HAT and tryptase [77]. The competitive activity of enzymes against given substrates can also be modulated using D- amino acids in the peptide structure [87]. Furthermore, since ser- ine enzymes have an extended substrate speciﬁcity, careful posi- tioning of respective amino acids at a given substrate position may yield higher speciﬁcity. For example, even though enzymes like hu- man thrombin and coagulant factor Xa favors a tryptase like ba- sic amino acid residue at P1, the most favored amino acid at posi- tion P2 was proline for thrombin and phenylalanine for coagulant factor Xa, whereas for tryptase it was asparagine [75]. This was also apparent in competitive study of chymase with carboxypepti- dase A against Ang I, where the activity of carboxypeptidase was deemed negligible in converting Ang I to Ang II [85]. Similarly, P2 arginine and P2s´erine/threonine in peptide substrates imparted MMP-9 speciﬁcity over other MMPs. Coupled to these, signiﬁcant
+ 
+advancement and feasibility of computational methods has made it possible for a facile screening of substrates against various en- zymes, which could be used to screen substrates prior to expensive experimentation [93].
+Apart from substrate overlap, differences in the catalytic activ- ity of an enzyme from different sources could hinder the devel- opment of a versatile substrate for inﬂammatory diseases: human skin tryptase was 10-fold more reactive for a given substrate than human lung tryptase (Table 2, entry 1-10). Ultimately, the decrease in the localized concentration of these enzymes with time, as they may disperse from the site of inﬂammation upon entering the blood stream, poses challenge for the targeted approach [182,183].
+Blood levels of β-tryptase peaks within 15 – 20 min (half-life ∼ 2
+h) for an inﬂammatory response, increasing from < 1 ng/mL to >
+10 ng/mL [183]. Similarly, blood tryptase levels spike between 0.5 to 6 h at up to 2242 and 710 % respectively for anaphylactic shock and anaphylactic reactions due to drug allergy, before returning to basal levels after 24 h [184]. Although, the rate of degradation of the bioresponsive materials will be directly proportional to the concentration of the enzyme, and hence, the vast majority of bio- material will be degraded at the site of interest, the off-target re- lease of therapeutics needs to be evaluated. A similar challenge ex- ists for ROS responsive systems as well, whereby; the ubiquitously produced ROS by various cells could trigger off-target release of therapeutics. The unwanted release of therapeutics could however be reduced by the design of multi-mast cell stimuli-responsive systems. A mast cell enzyme responsive therapeutic-carrying core, with a ROS sensitive outer shell would be a great strategy in this context. ROS being short lived and localized near the inﬂamed tis- sue would expose the core only in the inﬂamed zone. This would then cause the release of therapeutic in presence on localized en- zymes, thus increasing the bioavailability of drugs to the inﬂamed tissue [185].
+Adding to these, tethering an MRGPRX2 peptide ligand to a
+therapeutic delivery system can also help in localizing the drug. However, targeting active sites of inﬂammation using MRGPRX2 re- ceptors poses the risk of causing partial, or complete, mast cell ac- tivation. Though mast cell activation could be beneﬁcial in certain cases [171], its activation could aggravate inﬂammatory conditions. The use of MRGPRX2 speciﬁc peptides in targeting a disease would entail a tradeoff between the therapeutic eﬃciency and the poten- tial for induced cell activation. It is therefore necessary to critically examine the therapeutic outcome while using MRGPRX2 speciﬁc peptides for cell targeting. Lastly, the binding aﬃnity of MRGPRX2 peptide ligands needs to be determined to eﬃciently target an in- ﬂamed tissue.
+
+8.	Conclusion
+
+Targeted therapies are beneﬁcial, whereby, the therapeutic eﬃ- ciency is increased and the undesirable side effects are minimized. This approach has the potential to reduce health complications and economic burden, whilst increasing patient quality of life. Since mast cells play a crucial role in host immune response, and in the pathogenesis of several inﬂammatory diseases, they provide an ex- cellent approach to design and develop therapeutics around them. Mast cell released immune mediators discerns the diseased tissue milieu from the rest of the body, and provide opportunity to tar- get a disease at the onset of its progression. In the present article, we have highlighted various ways that inﬂammation could be tar- geted through utilizing unique mast cell properties. Activated mast cells triggers the rapid and local release of enzymes like β-hex, tryptase, chymase and MMP-9 in the tissue microenvironment. The enzymes discussed are both versatile (β-hex, tryptase and MMP- 9) and disease/tissue selective (chymase), which allows us to de- sign therapeutic systems for highly controlled outcomes. We have
+ 
+identiﬁed multiple types of substrates for these enzymes: namely peptide motifs for tryptase, chymase and MMP-9, COS for β-hex, and collagen for MMP-9. Furthermore, we have discussed strategies centered on these substrates to develop bioresponsive materials for application in therapeutic design and delivery. Challenges to the use of these enzymes for targeted approaches were also discussed, namely, overlap of substrates with other enzymes and dispersion of enzymes in the blood. In contrast to enzymes, ROS are short- lived and highly localized at inﬂamed tissue. Activated mast cells produce both intra- and extracellular ROS, which could be used to manipulate the immune response early in the disease proﬁle. Where, extracellular ROS could be used for the localized delivery of drugs, intracellular ROS could be used to alter gene expression. We have discussed TK as a ROS responsive molecule, which is rela- tively easy to synthesize, modify and apply in biomedical research. The strategies discussed here would help in solving the chal- lenges faced with the clinically approved steroidal and nonsteroidal inﬂammatory drugs, namely, the poor solubility, and the adverse side effects resulting due to the non-selectiveness of drugs [186]. The design of mast cell responsive therapeutic delivery systems will help localize the drug at the inﬂamed tissue, increasing the bioavailability of the drug. Furthermore, the designed systems can be used to deliver mast cell targeted therapeutics like anti- histamines, antibodies (Omalizumab, Dupilumab, Reslizumab, etc), MRGPRX2 antagonists like Shikonin, Saikosaponin, among others, to localize their delivery and increase their therapeutic eﬃcacy [166,187–193]. Finally, we have studied the importance of MRG- PRX2 receptor on MCTC mast cell subclass as the homing peptide for inﬂammatory diseases. The selective dominance of MRGPRX2 in speciﬁc tissue/disease offers the distinctiveness needed to resolve a diseased versus healthy tissue. Several peptide molecules speciﬁc to MRGPRX2 have been listed that could be used for targeted ap- plications. Targeting inﬂammation through MRGPRX2 can however result in unwanted activation of mast cell, and hence their beneﬁt
+to risk ratio needs to be carefully evaluated.
+
+Declaration of Competing Interest
+
+The authors declare no conﬂict of interest.
+
+Acknowledgement
+
+This work was supported by Alberta Innovates, National Re- search Council (Canada), and Natural Science and Engineering Re- search Council (Canada).
+
+References
+
+[1]	J.S. Marshall, Mast-cell responses to pathogens, Nat. Rev. Immunol. 4 (2004) 787–799, doi:10.1038/nri1460.
+[2]	M. Urb, D.C. Sheppard, The role of mast cells in the defence against pathogens, PLoS Pathog. 8 (2012) 2–4, doi:10.1371/journal.ppat.1002619.
+[3]	C. Benoist, D. Mathis, Mast cells in autoimmune disease, Nature 420 (2002) 875–878.
+[4]	S.J. Galli, M. Tsai, IgE and mast cells in allergic disease, Nat. Med. 18 (2012) 693–704, doi:10.1038/nm.2755.
+[5]	D. Ribatti, R. Tamma, T. Annese, Mast cells and angiogenesis in multiple scle- rosis, Inﬂamm. Res. 69 (2020) 1103–1110.
+[6]	F. Rivellese, D. Mauro, A. Nerviani, S. Pagani, L. Fossati-Jimack, T. Messemaker,
+F.A.S. Kurreeman, R.E.M. Toes, A. Ramming, S. Rauber, Mast cells in early rheumatoid arthritis associate with disease severity and support B cell au- toantibody production, Ann. Rheum. Dis. 77 (2018) 1773–1781.
+[7]	S. Balzar, H.W. Chu, M. Strand, S. Wenzel, Relationship of small airway chymase-positive mast cells and lung function in severe asthma, Am. J. Respir. Crit. Care Med. 171 (2005) 431–439, doi:10.1164/rccm.200407-949OC.
+[8]	H. Hamada, M. Terai, H. Kimura, K. Hirano, S. Oana, H. Niimi, Increased ex- pression of mast cell chymase in the lungs of patients with congenital heart disease associated with early pulmonary vascular disease, Am. J. Respir. Crit. Care Med. 160 (1999) 1303–1308, doi:10.1164/ajrccm.160.4.9810058.
+[9]	A. Järvikallio, A. Naukkarinen, I.T. Harvima, M.L. Aalto, M. Horsmanheimo, Quantitative analysis of tryptase- and chymase-containing mast cells in atopic
+ 
+dermatitis and nummular eczema, Br. J. Dermatol. 136 (1997) 871–877, doi:10.1111/j.1365-2133.1997.tb03927.x.
+[10]	S. Mashiko, S. Bouguermouh, M. Rubio, N. Baba, R. Bissonnette, M. Sarfati, Human mast cells are major IL-22 producers in patients with psoriasis and atopic dermatitis, J. Allergy Clin. Immunol. 136 (2015) 351–359.
+[11]	L.A. Nattkemper, H.L. Tey, R. Valdes-Rodriguez, H. Lee, N.K. Mollanazar, C. Al- bornoz, K.M. Sanders, G. Yosipovitch, The genetics of chronic itch: gene ex- pression in the skin of patients with atopic dermatitis and psoriasis with se- vere itch, J. Invest. Dermatol. 138 (2018) 1311–1317.
+[12]	B. Youngblood, J. Schanin, N. Tomasevic, A. Kamboj, Atopic dermatitis skin biopsies have high numbers of activated mast cells that are inhibited by AK002 after stimulation ex vivo, J. Allergy Clin. Immunol. 145 (2020) AB198.
+[13]	M. Butuci, Z. Benet, A. Wong, J. Schanin, A. Xu, A. Kamboj, B. Youngblood, Mast cells are locally activated and respond to MRGPRX2 stimulation in atopic dermatitis ex vivo skin biopsies, J. Allergy Clin. Immunol. 149 (2022) AB5.
+[14]	M.G. Buckley, P.J. Gallagher, A.F. Walls, Mast cell subpopulations in the syn- ovial tissue of patients with osteoarthritis: selective increase in numbers of tryptase-positive, chymase- negative mast cells, J. Pathol. 186 (1998) 67–74,
+doi:10.1002/(SICI)1096-9896(199809)186:1h67::AID-PATH132i3.0.CO;2-D.
+[15]	J.P. Kankkunen, I.T. Harvima, A. Naukkarinen, Quantitative analysis of tryptase
+and chymase containing mast cells in benign and malignant breast lesions,
+Int. J. Cancer 72 (1997) 385–388, doi:10.1002/(SICI)1097-0215(19970729)72: 3h385::AID- IJC1i3.0.CO;2- L.
+[16]	T. Ibaraki, M. Muramatsu, S. Takai, D. Jin, H. Maruyama, T. Orino, T. Katsumata,
+M. Miyazaki, The relationship of tryptase- and chymase-positive mast cells to angiogenesis in stage I non-small cell lung cancer, Eur. J. Cardiothorac. Surg. 28 (2005) 617–621, doi:10.1016/j.ejcts.2005.06.020.
+[17]	S. Wernersson, G. Pejler, Mast cell secretory granules: armed for battle, Nat. Rev. Immunol. 14 (2014) 478.
+[18]	J. Kalesnikoff, S.J. Galli, New developments in mast cell biology, Nat. Immunol. 9 (2008) 1215–1223, doi:10.1038/ni.f.216.
+[19]	T.C. Moon, A.Dean Befus, M. Kulka, Mast cell mediators: their differential re- lease and the secretory pathways involved, Front. Immunol. 5 (2014) 1–18, doi:10.3389/ﬁmmu.2014.00569.
+[20]	S.J. Galli, S. Nakae, M. Tsai, Mast cells in the development of adaptive immune responses, Nat. Immunol. 6 (2005) 135.
+[21]	A.M. Gilﬁllan, C. Tkaczyk, Integrated signalling pathways for mast-cell activa- tion, Nat. Rev. Immunol. 6 (2006) 218–230, doi:10.1038/nri1782.
+[22]	T. Yoshimaru, Y. Suzuki, T. Inoue, S. Nishida, C. Ra, Extracellular superoxide released from mitochondria mediates mast cell death by advanced glyca- tion end products, Biochimica et Biophysica Acta (BBA) - Mol. Cell Res. 1783 (2008) 2332–2343, doi:10.1016/j.bbamcr.2008.08.010.
+[23]	B.D. McNeil, P. Pundir, S. Meeker, L. Han, B.J. Undem, M. Kulka, X. Dong, Iden- tiﬁcation of a mast-cell-speciﬁc receptor crucial for pseudo-allergic drug re- actions, Nature 519 (2015) 237–241, doi:10.1038/nature14022.
+[24]	L. Lu, S. Raj, N. Arizmendi, J. Ding, G. Eitzen, P. Kwan, M. Kulka, L.D. Unsworth, Identiﬁcation of short peptide sequences that activate human mast cells via mas-related g-protein coupled receptor member x2, Acta Biomater. 136 (2021) 159–169.
+[25]	J. Li, S. Jubair, J.S. Janicki, Estrogen inhibits mast cell chymase release to pre- vent pressure overload-induced adverse cardiac remodeling, Hypertension 65 (2015) 328–334.
+[26]	J. Li, S. Jubair, S.P. Levick, J.S. Janicki, The autocrine role of tryptase in pressure overload-induced mast cell activation, chymase release and cardiac ﬁbrosis, IJC Metab. Endocr. 10 (2016) 16–23, doi:10.1016/j.ijcme.2015.11.003.
+[27]	M.-L. Wu, F.-L. Liu, J. Sun, X. Li, X.-Y. He, H.-Y. Zheng, Y.-H. Zhou, Q. Yan,
+L. Chen, G.-Y. Yu, J. Chang, X. Jin, J. Zhao, X.-W. Chen, Y.-T. Zheng, J.-H. Wang, SARS-CoV-2-triggered mast cell rapid degranulation induces alveolar epithe- lial inﬂammation and lung injury, Signal Transduct. Target Ther. 6 (2021) 428, doi:10.1038/s41392-021-00849- 0.
+[28]	G. Liu, A.G. Jarnicki, K.R. Paudel, W. Lu, R. Wadhwa, A.M. Philp, H. van Eeckhoutte, J.E. Marshall, V. Malyla, A. Katsiﬁs, M. Fricker, N.G. Hansbro,
+K. Dua, N.Z. Kermani, M.S. Eapen, A. Tiotiu, K.F. Chung, G. Caramori, K. Bracke,
+I.M. Adcock, S.S. Sohal, P.A. Wark, B.G. Oliver, P.M. Hansbro, Adverse roles of mast cell chymase-1 in chronic obstructive pulmonary disease, Eur. Respir. J. (2022) 2101431, doi:10.1183/13993003.01431-2021.
+[29]	T. Inoue, Y. Suzuki, C. Ra, Epigallocatechin-3-gallate induces cytokine pro- duction in mast cells by stimulating an extracellular superoxide-mediated calcium inﬂux, Biochem. Pharmacol. 82 (2011) 1930–1939, doi:10.1016/j.bcp.
+2011.09.011.
+[30]	T. Inoue, Y. Suzuki, T. Yoshimaru, C. Ra, Reactive oxygen species produced up- or downstream of calcium inﬂux regulate proinﬂammatory mediator release from mast cells: role of NADPH oxidase and mitochondria, Biochim. Biophys. Acta Mol. Cell Res. 1783 (2008) 789–802, doi:10.1016/j.bbamcr.2007.12.004.
+[31]	K. Mukai, M. Tsai, H. Saito, S.J. Galli, Mast cells as sources of cy- tokines, chemokines, and growth factors, Immunol. Rev. 282 (2018) 121– 150.
+[32]	N. di Girolamo, I. Indoh, N. Jackson, D. Wakeﬁeld, H.P. McNeil, W. Yan,
+C. Geczy, J.P. Arm, N. Tedla, Human mast cell-derived gelatinase B (matrix metalloproteinase-9) is regulated by inﬂammatory cytokines: role in cell mi- gration, J. Immunol. 177 (2006) 2638–2650, doi:10.4049/jimmunol.177.4.2638.
+[33]	N. Kanbe, A. Tanaka, M. Kanbe, A. Itakura, M. Kurosawa, H. Matsuda, Human mast cells produce matrix metalloproteinase 9, Eur. J. Immunol. 29 (1999) 2645–2649.
+ 
+[34]	W. Manorak, C. Idahosa, K. Gupta, S. Roy, R. Panettieri, H. Ali, Upregulation of Mas-related G Protein coupled receptor X2 in asthmatic lung mast cells and its activation by the novel neuropeptide hemokinin-1, Respir. Res. 19 (2018) 1–5.
+[35]	L. Xu, Z. Cai, F. Yang, M. Chen, Activationinduced upregulation of MMP9 in mast cells is a positive feedback mediator for mast cell activation, Mol. Med. Rep. 15 (2017) 1759–1764.
+[36]	L. Lu, M.B. Parmar, M. Kulka, P. Kwan, L.D. Unsworth, Self-assembling peptide nanoscaffold that activates human mast cells, ACS Appl. Mater. Interfaces 10 (2018) 6107–6117, doi:10.1021/acsami.7b14560.
+[37]	L.B.  Schwartz,  K.F.  Austen,  S.I.  Wasserman,  Immunologic  release  of
+β-hexosaminidase and β-glucuronidase from puriﬁed rat serosal mast cells,
+J. Immunol. 123 (1979) 1445–1450.
+[38]	Z. Xiang, M. Block, C. Löfman, G. Nilsson, Ige-mediated mast cell degranula- tion and recovery monitored by time-lapse photography, J. Allergy Clin. Im- munol. 108 (2001) 116–121, doi:10.1067/mai.2001.116124.
+[39]	L.B. Schwartz, R.A. Lewis, D. Seldin, K.F. Austen, Acid hydrolases and tryptase from secretory granules of dispersed human lung mast cells, J. Immunol. 126 (1981) 1290–1294.
+[40]	L.B. Schwartz, H.-K. Min, S. Ren, H.-Z. Xia, J. Hu, W. Zhao, G. Moxley,
+Y. Fukuoka, Tryptase precursors are preferentially and spontaneously released, whereas mature tryptase is retained by HMC-1 cells, mono-mac-6 cells, and human skin-derived mast cells, J. Immunol. 170 (2003) 5667–5673, doi:10. 4049/jimmunol.170.11.5667.
+[41]	B. Hermes, I. Feldmann-Böddeker, P. Welker, B. Algermissen, M.U. Steckelings,
+J. Grabbe, B.M. Henz, Altered expression of mast cell chymase and tryptase and of c-kit in human cutaneous scar tissue, J. Invest. Dermatol. 114 (2000) 51–55, doi:10.1046/j.1523-1747.2000.00837.x.
+[42]	L.B. Schwartz, A.M. Irani, K. Roller, M.C. Castells, N.M. Schechter, Quantitation of histamine, tryptase, and chymase in dispersed human T and TC mast cells,
+J. Immunol. 138 (1987) 2611–2615.
+[43]	A. Zanini, A. Chetta, M. Saetta, S. Baraldo, R. D’Ippolito, A. Castagnaro, M. Neri,
+D. Olivieri, Chymase-positive mast cells play a role in the vascular component of airway remodeling in asthma, J. Allergy Clin. Immunol. 120 (2007) 329– 333, doi:10.1016/j.jaci.2007.04.021.
+[44]	C.K. Andersson, M. Mori, L. Bjermer, C.G. Löfdahl, J.S. Erjefält, Alterations in lung mast cell populations in patients with chronic obstructive pulmonary disease, Am. J. Respir. Crit. Care Med. 181 (2010) 206–217, doi:10.1164/rccm.
+200906-0932OC.
+[45]	E. Kolaczkowska, B. Arnold, G. Opdenakker, Gelatinase B/MMP-9 as an in- ﬂammatory marker enzyme in mouse zymosan peritonitis: comparison of phase-speciﬁc and cell-speciﬁc production by mast cells, macrophages and neutrophils, Immunobiology 213 (2008) 109–124, doi:10.1016/j.imbio.2007.07.
+005.
+[46]	A. Tanaka, Y. Yamane, H. Matsuda, Mast cell MMP-9 production enhanced by bacterial lipopolysaccharide, J. Vet. Med. Sci. 63 (2001) 811–813, doi:10.1292/ jvms.63.811.
+[47]	E.J. Swindle, D.D. Metcalfe, J.W. Coleman, Rodent and human mast cells produce functionally signiﬁcant intracellular reactive oxygen species but not nitric oxide, J. Biol. Chem. 279 (2004) 48751–48759, doi:10.1074/jbc. M409738200.
+[48]	H.S. Kuehn, E.J. Swindle, M.-S. Kim, M.A. Beaven, D.D. Metcalfe, A.M. Gilﬁl- lan, The phosphoinositide 3-kinase-dependent activation of Btk is required for optimal eicosanoid production and generation of reactive oxygen species in antigen-stimulated mast cells, J. Immunol. 181 (2008) 7706–7712, doi:10. 4049/jimmunol.181.11.7706.
+[49]	E.J. Swindle, J.W. Coleman, F.R. DeLeo, D.D. Metcalfe, FcεRI- and Fcγ receptor-
+mediated production of reactive oxygen species by mast cells is lipoxygenase- and cyclooxygenase-dependent and NADPH oxidase-independent, J. Immunol. 179 (2007) 7059–7071, doi:10.4049/jimmunol.179.10.7059.
+[50]	Y. Suzuki, T. Yoshimaru, T. Matsui, T. Inoue, O. Niide, S. Nunomura, C. Ra, FcεRI signaling of mast cells activates intracellular production of hydrogen
+peroxide: role in the regulation of calcium signals, J. Immunol. 171 (2003) 6119–6127, doi:10.4049/jimmunol.171.11.6119.
+[51]	Y. Suzuki, T. Yoshimaru, T. Inoue, C. Ra, Discrete generations of intracellular hydrogen peroxide and superoxide in antigen-stimulated mast cells: recip- rocal regulation of store-operated Ca2+ channel activity, Mol. Immunol. 46
+(2009) 2200–2209, doi:10.1016/j.molimm.2009.04.013.
+[52]	T. Yoshimaru, Y. Suzuki, T. Inoue, O. Niide, C. Ra, Silver activates mast cells through reactive oxygen species production and a thiol-sensitive store- independent Ca2+ inﬂux, Free Radic. Biol. Med. 40 (2006) 1949–1959, doi:10. 1016/j.freeradbiomed.2006.01.023.
+[53]	Y. Suzuki, T. Inoue, T. Yoshimaru, C. Ra, Galectin-3 but not galectin-1 induces mast cell death by oxidative stress and mitochondrial permeability transi- tion, Biochim. Biophys. Acta Mol. Cell Res. 1783 (2008) 924–934, doi:10.1016/ j.bbamcr.2008.01.025.
+[54]	L.B. Schwartz, K.F. Austen, Enzymes of the mast cell granule, J. Invest. Derma- tol. 74 (1980) 349–353.
+[55]	S. Jogie-Brahim, H.K. Min, Y. Fukuoka, H.Z. Xia, L.B. Schwartz, Expression of
+α-tryptase and β-tryptase by human basophils, J. Allergy Clin. Immunol. 113 (2004) 1086–1092, doi:10.1016/j.jaci.2004.02.032.
+[56]	A.A. Irani, N.M. Schechter, S.S. Craig, G. DeBlois, L.B. Schwartz, Two types of human mast cells that have distinct neutral protease compositions, Proc. Natl. Acad. Sci. USA 83 (1986) 4464–4468, doi:10.1073/pnas.83.12.4464.
+[57]	S. Balzar, M.L. Fajt, S.A.A. Comhair, S.C. Erzurum, E. Bleecker, W.W. Busse,
+M. Castro, B. Gaston, E. Israel, L.B. Schwartz, D. Curran-Everett, C.G. Moore,
+ 
+S.E. Wenzel, Mast cell phenotype, location, and activation in severe asthma: data from the Severe Asthma Research Program, Am. J. Respir. Crit. Care Med. 183 (2011) 299–309, doi:10.1164/rccm.201002-0295OC.
+[58]	R. Zhang, V.L.Y. Yip, S.G. Withers, Mechanisms of enzymatic glycosyl transfer, (2010).
+[59]	N. Fukuishi, S. Murakami, A. Ohno, N. Yamanaka, N. Matsui, K. Fukutsuji,
+S. Yamada, K. Itoh, M. Akagi, Does β-hexosaminidase function only as a de- granulation indicator in mast cells? The primary role of β-hexosaminidase in mast cell granules, J. Immunol. 193 (2014) 1886–1894, doi:10.4049/jimmunol.
+1302520.
+[60]	I.C. Koo, Y.M. Ohol, P. Wu, J.H. Morisaki, J.S. Cox, E.J. Brown, Role for lysoso- mal enzyme β-hexosaminidase in the control of mycobacteria infection, Proc. Natl. Acad. Sci. USA 105 (2008) 710–715, doi:10.1073/pnas.0708110105.
+[61]	C. Zimmermann, D. Troeltzsch, V.A. Giménez-Rivera, S.J. Galli, M. Metz,
+M. Maurer, F. Siebenhaar, Mast cells are critical for controlling the bacterial burden and the healing of infected wounds, Proc. Natl. Acad. Sci. USA 116 (2019) 20500–20504, doi:10.1073/pnas.1908816116.
+[62]	W.  Suginta,  D.  Chuenark,  M.  Mizuhara,  T.  Fukamizo,  Novel  β-N-
+acetylglucosaminidases from Vibrio harveyi 650: cloning, expression, en- zymatic properties, and subsite identiﬁcation, BMC Biochem. 11 (2010), doi:10.1186/1471-2091-11- 40.
+[63]	N. Konno, H. Takahashi, M. Nakajima, T. Takeda, Y. Sakamoto, Characterization of β-N-acetylhexosaminidase (LeHex20A), a member of glycoside hydrolase
+family 20, from Lentinula edodes (shiitake mushroom), AMB Express 2 (2012) 1–7, doi:10.1186/2191- 0855- 2- 29.
+[64]	Q. Yang, T. Liu, F. Liu, M. Qu, X. Qian, A novel β-N-acetyl-d-hexosaminidase
+from the insect Ostrinia furnacalis (Guenée), FEBS J. 275 (2008) 5690–5702, doi:10.1111/j.1742-4658.2008.06695.x.
+[65]	S. Katta, S. Ankati, A.R. Podile, Chitooligosaccharides are converted to N- acetylglucosamine by N-acetyl-β-hexosaminidase from stenotrophomonas
+maltophilia, FEMS Microbiol. Lett. 348 (2013) 19–25, doi:10.1111/1574-6968.
+12237.
+[66]	N.O. Keyhani, S. Roseman, The chitin catabolic cascade in the marine bac- terium vibrio furnissii: molecular cloning, isolation, and characterization of a periplasmic β-N-acetylglucosaminidase, J. Biol. Chem. 271 (1996) 33425– 33432, doi:10.1074/jbc.271.52.33425.
+[67]	F. Nanjo, R. Katsumi, K. Sakai, Puriﬁcation and characterization of an Exo-β-
+D-glucosaminidase, a novel type of enzyme, from nocardia orientalis, J. Biol. Chem. 265 (1990) 10088–10094, doi:10.1016/s0021-9258(19)38783- 6.
+[68]	L. Gushulak, R. Hemming, D. Martin, V. Seyrantepe, A. Pshezhetsky, B. Triggs- Raine, Hyaluronidase 1 and β-hexosaminidase have redundant functions in
+hyaluronan and chondroitin sulfate degradation, J. Biol. Chem. 287 (2012) 16689–16697, doi:10.1074/jbc.M112.350447.
+[69]	S.M. Lim, D.K. Song, S.H. Oh, D.S. Lee-Yoon, E.H. Bae, J.H. Lee, In vitro and in vivo degradation behavior of acetylated chitosan porous beads, J. Biomater. Sci. Polym. Ed. 19 (2008) 453–466, doi:10.1163/156856208783719482.
+[70]	F. Liaqat, R. Eltem, Chitooligosaccharides and their biological activities: a comprehensive review, Carbohydr. Polym. 184 (2018) 243–259.
+[71]	D.N. Gosalia, C.M. Salisbury, J.A. Ellman, S.L. Diamond, High throughput sub- strate speciﬁcity proﬁling of serine and cysteine proteases using solution- phase ﬂuorogenic peptide microarrays, Mol. Cell. Proteomics 4 (2005) 626– 636, doi:10.1074/mcp.M500004-MCP200.
+[72]	J.J. Perona, C.S. Craik, Structural basis of substrate speciﬁcity in the serine pro- teases, Protein Sci. 4 (1995) 337–360.
+[73]	J.L. Harris, A. Niles, K. Burdick, M. Maﬃtt, B.J. Backes, J.A. Ellman, I. Kuntz,
+M. Haak-Frendscho, C.S. Craik, Deﬁnition of the extended substrate speciﬁcity determinants for β-tryptases I and II, J. Biol. Chem. 276 (2001) 34941–34947, doi:10.1074/jbc.M102997200.
+[74]	B. Spichalska, A. Lesner, M. Wysocka, M. S´ ledz´, A. Łe¸ gowska, A. Jas´kiewicz,
+H. Miecznikowska, K. Rolka, The inﬂuence of substrate peptide length on hu- man β-tryptase speciﬁcity, J. Pept. Sci. 14 (2008) 917–923.
+[75]	S.T. Furlong, R.C. Mauger, A.M. Strimpler, Y.P. Liu, F.X. Morris, P.D. Edwards, Synthesis and physical characterization of a P1 arginine combinatorial li- brary, and its application to the determination of the substrate speciﬁcity of serine peptidases, Bioorg. Med. Chem. 10 (2002) 3637–3647, doi:10.1016/ S0968-0896(02)00174- 8.
+[76]	J.A. Cromlish, N.G. Seidah, M. Marcinkiewicz, J. Hamelin, D.A. Johnson,
+M. Chrétien, Human pituitary tryptase: molecular forms, NH2-terminal se- quence, immunocytochemical localization, and speciﬁcity with prohormone and ﬂuorogenic substrates, J. Biol. Chem. 262 (1987) 1363–1373, doi:10.1016/ s0021-9258(19)75795- 0.
+[77]	M. Wysocka, B. Spichalska, A. Lesner, M. Jaros, K. Brzozowski, A. Łe˛gowska,
+K. Rolka, Substrate speciﬁcity and inhibitory study of human airway trypsin– like protease, Bioorg. Med. Chem. 18 (2010) 5504–5509.
+[78]	T. Tanaka, B.J. McRae, K. Cho, R. Cook, J.E. Fraki, D.A. Johnson, J.C. Pow- ers, Mammalian tissue trypsin-like enzymes, J. Biol. Chem. 258 (1983) 13552–13557.
+[79]	M. Poe, C.D. Bennett, W.E. Biddison, J.T. Blake, G.P. Norton, J.A. Rodkey,
+N.H. Sigal, R.v. Turner, J.K. Wu, H.J. Zweerink, Human cytotoxic lymphocyte tryptase. Its puriﬁcation from granules and the characterization of inhibitor and substrate speciﬁcity, J. Biol. Chem. 263 (1988) 13215–13222, doi:10.1016/ s0021-9258(18)37694-4.
+[80]	W.W. Raymond, S. Waugh Ruggles, C.S. Craik, G.H. Caughey, Albumin is a sub- strate, of human chymase: prediction by combinatorial peptide screening and development of a selective inhibitor based on the albumin cleavage site, J. Biol. Chem. 278 (2003) 34517–34524, doi:10.1074/jbc.M304087200.
+ 
+[81]	M. Bastos, N.J. Maeji, R.H. Abeles, Inhibitors of human heart chymase based on a peptide library, Proc. Natl. Acad. Sci. USA 92 (1995) 6738–6742, doi:10. 1073/pnas.92.15.6738.
+[82]	A. Kinoshita, H. Urata, F.M. Bumpus, A. Husain, Multiple determinants for the high substrate speciﬁcity of an angiotensin II-forming chymase from the human heart, J. Biol. Chem. 266 (1991) 19192–19197, doi:10.1016/ s0021-9258(18)54981- 4.
+[83]	S. Sanker, U.M. Chandrasekharan, D. Wilk, M.J. Glynias, S.S. Karnik, A. Husain, Distinct multisite synergistic interactions determine substrate speciﬁcities of human chymase and rat chymase-1 for angiotensin II formation and degrada- tion, J. Biol. Chem. 272 (1997) 2963–2968, doi:10.1074/jbc.272.5.2963.
+[84]	H. Urata, A. Kinoshita, K.S. Misono, F.M. Bumpus, A. Husain, Identiﬁcation of a highly speciﬁc chymase as the major angiotensin II-forming enzyme in the human heart, J. Biol. Chem. 265 (1990) 22348–22357, doi:10.1016/ s0021-9258(18)45712- 2.
+[85]	S. Ahmad, K.N. Wright, X. Sun, L. Groban, C.M. Ferrario, Mast cell pep- tidases (carboxypeptidase A and chymase)-mediated hydrolysis of human angiotensin-(1–12) substrate, Biochem. Biophys. Res. Commun. 518 (2019) 651–656, doi:10.1016/j.bbrc.2019.08.098.
+[86]	M.K. Andersson, M. Enoksson, M. Gallwitz, L. Hellman, The extended sub- strate speciﬁcity of the human mast cell chymase reveals a serine protease with well-deﬁned substrate recognition proﬁle, Int. Immunol. 21 (2009) 95– 104, doi:10.1093/intimm/dxn128.
+[87]	J.C. Powers, T. Tanaka, J.W. Harper, Y. Minematsu, L. Barker, D. Lincoln, K. v Crumley, J.E. Fraki, N.M. Schechter, Mammalian chymotrypsin-like enzymes. Comparative reactivities of rat mast cell proteases, human and dog skin chy- mases, and human cathepsin G with peptide 4-nitroanilide substrates and with peptide chloromethyl ketone and sulfonyl ﬂuoride inhibitors, Biochem- istry 24 (1985) 2048–2058.
+[88]	B. Korkmaz, G. Jégot, L.C. Lau, M. Thorpe, E. Pitois, L. Juliano, A.F. Walls,
+L. Hellman, F. Gauthier, Discriminating between the activities of human cathepsin G and chymase using ﬂuorogenic substrates, FEBS J. 278 (2011) 2635–2646.
+[89]	J. Pugin, M.C. Widmer, S. Kossodo, C.M. Liang, H.L. Preas, A.F. Suffredini, Hu- man neutrophils secrete gelatinase B in vitro and in vivo in response to endo- toxin and proinﬂammatory mediators, Am. J. Respir. Cell Mol. Biol. 20 (1999) 458–464, doi:10.1165/ajrcmb.20.3.3311.
+[90]	N. Lingwal, M. Padmasekar, B. Samikannu, R.G. Bretzel, K.T. Preissner, T. Linn, Inhibition of gelatinase B (matrix metalloprotease-9) activity reduces cellular inﬂammation and restores function of transplanted pancreatic islets, Diabetes 61 (2012) 2045–2053.
+[91]	C.N. Loynachan, A.P. Soleimany, J.S. Dudani, Y. Lin, A. Najer, A. Bekdemir,
+Q. Chen, S.N. Bhatia, M.M. Stevens, Renal clearable catalytic gold nanoclus- ters for in vivo disease monitoring, Nat. Nanotechnol. 14 (2019) 883–890, doi:10.1038/s41565-019-0527- 6.
+[92]	H. Trøstrup, P. Holstein, T. Karlsmark, C. Moser, M.S. A˚ gren, Uncontrolled
+gelatin degradation in non-healing chronic wounds, J. Wound Care 27 (2018) 724–734, doi:10.12968/jowc.2018.27.11.724.
+[93]	U. Eckhard, P.F. Huesgen, O. Schilling, C.L. Bellac, G.S. Butler, J.H. Cox, A. Du- four, V. Goebeler, R. Kappelhoff, U. auf dem Keller, Active site speciﬁcity pro- ﬁling of the matrix metalloproteinase family: proteomic identiﬁcation of 4300 cleavage sites by nine MMPs explored with structural and synthetic peptide cleavage analyses, Matrix Biol. 49 (2016) 37–60.
+[94]	B.I. Ratnikov, P. Cieplak, K. Gramatikoff, J. Pierce, A. Eroshkin, Y. Igarashi,
+M. Kazanov, Q. Sun, A. Godzik, A. Osterman, Basis for substrate recognition and distinction by matrix metalloproteinases, Proc. Natl Acad. Sci. 111 (2014) E4148–E4155.
+[95]	S.J. Kridel, E. Chen, L.P. Kotra, E.W. Howard, S. Mobashery, J.W. Smith, Sub- strate hydrolysis by matrix metalloproteinase-9, J. Biol. Chem. 276 (2001) 20572–20578.
+[96]	M.M. Nguyen, A.S. Carlini, M.P. Chien, S. Sonnenberg, C. Luo, R.L. Braden,
+K.G. Osborn, Y. Li, N.C. Gianneschi, K.L. Christman, Enzyme-responsive nanoparticles for targeted accumulation and prolonged retention in heart tissue after myocardial infarction, Adv. Mater. 27 (2015) 5547–5552, doi:10. 1002/adma.201502003.
+[97]	N. Singh, A. Karambelkar, L. Gu, K. Lin, J.S. Miller, C.S. Chen, M.J. Sailor,
+S.N. Bhatia, Bioresponsive mesoporous silica nanoparticles for triggered drug release, J. Am. Chem. Soc. 133 (2011) 19582–19585, doi:10.1021/ ja206998x.
+[98]	B. Grünwald, J. Vandooren, E. Locatelli, P. Fiten, G. Opdenakker, P. Proost,
+A. Krüger, J.P. Lellouche, L.L. Israel, L. Shenkman, M. Comes Franchini, Ma- trix metalloproteinase-9 (MMP-9) as an activator of nanosystems for targeted drug delivery in pancreatic cancer, J. Controlled Release 239 (2016) 39–48, doi:10.1016/j.jconrel.2016.08.016.
+[99]	M. Santoro, A.M. Tatara, A.G. Mikos, Gelatin carriers for drug and cell delivery in tissue engineering, J. Controlled Release 190 (2014) 210–218.
+[100]	D. Olsen, C. Yang, M. Bodo, R. Chang, S. Leigh, J. Baez, D. Carmichael,
+M. Perälä, E.-R. Hämäläinen, M. Jarvinen, Recombinant collagen and gelatin for drug delivery, Adv. Drug. Deliv. Rev. 55 (2003) 1547–1567.
+[101]	K. Su, C. Wang, Recent advances in the use of gelatin in biomedical research, Biotechnol. Lett. 37 (2015) 2139–2145.
+[102]	E.Y. Jones, A. Miller, Analysis of structural design features in collagen, J. Mol. Biol. 218 (1991) 209–219.
+[103]	R. Haﬁdz, C.M. Yaakob, I. Amin, A. Noorfaizan, Chemical and functional properties of bovine and porcine skin gelatin, Int. Food Res. J. 18 (2011) 787–791.
+ 
+[104]	P. Sorlier, A. Denuzière, C. Viton, A. Domard, Relation between the degree of acetylation and the electrostatic properties of chitin and chitosan, Biomacro- molecules 2 (2001) 765–772, doi:10.1021/bm015531+.
+[105]	C. Chatelet, O. Damour, A. Domard, Inﬂuence of the degree of acetylation on some biological properties of chitosan ﬁlms, Biomaterials 22 (2001) 261–268, doi:10.1016/S0142-9612(00)00183-6.
+[106]	L.F. Boesel, R.L. Reis, J.S. Román, Innovative approach for producing injectable, biodegradable materials using chitooligosaccharides and green chemistry, Biomacromolecules 10 (2009) 465–470, doi:10.1021/bm801332u.
+[107]	C. Wang, G. Li, R. Guo, Multiple morphologies from amphiphilic graft copoly- mers based on chitooligosaccharides as backbones and polycaprolactones as branches, Chem. Commun. 1 (2005) 3591–3593, doi:10.1039/b504428f.
+[108]	Y. Xu, L. Wang, Y.K. Li, C.Q. Wang, Reduction and pH dual-responsive nanopar- ticles based chitooligosaccharide-based graft copolymer for doxorubicin de- livery, Colloids Surf. A Physicochem. Eng. Asp. 497 (2016) 8–15, doi:10.1016/j. colsurfa.2016.01.049.
+[109]	J. Zhang, J. Han, X. Zhang, J. Jiang, M. Xu, D. Zhang, J. Han, Polymeric nanoparticles based on chitooligosaccharide as drug carriers for co-delivery of all-trans-retinoic acid and paclitaxel, Carbohydr. Polym. 129 (2015) 25–34, doi:10.1016/j.carbpol.2015.04.036.
+[110]	C. Xin, X. Yao, B. Du, W. Yang, L. Wang, L. Ma, W. Weng, Stearic acid- grafted chitooligosaccharide nanomicelle system with biocleavable gadolin- ium chelates as a multifunctional agent for tumor imaging and drug delivery, Pharm. Res. 36 (2019), doi:10.1007/s11095-018- 2530- 2.
+[111]	P. Chandika, G.W. Oh, S.Y. Heo, S.C. Kim, T.H. Kim, M.S. Kim, W.K. Jung, Elec- trospun porous bilayer nano-ﬁbrous ﬁsh collagen/PCL bio-composite scaffolds with covalently cross-linked chitooligosaccharides for full-thickness wound- healing applications, Mater. Sci. Eng. C 121 (2021) 111871, doi:10.1016/j.msec. 2021.111871.
+[112]	X. Liu, L. Chen, Y. Zhang, X. Xin, L. Qi, M. Jin, Y. Guan, Z. Gao, W. Huang, Enhancing anti-melanoma outcomes in mice using novel chitooligosaccharide nanoparticles loaded with therapeutic survivin-targeted siRNA, Eur. J. Pharm. Sci. 158 (2021) 105641, doi:10.1016/j.ejps.2020.105641.
+[113]	A.S. Balijepalli, R.C. Sabatelle, M. Chen, B. Suki, M.W. Grinstaff, A synthetic bioinspired carbohydrate polymer with mucoadhesive properties, Angew. Chem. 132 (2020) 714–720.
+[114]	A.K. Thakur, B. Kaundle, I. Singh, Mucoadhesive drug delivery systems in res- piratory diseases, in: Targeting Chronic Inﬂammatory Lung Diseases Using Advanced Drug Delivery Systems, Elsevier, 2020, pp. 475–491.
+[115]	S. Zhang, J. Ermann, M.D. Succi, A. Zhou, M.J. Hamilton, B. Cao, J.R. Korzenik,
+J.N. Glickman, P.K. Vemula, L.H. Glimcher, An inﬂammation-targeting hydro- gel for local drug delivery in inﬂammatory bowel disease, Sci. Transl. Med. 7 (2015) 300ra128-300ra128.
+[116]	H.D. Singh, I. Bushnak, L.D. Unsworth, Engineered peptides with enzymati- cally cleavable domains for controlling the release of model protein drug from “soft” nanoparticles, Acta Biomater. 8 (2012) 636–645, doi:10.1016/j.actbio.
+2011.10.028.
+[117]	K. Koss, C. Tsui, L.D. Unsworth, Induced neural differentiation of MMP-2 cleaved (RADA)4 drug delivery systems, J. Controlled Release 243 (2016) 204– 213, doi:10.1016/j.jconrel.2016.09.037.
+[118]	K.M. Koss, C. Tsui, L.D. Unsworth, Enzymatic activity in fractal networks of self-assembling peptides, Biomacromolecules 20 (2019) 422–434, doi:10.1021/ acs.biomac.8b01496.
+[119]	Y. Wang, Y. Luo, Q. Zhao, Z. Wang, Z. Xu, X. Jia, An enzyme-responsive nanogel carrier based on PAMAM dendrimers for drug delivery, ACS Appl. Mater. In- terfaces 8 (2016) 19899–19906, doi:10.1021/acsami.6b05567.
+[120]	E. Secret, S.J. Kelly, K.E. Crannell, J.S. Andrew, Enzyme-responsive hydrogel mi- croparticles for pulmonary drug delivery, ACS Appl. Mater. Interfaces 6 (2014) 10313–10321, doi:10.1021/am501754s.
+[121]	M. Najaﬁ, H. Asadi, J. van den Dikkenberg, M.J. van Steenbergen,
+M.H.A.M. Fens, W.E. Hennink, T. Vermonden, Conversion of an in- jectable MMP-degradable hydrogel into core-cross-linked micelles, Biomacro- molecules 21 (2020) 1739–1751, doi:10.1021/acs.biomac.9b01675.
+[122]	L. Massi, A. Najer, R. Chapman, C.D. Spicer, V. Nele, J. Che, M.A. Booth,
+J.J. Doutch, M.M. Stevens, Tuneable peptide cross-linked nanogels for enzyme- triggered protein delivery, J. Mater. Chem. B 8 (2020) 8894–8907, doi:10.1039/ d0tb01546f.
+[123]	C. Zhang, D. Pan, K. Luo, W. She, C. Guo, Y. Yang, Z. Gu, Peptide dendrimer- doxorubicin conjugate-based nanoparticles as an enzyme-responsive drug de- livery system for cancer therapy, Adv. Healthc. Mater. 3 (2014) 1299–1308, doi:10.1002/adhm.201300601.
+[124]	C.E. Callmann, C.v. Barback, M.P. Thompson, D.J. Hall, R.F. Mattrey, N.C. Gi- anneschi, Therapeutic enzyme-responsive nanoparticles for targeted delivery and accumulation in tumors, Adv. Mater. 27 (2015) 4611–4615, doi:10.1002/ adma.201501803.
+[125]	L. Zhu, F. Perche, T. Wang, V.P. Torchilin, Matrix metalloproteinase 2-sensitive multifunctional polymeric micelles for tumor-speciﬁc co-delivery of siRNA and hydrophobic drugs, Biomaterials 35 (2014) 4213–4222, doi:10.1016/j. biomaterials.2014.01.060.
+[126]	L. Zhu, T. Wang, F. Perche, A. Taigind, V.P. Torchilin, Enhanced anticancer ac- tivity of nanopreparation containing an MMP2-sensitive PEG-drug conjugate and cell-penetrating moiety, Proc. Natl. Acad. Sci. USA 110 (2013) 17047–
+17052, doi:10.1073/pnas.1304987110.
+[127]	R. Dorresteijn, N. Billecke, M. Schwendy, S. Pütz, M. Bonn, S.H. Parekh,
+M.  Klapper,  K.  Müllen,  Polylactide-block-polypeptide-block-polylactide
+ 
+copolymer nanoparticles with tunable cleavage and controlled drug release, Adv. Funct. Mater. 24 (2014) 4026–4033, doi:10.1002/adfm.201304074.
+[128]	N. Padmavathy, L. das Ghosh, S.R.K. Meka, K. Chatterjee, Synthesis of a block copolymer exhibiting cell-responsive phytochemical release for cancer ther- apy, ACS Appl. Mater. Interfaces 10 (2018) 21816–21824, doi:10.1021/acsami. 8b03521.
+[129]	C. Zhang, D. Pan, J. Li, J. Hu, A. Bains, N. Guys, H. Zhu, X. Li, K. Luo,
+Q. Gong, Z. Gu, Enzyme-responsive peptide dendrimer-gemcitabine conjugate as a controlled-release drug delivery vehicle with enhanced antitumor eﬃ- cacy, Acta Biomater. 55 (2017) 153–162, doi:10.1016/j.actbio.2017.02.047.
+[130]	H. Qi, Q. Chen, H. Ren, X. Wu, X. Liu, T. Lu, Electrophoretic deposition of dexamethasone-loaded gelatin nanospheres/chitosan coating and its dual function in anti-inﬂammation and osteogenesis, Colloids Surf. B Biointerfaces 169 (2018) 249–256, doi:10.1016/j.colsurfb.2018.05.029.
+[131]	A.A. Dongargaonkar, G.L. Bowlin, H. Yang, Electrospun blends of gelatin and gelatin-dendrimer conjugates as a wound-dressing and drug-delivery plat- form, Biomacromolecules 14 (2013) 4038–4045, doi:10.1021/bm401143p.
+[132]	Z. Zou, D. He, X. He, K. Wang, X. Yang, Z. Qing, Q. Zhou, Natural gelatin capped mesoporous silica nanoparticles for intracellular acid-triggered drug delivery, Langmuir 29 (2013) 12804–12810, doi:10.1021/la4022646.
+[133]	Z.X. Meng, X.X. Xu, W. Zheng, H.M. Zhou, L. Li, Y.F. Zheng, X. Lou, Prepa- ration and characterization of electrospun PLGA/gelatin nanoﬁbers as a po- tential drug delivery system, Colloids Surf. B Biointerfaces 84 (2011) 97–102, doi:10.1016/j.colsurfb.2010.12.022.
+[134]	L. Zhang, J. Liu, X. Zheng, A. Zhang, X. Zhang, K. Tang, Pullulan dialdehyde crosslinked gelatin hydrogels with high strength for biomedical applications, Carbohydr. Polym. 216 (2019) 45–53, doi:10.1016/j.carbpol.2019.04.004.
+[135]	R.T. Annamalai, P.A. Turner, W.F. Carson, B. Levi, S. Kunkel, J.P. Stegemann, Harnessing macrophage-mediated degradation of gelatin microspheres for spatiotemporal control of BMP2 release, Biomaterials 161 (2018) 216–227, doi:10.1016/j.biomaterials.2018.01.040.
+[136]	J.H. Xu, F.P. Gao, L.L. Li, H.L. Ma, Y.S. Fan, W. Liu, S.S. Guo, X.Z. Zhao, H. Wang,
+Gelatin-mesoporous silica nanoparticles as matrix metalloproteinases- degradable drug delivery systems in vivo, Microporous Mesoporous Mater. 182 (2013) 165–172, doi:10.1016/j.micromeso.2013.08.050.
+[137]	S. Jain, P.U. Valvi, N.K. Swarnakar, K. Thanki, Gelatin coated hybrid lipid nanoparticles for oral delivery of amphotericin B, Mol. Pharm. 9 (2012) 2542– 2553, doi:10.1021/mp300320d.
+[138]	H. Blaser, C. Dostert, T.W. Mak, D. Brenner, TNF and ROS crosstalk in inﬂam- mation, Trends Cell Biol. 26 (2016) 249–261.
+[139]	V. Papayannopoulos, Neutrophil extracellular traps in immunity and disease, Nat. Rev. Immunol. 18 (2018) 134–147.
+[140]	E.J. Swindle, J.A. Hunt, J.W. Coleman, A comparison of reactive oxygen species generation by rat peritoneal macrophages and mast cells using the highly sensitive real-time chemiluminescent probe pholasin: inhibition of antigen- induced mast cell degranulation by macrophage-derived hydrogen pero, J. Im- munol. 169 (2002) 5866–5873, doi:10.4049/jimmunol.169.10.5866.
+[141]	G. Saravanakumar, J. Kim, W.J. Kim, Reactive-oxygen-species-responsive drug delivery systems: promises and challenges, Adv. Sci. 4 (2017). https://doi.org/10.1002/advs.201600124.
+[142]	W.C. Ballance, E.C. Qin, H.J. Chung, M.U. Gillette, H. Kong, Reactive oxygen species-responsive drug delivery systems for the treatment of neurodegenera- tive diseases, Biomaterials 217 (2019) 119292, doi:10.1016/j.biomaterials.2019.
+119292.
+[143]	A.K. Shukla, M. Verma, K.N. Singh, Superoxide induced deprotection of 1,3-dithiolanes: a convenient method of dedithioacetalization, Indian J. Chem. - Sect. B Organ. Med. Chem. 43 (2004) 1748–1752, doi:10.1002/chin. 200449059.
+[144]	M.S. Shim, Y. Xia, A reactive oxygen species (ROS)-responsive polymer for safe, eﬃcient, and targeted gene delivery in cancer cells, Angew. Chem. - Int. Ed. 52 (2013) 6926–6929, doi:10.1002/anie.201209633.
+[145]	B. Liu, S. Thayumanavan, Mechanistic investigation on oxidative degradation of ROS-responsive thioacetal/thioketal moieties and their implications, Cell Rep. Phys. Sci. 1 (2020) 100271, doi:10.1016/j.xcrp.2020.100271.
+[146]	J. Li, C. Sun, W. Tao, Z. Cao, H. Qian, X. Yang, J. Wang, Photoinduced PEG deshielding from ROS-sensitive linkage-bridged block copolymer-based nanocarriers for on-demand drug delivery, Biomaterials 170 (2018) 147–155, doi:10.1016/j.biomaterials.2018.04.015.
+[147]	D.S. Wilson, G. Dalmasso, L. Wang, S.v. Sitaraman, D. Merlin, N. Murthy, Orally
+delivered thioketal nanoparticles loaded with TNF-α-siRNA target inﬂamma- tion and inhibit gene expression in the intestines, Nat. Mater. 9 (2010) 923– 928, doi:10.1038/nmat2859.
+[148]	Y. Yuan, J. Liu, B. Liu, Conjugated-polyelectrolyte-based polyprodrug: targeted and image-guided photodynamic and chemotherapy with on-demand drug release upon irradiation with a single light source, Angew. Chem. - Int. Ed. 53 (2014) 7163–7168, doi:10.1002/anie.201402189.
+[149]	C. Yue, Y. Yang, C. Zhang, G. Alfranca, S. Cheng, L. Ma, Y. Liu, X. Zhi, J. Ni,
+W. Jiang, J. Song, J.M. de la Fuente, D. Cui, ROS-responsive mitochondria- targeting blended nanoparticles: chemo- and photodynamic synergistic ther- apy for lung cancer with on-demand drug release upon irradiation with a single light source, Theranostics 6 (2016) 2352–2366, doi:10.7150/thno.15433.
+[150]	D. Chen, G. Zhang, R. Li, M. Guan, X. Wang, T. Zou, Y. Zhang, C. Wang, C. Shu,
+H. Hong, L.J. Wan, Biodegradable, hydrogen peroxide, and glutathione dual responsive nanoparticles for potential programmable paclitaxel release, J. Am. Chem. Soc. 140 (2018) 7373–7376, doi:10.1021/jacs.7b12025.
+ 
+[151]	J. Wang, X. He, S. Shen, Z. Cao, X. Yang, ROS-sensitive cross-linked polyethylenimine for red-light-activated siRNA therapy, ACS Appl. Mater. In- terfaces 11 (2019) 1855–1863, doi:10.1021/acsami.8b18697.
+[152]	X. Ling, S. Zhang, P. Shao, P. Wang, X. Ma, M. Bai, Synthesis of a reactive oxy- gen species responsive heterobifunctional thioketal linker, Tetrahedron Lett. 56 (2015) 5242–5244, doi:10.1016/j.tetlet.2015.07.059.
+[153]	L. Xu, M. Zhao, W. Gao, Y. Yang, J. Zhang, Y. Pu, B. He, Polymeric nanoparticles responsive to intracellular ROS for anticancer drug delivery, Colloids Surf. B Biointerfaces 181 (2019) 252–260, doi:10.1016/j.colsurfb.2019.05.064.
+[154]	X. Xu, P.E. Saw, W. Tao, Y. Li, X. Ji, S. Bhasin, Y. Liu, D. Ayyash, J. Rasmussen,
+M. Huo, J. Shi, O.C. Farokhzad, ROS-responsive polyprodrug nanoparticles for triggered drug delivery and effective cancer therapy, Adv. Mater. 29 (2017) 1–6, doi:10.1002/adma.201700141.
+[155]	N. Robas, E. Mead, M. Fidock, MrgX2 is a high potency cortistatin receptor expressed in Dorsal Root Ganglion, J. Biol. Chem. 278 (2003) 44400–44404, doi:10.1074/jbc.M302456200.
+[156]	J. Elst, V. Sabato, M.M. Hagendorens, M. van Houdt, M.A. Faber, C.H. Bridts,
+D.G. Ebo, C. Mertens, Measurement and functional analysis of the Mas-related G protein-coupled receptor MRGPRX2 on human mast cells and basophils, in: Basophils and Mast Cells, Springer, 2020, pp. 219–226.
+[157]	H. Subramanian, K. Gupta, H. Ali, Roles of Mas-related G protein–coupled receptor X2 on mast cell–mediated host defense, pseudoallergic drug reac- tions, and chronic inﬂammatory diseases, J. Allergy Clin. Immunol. 138 (2016) 700–710.
+[158]	M. Babina, The pseudo-allergic/neurogenic route of mast cell activation via MRGPRX2: discovery, functional programs, regulation, relevance to disease, and relation with allergic stimulation, Itch 5 (2020) e32.
+[159]	G. Varricchi, G. Marone, P.T. Kovanen, Cardiac mast cells: underappreciated immune cells in cardiovascular homeostasis and disease, Trends Immunol. 41 (2020) 734–746, doi:10.1016/j.it.2020.06.006.
+[160]	D. Fujisawa, J. Kashiwakura, H. Kita, Y. Kikukawa, Y. Fujitani, T. Sasak- i-Sakamoto, K. Kuroda, S. Nunomura, K. Hayama, T. Terui, Expression of Mas-related gene X2 on mast cells is upregulated in the skin of patients with severe chronic urticaria, J. Allergy Clin. Immunol. 134 (2014) 622–633.
+[161]	P. Kolkhir, P. Pyatilova, T. Ashry, Q. Jiao, A.T. Abad-Perez, S. Altrichter,
+C.E.V. Ayala, M.K. Church, J. He, K. Lohse, Mast cells, cortistatin, and its re- ceptor, MRGPRX2, are linked to the pathogenesis of chronic prurigo, J. Allergy Clin. Immunol. (2022).
+[162]	S. Roy, C.C.N. Ayudhya, M. Thapaliya, V. Deepak, H. Ali, Multifaceted MRG- PRX2: new insight into the role of mast cells in health and disease, J. Allergy Clin. Immunol. 148 (2021) 293–308.
+[163]	A.  Navinés-Ferrer,  E.  Serrano-Candelas,  A.  Lafuente,  R.  Muñoz-Cano,
+M. Martín, G. Gastaminza, MRGPRX2-mediated mast cell response to drugs used in perioperative procedures and anaesthesia, Sci. Rep. 8 (2018) 1–11.
+[164]	H. Subramanian, K. Gupta, D. Lee, A.K. Bayir, H. Ahn, H. Ali, β-Defensins ac-
+tivate human mast cells via Mas-related gene X2, J. Immunol. 191 (2013) 345–352.
+[165]	M. Kamohara, A. Matsuo, J. Takasaki, M. Kohda, M. Matsumoto, S. Matsumoto,
+T. Soga, H. Hiyama, M. Kobori, M. Katou, Identiﬁcation of MrgX2 as a hu- man G-protein-coupled receptor for proadrenomedullin N-terminal peptides, Biochem. Biophys. Res. Commun. 330 (2005) 1146–1152.
+[166]	T. Plum, X. Wang, M. Rettel, J. Krijgsveld, T.B. Feyerabend, H.-R. Rodewald, Human mast cell proteome reveals unique lineage, putative functions, and structural basis for cell ablation, Immunity 52 (2020) 404–416.
+[167]	H.-P. Nothacker, Z. Wang, H. Zeng, S.K. Mahata, D.T. O’Connor, O. Civelli, Proa- drenomedullin N-terminal peptide and cortistatin activation of MrgX2 recep- tor is based on a common structural motif, Eur. J. Pharmacol. 519 (2005) 191–193.
+[168]	L. Lu, M. Kulka, L.D. Unsworth, Peptide-mediated mast cell activation: lig- and similarities for receptor recognition and protease-induced regulation, J. Leukoc. Biol. 102 (2017) 237–251.
+[169]	T.C. Theoharides, W.W. Douglas, Mast cell histamine secretion in response to somatostatin analogues: structural considerations, Eur. J. Pharmacol. 73 (1981) 131–136.
+[170]	S. Willows, M. Kulka, Harnessing the power of mast cells in unconventional immunotherapy strategies and vaccine adjuvants, Cells 9 (2020) 2713.
+[171]	J.B. McLachlan, C.P. Shelburne, J.P. Hart, S. v Pizzo, R. Goyal, R. Brooking-Dixon,
+H.F. Staats, S.N. Abraham, Mast cell activators: a new class of highly effective vaccine adjuvants, Nat. Med. 14 (2008) 536–541.
+[172]	E. Ruoslahti, Peptides as targeting elements and tissue penetration de- vices for nanoparticles, Adv. Mater. 24 (2012) 3747–3756, doi:10.1002/adma.
+201200454.
+ 
+[173]	F. Zhang, X. Huang, L. Zhu, N. Guo, G. Niu, M. Swierczewska, S. Lee, H. Xu,
+A.Y. Wang, K.A. Mohamedali, M.G. Rosenblum, G. Lu, X. Chen, Noninva- sive monitoring of orthotopic glioblastoma therapy response using RGD- conjugated iron oxide nanoparticles, Biomaterials 33 (2012) 5414–5422, doi:10.1016/j.biomaterials.2012.04.032.
+[174]	M. Lewin, N. Carlesso, C.H. Tung, X.W. Tang, D. Cory, D.T. Scadden,
+R. Weissleder, Tat peptide-derivatized magnetic nanoparticles allow in vivo tracking and recovery of progenitor cells, Nat. Biotechnol. 18 (2000) 410–414, doi:10.1038/74464.
+[175]	X. Li, L. Xing, Y. Hu, Z. Xiong, R. Wang, X. Xu, L. Du, M. Shen, X. Shi, An RGD- modiﬁed hollow silica@Au core/shell nanoplatform for tumor combination therapy, Acta Biomater. 62 (2017) 273–283, doi:10.1016/j.actbio.2017.08.024.
+[176]	F. Danhier, B. Vroman, N. Lecouturier, N. Crokart, V. Pourcelle, H. Freichels,
+C. Jérôme, J. Marchand-Brynaert, O. Feron, V. Préat, Targeting of tumor en- dothelium by RGD-grafted PLGA-nanoparticles loaded with Paclitaxel, J. Con- trolled Release 140 (2009) 166–173, doi:10.1016/j.jconrel.2009.08.011.
+[177]	N. Yonenaga, E. Kenjo, T. Asai, A. Tsuruta, K. Shimizu, T. Dewa, M. Nango,
+N. Oku, RGD-based active targeting of novel polycation liposomes bearing siRNA for cancer treatment, J. Controlled Release 160 (2012) 177–181, doi:10. 1016/j.jconrel.2011.10.004.
+[178]	H.A. Kim, K. Nam, S.W. Kim, Tumor targeting RGD conjugated bio-reducible polymer for VEGF siRNA expressing plasmid delivery, Biomaterials 35 (2014) 7543–7552, doi:10.1016/j.biomaterials.2014.05.021.
+[179]	C. Shu, R. Li, Y. Yin, D. Yin, Y. Gu, L. Ding, W. Zhong, Synergistic dual-targeting hydrogel improves targeting and anticancer effect of Taxol in vitro and in vivo, Chem. Commun. 50 (2014) 15423–15426, doi:10.1039/c4cc05614k.
+[180]	E.J. Kwon, J.S. Dudani, S.N. Bhatia, Ultrasensitive tumour-penetrating nanosensors of protease activity, Nat. Biomed. Eng. 1 (2017), doi:10.1038/ s41551-017-0054.
+[181]	K. Tatemoto, Y. Nozaki, R. Tsuda, S. Konno, K. Tomura, M. Furuno, H. Oga- sawara, K. Edamura, H. Takagi, H. Iwamura, Immunoglobulin E-independent activation of mast cell is mediated by Mrg receptors, Biochem. Biophys. Res. Commun. 349 (2006) 1322–1328.
+[182]	M.M. Tomasiak, M. Tomasiak, Z. Zietkowski, R. Skiepko, A. Bodzenta-Lukaszyk, N-acetyl-beta-hexosaminidase activity in asthma, Int. Arch. Allergy Immunol. 146 (2008) 133–137, doi:10.1159/000113516.
+[183]	L.B. Schwartz, Diagnostic value of tryptase in anaphylaxis and mastocytosis, Immunol. Allergy Clin. North Am. 26 (2006) 451–463, doi:10.1016/j.iac.2006.
+05.010.
+[184]	E. Ordoqui, J.M. Zubeldia, A. Aranzábal, M. Rubio, T. Herrero, P. Tornero,
+V.M. Rodriguez, A. Prieto, M.L. Baeza, Serum tryptase levels in adverse drug reactions, Allergy: Eur. J. Allergy Clin. Immunol. 52 (1997) 1102–1105, doi:10. 1111/j.1398-9995.1997.tb00182.x.
+[185]	N. Zhao, B. Ding, Y. Zhang, J.L. Klockow, K. Lau, F.T. Chin, Z. Cheng, H. Liu, Reactive oxygen species and enzyme dual-responsive biocompatible drug de- livery system for targeted tumor therapy, J. Controlled Release 324 (2020) 330–340.
+[186]	S. Thakur, B. Riyaz, A. Patil, A. Kaur, B. Kapoor, V. Mishra, Novel drug deliv- ery systems for NSAIDs in management of rheumatoid arthritis: an overview, Biomed. Pharmacother. 106 (2018) 1011–1023.
+[187]	P. Kolkhir, D. Elieh-Ali-Komi, M. Metz, F. Siebenhaar, M. Maurer, Understand- ing human mast cells: lesson from therapies for allergic and non-allergic dis- eases, Nat. Rev. Immunol. 22 (2022) 294–308.
+[188]	J.J. Lyons, D.D. Metcalfe, Targeting mast cells with biologics, Immunol. Allergy Clin. 40 (2020) 667–685.
+[189]	G.H. Falduto, A. Pfeiffer, A. Luker, D.D. Metcalfe, A. Olivera, Emerging mech- anisms contributing to mast cell-mediated pathophysiology with therapeutic implications, Pharmacol. Ther. 220 (2021) 107718.
+[190]	A.C. Anselmo, Y. Gokarn, S. Mitragotri, Non-invasive delivery strategies for bi- ologics, Nat. Rev. Drug Discov. 18 (2019) 19–40.
+[191]	H. Ogasawara, M. Furuno, K. Edamura, M. Noguchi, Novel MRGPRX2 antag- onists inhibit IgE-independent activation of human umbilical cord blood-
+-derived mast cells, J. Leukoc. Biol. 106 (2019) 1069–1077.
+[192]	J. Wang, Y. Zhang, C. Li, Y. Ding, S. Hu, H. An, Inhibitory function of Shikonin on MRGPRX2-mediated pseudo-allergic reactions induced by the secreta- gogue, Phytomedicine 68 (2020) 153149.
+[193]	N. Wang, D. Che, T. Zhang, R. Liu, J. Cao, J. Wang, T. Zhao, P. Ma, X. Dong,
+L. He, Saikosaponin A inhibits compound 48/80-induced pseudo-allergy via the Mrgprx2 pathway in vitro and in vivo, Biochem. Pharmacol. 148 (2018) 147–154.
+ 

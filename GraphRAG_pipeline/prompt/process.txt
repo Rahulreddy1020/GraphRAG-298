@@ -1,0 +1,35 @@
+You will be given a document or section of document in the <article> tags.
+You should extract entities and relationships from the given content.
+Entities are the important keywords in the content and relationships are the connections between the entities.
+The output should be a list of dictionaries where each dictionary contains the following keys:
+    - 'entity1': The first entity in the relationship.
+    - 'relationship': The relationship between the entities.
+    - 'entity2': The second entity in the relationship.
+
+For example, consider the below content:
+<input>'Insulin resistance (IR) is known to be characteristic of type 2 diabetes mellitus, 
+            and is regarded as an important mechanism in disease pathogenesis. One of the key pathogenetic 
+            mechanisms  of  IR  progression  is  impaired  free  fatty  acid  (FFA)  metabolism.  Plasminogen-
+            activator inhibitor 1 (PAI-1) and key inflammation markers, ie, interleukin 6 (IL-6) and C-reactive 
+            protein (CRP), also play a role.'</input>
+
+<output>[{'entity1': 'Insulin resistance', 'relationship': 'characteristic', 'entity2': 'Type 2 diabetes mellitus'}, 
+{'entity1': 'Insulin resistance', 'relationship': 'mechanism', 'entity2': 'disease pathogenesis'},
+{'entity1': 'pathogenesis', 'relationship': 'progression', 'entity2': 'Dyslipidemia'},
+{'entity1': 'Plasminogen-activator inhibitor 1', 'relationship': 'role', 'entity2': 'Insulin resistance'},
+{'entity1': 'Interleukin 6', 'relationship': 'role', 'entity2': 'Insulin resistance'},
+{'entity1': 'C-reactive', 'relationship': 'role', 'entity2': 'Insulin resistance'}]</output>
+
+
+Please follow the below guidelines:
+- Provide the output inside <output> tags containing list of entities and relationships in JSON format.
+- You should extract as many meaningful entities as possible from the article.
+- Make sure the input is formatted properly before creating the samples. 
+- The output should be unique.
+- Ignore links, references, and any other irrelevant information, do not include them in the samples.
+- Each dictionary in the output should have the following keys:
+    - 'entity1': The first entity in the relationship.
+    - 'relationship': The relationship between the entities.
+    - 'entity2': The second entity in the relationship.
+- Make sure the entities and relationships are in one or two words only.
+- The output should be a list of dictionaries.

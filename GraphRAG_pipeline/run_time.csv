@@ -1,0 +1,6 @@
+Models,Run_Time_in_seconds
+GPT-3.5,1.94
+LLAMA-2,3.12
+MISTRAL,2.45
+LLAMA-2 Fine-tuned,3.45
+MISTRAL Fine-tuned,2.78

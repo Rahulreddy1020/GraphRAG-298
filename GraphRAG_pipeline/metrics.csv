@@ -1,0 +1,680 @@
+Question,Source,Answer,Similarity Score,Relevancy Score,Reason,Coherence Score,Coherence Reason,Faithfulness Score,Faithfulness Reason,Hallucination Score,Hallucination Reason,Toxicity Score,Toxicity Reason,Bias Score,Bias Reason
+What is inflammation?,,"Inflammation is a beneficial, self-limiting, healing process
+that allows for the clearance of initiating stimuli via
+localized recruitment of immune effector cells. However,
+when the inflammatory stimulus persists, the resulting
+chronic inflammation can be protective or pathogenic
+depending on the circumstances.",0.67565067221321,1.0,The score is 1.00 because the response fully addresses the question about what inflammation is without including any irrelevant information. Excellent job on maintaining focus and relevancy!,0.8967899294090819,"The actual output directly addresses the question by defining inflammation and discussing its dual nature depending on its duration. It maintains a logical flow from the definition to the implications of prolonged inflammation. The response is nearly complete but could further benefit from specific examples or further clarification on the types of stimuli that can cause inflammation. The accuracy in describing the process and effects of inflammation is high, aligning well with scientific understanding.",1.0,"The score is 1.00 because there are no contradictions present, indicating a perfect alignment between the 'actual output' and the 'retrieval context'.",0.0,"The score is 0.00 because there were no factual contradictions identified between the actual output and the provided context, indicating a high level of factual accuracy.",0.0,"The score is 0.00 because the actual output is respectful and contains no toxic elements, demonstrating positive and constructive communication.",0.0,"The score is 0.00 because the actual output is completely unbiased and maintains a neutral standpoint throughout, adhering to an objective presentation of information without favoring any particular viewpoint or perspective."
+What role do mast cells play in initiating and directing the host's immune response?,,"Mast cells play a pivotal role in initiating and directing
+the host's immune response by releasing unique enzymes and
+reactive oxygen species in response to environmental cues
+throughout acute and chronic inflammation. These immune
+mediators are specific to the sites of active inflammation
+and provide an opportunity to target diseases at the onset
+of their progression.",0.6697801457736565,1.0,The score is 1.00 because the response accurately and effectively addresses the role of mast cells in initiating and directing the host's immune response without any irrelevant information. Great job at maintaining focus and relevancy!,0.9011687260617697,"The output effectively addresses the input by detailing the role of mast cells in the immune response, maintaining relevance and coherence. It loses a point for not expanding on how these actions compare to other immune cells, which could provide a more comprehensive understanding.",1.0,"The score is 1.00 because there are no contradictions present, indicating that the actual output aligns perfectly with the information presented in the retrieval context.",0.0,"The score is 0.00 because there are no factual contradictions or alignments noted with the context, which is empty, implying the actual output does not deviate from provided information.",0,"The score is 0.00 because the output contains no toxic elements, demonstrating a respectful and positive communication style.",0,"The score is 0.00 because the actual output appears to be completely unbiased, having no cited reasons indicating any form of bias."
+What is acute and chronic inflammation?,"
+text: Chronic inflammation and B lymphopoiesis
+If acute inflammation, even the modest inflammation that results from immunization with adjuvant, affects central hematopoiesis, what are the effects of persistent inflammation? Generally, inflammation is regarded as a beneficial, self-limiting, healing process, allowing for the clearance of the initiating stimuli via localized recruitment of immune effector cells. However, when the inflammatory stimulus persists, the resulting chronic inflammation can be protective or pathogenic depending on the circumstances. For example, granulomas can wall off persistent inflammatory agents when the normal mechanisms of antigen clearance fail or are otherwise insufficient (Chattopadhyay, 1994).
+We and many others have used pristane (2,6,10,14-tetramethylpentadecane), a natural, saturated 19-C alkane, to induce chronic peritoneal inflammation (Potter, 2003; Richards et al., 1999). When injected into the peritoneal cavity, pristane is either phagocytosed by
+ 
+Cain et al.	Page 9
+
+text: Effects of Acute and Chronic Inflammation on B-Cell Development and Differentiation
+
+Derek Cain, Motonari Kondo, Huaiyong Chen, and Garnett Kelsoe
+Department of Immunology, Duke University, Durham, North Carolina 27710, USA
+
+Abstract
+Recently, our understanding of hematopoiesis and the development of the immune system has fundamentally changed, leading to significant discoveries with important clinical relevance. Hematopoiesis, once described in terms of irreversible and discrete developmental branch points, is now understood to exist as a collection of alternative developmental pathways capable of generating functionally identical progeny. Developmental commitment to a particular blood-cell lineage is gradually acquired and reflects both cell intrinsic and extrinsic signals. Chief among the extrinsic factors are the environmental cues of hematopoietic microenvironments that comprise specific “developmental niches” that support hematopoietic stem and progenitor cells. Most of this new understanding comes from the study of normal, steady-state hematopoiesis, but there is ample reason to expect that special developmental and/or differentiative mechanisms operate in response to inflammation. For example, both stem and progenitor cells are now known to express Toll-like receptors that can influence hematopoietic cell fates in response to microbial products. Likewise, pro-inflammatory cytokines mobilize hematopoietic stem cells to peripheral tissues. In this Perspective, we review inflammation’s effects on central and extramedullary B lymphopoiesis and discuss the potential consequences of peripheral B-cell development in the context of systemic autoimmune diseases.
+
+text: Conclusion
+Recent findings regarding the roles of pro-inflamma- tory and anti-inflammatory cytokines, infections, inflam- mation and immunity (including toll-like receptors) dur- ing the development of atherosclerosis were reviewed by using the data from both experimental and human studies. Although the hypothesis that hyperlipidemia is central to the process of atherosclerosis has been vali- dated by numerous data, great attention was also di- rected to the new hypothesis that atherosclerosis might be a specific form of the chronic inflammatory process. Statins might reduce coronary risk by their multiple pleio- tropic effects in addition to their lipid-lowering effects. Further studies are therefore necessary to clarify the roles of infection, cytokines, immunity and inflammation re- garding hyperlipidemia during the development of ath- erosclerosis
+
+Acknowledgments: The author wishes to acknowledge the essential contributions of Drs. Masatoshi Kusuhara, Yukihiko Momiyama, Kohji Miyazaki, Kikuo Isoda, Reiko Ohmori, and Kazuhiro Ashida, all of the National Defense Medical College.
+
+text: Inflammation and atherogenesis
+The chief risk factors for atherogenesis, such as dyslipidemia and diabetes as well as the insulin resis- tance associated with obesity, also contribute to inflam- matory conditions through complex mechanisms, includ- ing enhanced lipid peroxidation, glycoxidation and an increased secretion of pro-inflammatory cytokines, among other effects (2). Atherosclerosis (including that in CAD) has been reported to be associated not only with local inflammation in the arterial walls but also with the systemic inflammatory response (32, 33). The macroph-
+ 
+Cytokine and Atherosclerosis
+ 
+317","Acute inflammation is a beneficial, self-limiting, healing
+process that allows for the clearance of initiating stimuli
+via localized recruitment of immune effector cells. Chronic
+inflammation, on the other hand, can be protective or
+pathogenic depending on the circumstances. It occurs when
+the inflammatory stimulus persists.",0.871770476786672,1.0,The score is 1.00 because the response accurately addresses the question without including any irrelevant information. Great job on maintaining focus and relevancy!,0.8959507113699707,"The output accurately and directly addresses the input by defining both acute and chronic inflammation, detailing their causes and effects. It loses a point for not expanding on specific examples or broader implications of chronic inflammation, which could provide a more comprehensive understanding.",1.0,The score is 1.00 because there are no contradictions present between the actual output and the retrieval context. This indicates a perfect alignment of information.,0.0,"The score is 0.00 because all the contradictions listed actually align with the provided context, indicating there were no factual inaccuracies or hallucinations in the actual output.",0.0,"The score is 0.00 because the actual output is free from any toxic content, demonstrating respect and positivity in its context.",0.0,"The score is 0.00 because the actual output presents a completely unbiased perspective, supported by a balanced presentation of facts and viewpoints."
+What role do mast cells play in initiating and directing the host's immune response?,"
+text: Statement of signiﬁcance
+
+Mast cells are immune regulating cells that play a crucial role in both innate and adaptive immune re- sponses. The activation of mast cells causes the release of multiple unique proﬁles of biomolecules, which are speciﬁc to both tissue and disease. These unique characteristics are tightly regulated and afford a localized stimulus for targeting inﬂammatory diseases. Herein, these important mast cell attributes are discussed in the frame of highlighting strategies for the design of bioresponsive functional materials to target regions of inﬂammations.
+© 2023 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+ 
+
+ 
+
+ 
+1.	Introduction
+
+Mast cells are central to the initiation, ampliﬁcation, and reg- ulation of inﬂammation. Mast cell action can be both beneﬁcial and harmful to the host: the protection against pathogenic inva- sions [1,2], or being complicit in allergy and autoimmune diseases, respectively [3–6]. Primarily localized in tissues that contact the external environment, mast cell populations may differ from one tissue to another, and are dynamic in response to environmental cues. The number of mast cells in the tissue drastically increases during inﬂammatory events, as observed in the: (i) airways and lungs of pulmonary vascular diseases (PVD) and asthmatic patients [7,8]; (ii) skin of atopic dermatitis patients [9–13]; (iii) synovial tis- sue of osteoarthritic patients [14]; and (iv) cancerous tissue during metastasis [15,16]. The aberrational surge in the number of mast
+
+text: [1]	J.S. Marshall, Mast-cell responses to pathogens, Nat. Rev. Immunol. 4 (2004) 787–799, doi:10.1038/nri1460.
+[2]	M. Urb, D.C. Sheppard, The role of mast cells in the defence against pathogens, PLoS Pathog. 8 (2012) 2–4, doi:10.1371/journal.ppat.1002619.
+[3]	C. Benoist, D. Mathis, Mast cells in autoimmune disease, Nature 420 (2002) 875–878.
+[4]	S.J. Galli, M. Tsai, IgE and mast cells in allergic disease, Nat. Med. 18 (2012) 693–704, doi:10.1038/nm.2755.
+[5]	D. Ribatti, R. Tamma, T. Annese, Mast cells and angiogenesis in multiple scle- rosis, Inﬂamm. Res. 69 (2020) 1103–1110.
+[6]	F. Rivellese, D. Mauro, A. Nerviani, S. Pagani, L. Fossati-Jimack, T. Messemaker,
+F.A.S. Kurreeman, R.E.M. Toes, A. Ramming, S. Rauber, Mast cells in early rheumatoid arthritis associate with disease severity and support B cell au- toantibody production, Ann. Rheum. Dis. 77 (2018) 1773–1781.
+[7]	S. Balzar, H.W. Chu, M. Strand, S. Wenzel, Relationship of small airway chymase-positive mast cells and lung function in severe asthma, Am. J. Respir. Crit. Care Med. 171 (2005) 431–439, doi:10.1164/rccm.200407-949OC.
+[8]	H. Hamada, M. Terai, H. Kimura, K. Hirano, S. Oana, H. Niimi, Increased ex- pression of mast cell chymase in the lungs of patients with congenital heart disease associated with early pulmonary vascular disease, Am. J. Respir. Crit. Care Med. 160 (1999) 1303–1308, doi:10.1164/ajrccm.160.4.9810058.
+[9]	A. Järvikallio, A. Naukkarinen, I.T. Harvima, M.L. Aalto, M. Horsmanheimo, Quantitative analysis of tryptase- and chymase-containing mast cells in atopic
+ 
+dermatitis and nummular eczema, Br. J. Dermatol. 136 (1997) 871–877, doi:10.1111/j.1365-2133.1997.tb03927.x.
+[10]	S. Mashiko, S. Bouguermouh, M. Rubio, N. Baba, R. Bissonnette, M. Sarfati, Human mast cells are major IL-22 producers in patients with psoriasis and atopic dermatitis, J. Allergy Clin. Immunol. 136 (2015) 351–359.
+
+text: Targeted therapies are beneﬁcial, whereby, the therapeutic eﬃ- ciency is increased and the undesirable side effects are minimized. This approach has the potential to reduce health complications and economic burden, whilst increasing patient quality of life. Since mast cells play a crucial role in host immune response, and in the pathogenesis of several inﬂammatory diseases, they provide an ex- cellent approach to design and develop therapeutics around them. Mast cell released immune mediators discerns the diseased tissue milieu from the rest of the body, and provide opportunity to tar- get a disease at the onset of its progression. In the present article, we have highlighted various ways that inﬂammation could be tar- geted through utilizing unique mast cell properties. Activated mast cells triggers the rapid and local release of enzymes like β-hex, tryptase, chymase and MMP-9 in the tissue microenvironment. The enzymes discussed are both versatile (β-hex, tryptase and MMP- 9) and disease/tissue selective (chymase), which allows us to de- sign therapeutic systems for highly controlled outcomes. We have
+
+text: Acta Biomaterialia 159 (2023) 21–37
+
+ 	 	 
+
+
+Review article
+Targeting active sites of inﬂammation using inherent properties of tissue-resident mast cells
+Shammy Raj, Larry D. Unsworth∗
+Department of Chemical and Materials Engineering, Donadeo Innovation Centre for Engineering, 9211-116 Street NW, University of Alberta, Edmonton, AB, T6G1H9, Canada
+
+
+a r t i c l e	i n f o	a b s t r a c t
+
+ 	 
+ 
+Article history:
+Received 7 September 2022
+Revised 12 December 2022
+Accepted 10 January 2023
+Available online 16 January 2023
+
+Keywords:
+Stimuli-responsive Biomaterials
+Mast cells Enzymes ROS MRGPRX2
+ 
+Mast cells play a pivotal role in initiating and directing host’s immune response. They reside in tissues that primarily interface with the external environment. Activated mast cells respond to environmental cues throughout acute and chronic inﬂammation through releasing immune mediators via rapid degran- ulation, or long-term de novo expression. Mast cell activation results in the rapid release of a variety of unique enzymes and reactive oxygen species. Furthermore, the increased density of mast cell unique receptors like mas related G protein-coupled receptor X2 also characterizes the inﬂamed tissues. The presence of these molecules (either released mediators or surface receptors) are particular to the sites of active inﬂammation, and are a result of mast cell activation. Herein, the molecular design principles for capitalizing on these novel mast cell properties is discussed with the goal of manipulating localized inﬂammation.
+
+Statement of signiﬁcance","Mast cells play a pivotal role in initiating and directing
+the host's immune response by releasing immune mediators via
+rapid degranulation or long-term de novo expression in
+response to environmental cues throughout acute and chronic
+inflammation. The enzymes released by activated mast cells,
+such as β-hex, tryptase, chymase, and MMP-9, are versatile
+and tissue-selective, allowing for the design of therapeutic
+systems for highly controlled outcomes. The presence of mast
+cell unique receptors like mas related G protein-coupled
+receptor X2 also characterizes inflamed tissues. These
+unique characteristics of mast cells provide an opportunity
+to target inflammation at the onset of its progression.",0.920608259902263,1.0,The score is 1.00 because the provided information directly addresses the question about the role of mast cells in the immune response without including any irrelevant details. Great job on maintaining focus and relevancy!,0.9042087728802579,"The actual output comprehensively details the role of mast cells in the immune response, covering the mechanisms of action, their unique characteristics, and potential for therapeutic targeting. It directly addresses the question, is factually accurate, and uses appropriate scientific language. The deduction is due to a slight lack of clarity on how these mechanisms directly contribute to the initiation and direction of the immune response, which could have been explained more explicitly.",1.0,The score is 1.00 because there are no contradictions present between the actual output and the retrieval context. The information provided is completely faithful and accurate.,0.0,"The score is 0.00 because all the listed contradictions actually align with the context, indicating there are no factual inaccuracies or hallucinations present in the actual output.",0,"The score is 0.00 because the actual output is free from any toxic content, demonstrating respectful and positive communication.",0,"The score is 0.00 because the actual output demonstrates an unbiased approach, maintaining neutrality and objectivity throughout, as evidenced by the absence of any cited reasons indicating bias."
+Where do mast cells primarily reside in the body?,"
+text: Statement of signiﬁcance
+
+Mast cells are immune regulating cells that play a crucial role in both innate and adaptive immune re- sponses. The activation of mast cells causes the release of multiple unique proﬁles of biomolecules, which are speciﬁc to both tissue and disease. These unique characteristics are tightly regulated and afford a localized stimulus for targeting inﬂammatory diseases. Herein, these important mast cell attributes are discussed in the frame of highlighting strategies for the design of bioresponsive functional materials to target regions of inﬂammations.
+© 2023 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+ 
+
+ 
+
+ 
+1.	Introduction
+
+Mast cells are central to the initiation, ampliﬁcation, and reg- ulation of inﬂammation. Mast cell action can be both beneﬁcial and harmful to the host: the protection against pathogenic inva- sions [1,2], or being complicit in allergy and autoimmune diseases, respectively [3–6]. Primarily localized in tissues that contact the external environment, mast cell populations may differ from one tissue to another, and are dynamic in response to environmental cues. The number of mast cells in the tissue drastically increases during inﬂammatory events, as observed in the: (i) airways and lungs of pulmonary vascular diseases (PVD) and asthmatic patients [7,8]; (ii) skin of atopic dermatitis patients [9–13]; (iii) synovial tis- sue of osteoarthritic patients [14]; and (iv) cancerous tissue during metastasis [15,16]. The aberrational surge in the number of mast
+
+text: [1]	J.S. Marshall, Mast-cell responses to pathogens, Nat. Rev. Immunol. 4 (2004) 787–799, doi:10.1038/nri1460.
+[2]	M. Urb, D.C. Sheppard, The role of mast cells in the defence against pathogens, PLoS Pathog. 8 (2012) 2–4, doi:10.1371/journal.ppat.1002619.
+[3]	C. Benoist, D. Mathis, Mast cells in autoimmune disease, Nature 420 (2002) 875–878.
+[4]	S.J. Galli, M. Tsai, IgE and mast cells in allergic disease, Nat. Med. 18 (2012) 693–704, doi:10.1038/nm.2755.
+[5]	D. Ribatti, R. Tamma, T. Annese, Mast cells and angiogenesis in multiple scle- rosis, Inﬂamm. Res. 69 (2020) 1103–1110.
+[6]	F. Rivellese, D. Mauro, A. Nerviani, S. Pagani, L. Fossati-Jimack, T. Messemaker,
+F.A.S. Kurreeman, R.E.M. Toes, A. Ramming, S. Rauber, Mast cells in early rheumatoid arthritis associate with disease severity and support B cell au- toantibody production, Ann. Rheum. Dis. 77 (2018) 1773–1781.
+[7]	S. Balzar, H.W. Chu, M. Strand, S. Wenzel, Relationship of small airway chymase-positive mast cells and lung function in severe asthma, Am. J. Respir. Crit. Care Med. 171 (2005) 431–439, doi:10.1164/rccm.200407-949OC.
+[8]	H. Hamada, M. Terai, H. Kimura, K. Hirano, S. Oana, H. Niimi, Increased ex- pression of mast cell chymase in the lungs of patients with congenital heart disease associated with early pulmonary vascular disease, Am. J. Respir. Crit. Care Med. 160 (1999) 1303–1308, doi:10.1164/ajrccm.160.4.9810058.
+[9]	A. Järvikallio, A. Naukkarinen, I.T. Harvima, M.L. Aalto, M. Horsmanheimo, Quantitative analysis of tryptase- and chymase-containing mast cells in atopic
+ 
+dermatitis and nummular eczema, Br. J. Dermatol. 136 (1997) 871–877, doi:10.1111/j.1365-2133.1997.tb03927.x.
+[10]	S. Mashiko, S. Bouguermouh, M. Rubio, N. Baba, R. Bissonnette, M. Sarfati, Human mast cells are major IL-22 producers in patients with psoriasis and atopic dermatitis, J. Allergy Clin. Immunol. 136 (2015) 351–359.
+
+text: Acta Biomaterialia 159 (2023) 21–37
+
+ 	 	 
+
+
+Review article
+Targeting active sites of inﬂammation using inherent properties of tissue-resident mast cells
+Shammy Raj, Larry D. Unsworth∗
+Department of Chemical and Materials Engineering, Donadeo Innovation Centre for Engineering, 9211-116 Street NW, University of Alberta, Edmonton, AB, T6G1H9, Canada
+
+
+a r t i c l e	i n f o	a b s t r a c t
+
+ 	 
+ 
+Article history:
+Received 7 September 2022
+Revised 12 December 2022
+Accepted 10 January 2023
+Available online 16 January 2023
+
+Keywords:
+Stimuli-responsive Biomaterials
+Mast cells Enzymes ROS MRGPRX2
+ 
+Mast cells play a pivotal role in initiating and directing host’s immune response. They reside in tissues that primarily interface with the external environment. Activated mast cells respond to environmental cues throughout acute and chronic inﬂammation through releasing immune mediators via rapid degran- ulation, or long-term de novo expression. Mast cell activation results in the rapid release of a variety of unique enzymes and reactive oxygen species. Furthermore, the increased density of mast cell unique receptors like mas related G protein-coupled receptor X2 also characterizes the inﬂamed tissues. The presence of these molecules (either released mediators or surface receptors) are particular to the sites of active inﬂammation, and are a result of mast cell activation. Herein, the molecular design principles for capitalizing on these novel mast cell properties is discussed with the goal of manipulating localized inﬂammation.
+
+Statement of signiﬁcance
+
+text: Targeted therapies are beneﬁcial, whereby, the therapeutic eﬃ- ciency is increased and the undesirable side effects are minimized. This approach has the potential to reduce health complications and economic burden, whilst increasing patient quality of life. Since mast cells play a crucial role in host immune response, and in the pathogenesis of several inﬂammatory diseases, they provide an ex- cellent approach to design and develop therapeutics around them. Mast cell released immune mediators discerns the diseased tissue milieu from the rest of the body, and provide opportunity to tar- get a disease at the onset of its progression. In the present article, we have highlighted various ways that inﬂammation could be tar- geted through utilizing unique mast cell properties. Activated mast cells triggers the rapid and local release of enzymes like β-hex, tryptase, chymase and MMP-9 in the tissue microenvironment. The enzymes discussed are both versatile (β-hex, tryptase and MMP- 9) and disease/tissue selective (chymase), which allows us to de- sign therapeutic systems for highly controlled outcomes. We have","Mast cells primarily reside in tissues that primarily
+interface with the external environment.",0.8452148977171587,1.0,The score is 1.00 because the response accurately addresses the question without any irrelevant information. Great job!,0.8921031511389457,"The actual output accurately reflects the input query, maintaining consistency in data types and structures, and addresses the key element of the input by indicating the primary location of mast cells. The slight deduction is due to not specifying examples of such tissues, which could provide a more comprehensive understanding.",1.0,"The score is 1.00 because there are no contradictions present, indicating perfect alignment of the 'actual output' with the information presented in the 'retrieval context'.",0.0,"The score is 0.00 because there are no contradictions between the actual output and the provided contexts; all the listed items incorrectly categorized as contradictions are actually factual alignments, indicating that the actual output accurately reflects the context without any factual inaccuracies or hallucinations.",0,"The score is 0.00 because the actual output contains no toxic content, indicating respectful and positive communication.",0,"The score is 0.00 because the actual output shows no indication of bias and is entirely neutral, providing a well-balanced perspective without favoring any side or viewpoint."
+How do activated mast cells respond to environmental cues during acute and chronic inflammation?,"
+text: drolases (β-hexosaminidase, (β-hex)) [1,17,25–28]. Intra- and ex- tracellular reactive oxygen species (ROS) are also formed during the acute activation of mast cells [29,30]. Adding to these, chronic mast cell activation concurrently leads to the de novo expression and release of cytokines, chemokines, and largely mast cell spe- ciﬁc enzymes, whilst increasing the density of mast cell receptors like FcɛRI and MRGPRX2 [31–35]. Table 1 lists few of the various molecules that are released upon mast cell activation. Ultimately, the activation of mast cells leads to the release of a plethora of bioactive compounds that are spatiotemporally regulated to spe- ciﬁc inﬂammatory processes, and that are tissue speciﬁc and work together to restore homeostasis. That said, these mast cell unique bioactive molecules that are only available depending on disease state and tissue location, provide unprecedented targets for biore- sponsive materials to modulate inﬂammations.
+
+text: Statement of signiﬁcance
+
+Mast cells are immune regulating cells that play a crucial role in both innate and adaptive immune re- sponses. The activation of mast cells causes the release of multiple unique proﬁles of biomolecules, which are speciﬁc to both tissue and disease. These unique characteristics are tightly regulated and afford a localized stimulus for targeting inﬂammatory diseases. Herein, these important mast cell attributes are discussed in the frame of highlighting strategies for the design of bioresponsive functional materials to target regions of inﬂammations.
+© 2023 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+ 
+
+ 
+
+ 
+1.	Introduction
+
+Mast cells are central to the initiation, ampliﬁcation, and reg- ulation of inﬂammation. Mast cell action can be both beneﬁcial and harmful to the host: the protection against pathogenic inva- sions [1,2], or being complicit in allergy and autoimmune diseases, respectively [3–6]. Primarily localized in tissues that contact the external environment, mast cell populations may differ from one tissue to another, and are dynamic in response to environmental cues. The number of mast cells in the tissue drastically increases during inﬂammatory events, as observed in the: (i) airways and lungs of pulmonary vascular diseases (PVD) and asthmatic patients [7,8]; (ii) skin of atopic dermatitis patients [9–13]; (iii) synovial tis- sue of osteoarthritic patients [14]; and (iv) cancerous tissue during metastasis [15,16]. The aberrational surge in the number of mast
+
+text: ∗ Corresponding author.
+E-mail address: lunswort@ualberta.ca (L.D. Unsworth).
+ 
+cells in the inﬂamed tissues, in synergy with the characteristic de- granulation of activated mast cells extend the leverage of targeted immunological therapies through the mast cell released bioactive mediators as localized stimulus.
+Activated mast cells rapidly degranulate to release bioactive molecules from their secretory granules [1,17–19]. Mast cell activa- tion were thought to be orchestrated through the FcɛRI, and other ligand speciﬁc receptors like Toll like Receptors (TLR), KIT receptor, and C5a and C3a complement receptors [20–22]. However, the re- cently identiﬁed mas related G protein-coupled receptor X2 (MRG- PRX2) on mast cells has been shown to initiate mast cell activa- tion against a variety of endogenous and synthetic peptides, and approved drugs [23,24]. Few of the well characterized molecules that are released in the vicinity of inﬂamed tissue by the activated mast cells include: (i) pro-inﬂammatory cytokines (interleukin (IL)
+- 4,5,6,15); (ii) tumor necrosis factor - α; (iii) vascular endothe-
+lial growth factors (VEGFs); (iv) biogenic amines (histamines); (v) tissue remodeling and chemoattractant proteases (tryptase, chy- mase, and carboxypeptidases); and (vi) pathogen neutralizing hy-
+ 
+
+
+https://doi.org/10.1016/j.actbio.2023.01.024
+1742-7061/© 2023 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+ 
+S. Raj and L.D. Unsworth	Acta Biomaterialia 159 (2023) 21–37
+
+text: The aim of the present review-cum-analysis is to highlight the discriminating mast cell characteristics speciﬁc to an inﬂamed tis- sue that is not present during healthy physiological conditions; and to discuss strategies to harness these differences in the microen- vironment for targeted therapies. We discuss here the increased concentration of mast cell released enzymes during inﬂammation and survey their respective substrates for the express purpose of designing materials for therapeutic application. In addition to the enzymes, activated mast cells also witness elevated levels of intra- and extracellular ROS. Given the fact that ROS production, by mast cell or macrophage, occurs early in the inﬂammatory response, it is possible to target local sites of inﬂammation at the earliest stages. Consequently, the design and development of ROS respon- sive materials have also been discussed. Finally, the increased den- sity of mast cell MRGPRX2 receptor in diseased states have been discussed along with ideas on exploiting this receptor for targeted therapeutic approaches. The physiochemical characteristics of pep- tide ligands for MRGPRX2 is well elucidated, thus, their use as homing peptides to the inﬂamed tissue has been discussed.","Activated mast cells respond to environmental cues during
+acute and chronic inflammation by releasing a plethora of
+bioactive compounds that are spatiotemporally regulated to
+specific inflammatory processes, and that are tissue-
+specific. In addition, chronic mast cell activation leads to
+de novo expression and release of cytokines, chemokines, and
+mast cell-specific enzymes, while increasing the density of
+mast cell receptors like FcɛRI and MRGPRX2. This unique
+characteristic of mast cells provides unprecedented targets
+for bioresponsive materials to modulate inflammation.",0.9339166639363267,1.0,The score is 1.00 because the response accurately addresses how activated mast cells respond to environmental cues during both acute and chronic inflammation without straying into irrelevant topics. Great job on maintaining focus and relevancy!,0.9098079337624023,"The actual output accurately addresses how activated mast cells respond to environmental cues in both acute and chronic inflammation, maintaining coherence and relevance to the input. All elements of the input question are covered, with a detailed explanation on the response of mast cells, including the release of bioactive compounds, cytokines, chemokines, and the increase in receptor density. The output is clear and readable, effectively communicating the complex biological processes involved. The only minor deduction is due to the potential for further simplification or breakdown of the scientific terminology for an even broader audience understanding.",1.0,"The score is 1.00 because there are no contradictions present, indicating perfect alignment between the actual output and the retrieval context.",0.0,"The score is 0.00 because all listed contradictions actually describe factual alignments between the actual output and the provided contexts, indicating there were no real contradictions or inaccuracies detected in the output relative to the given contexts.",0,"The score is 0.00 because the actual output is free from toxic content, demonstrating respectful and positive communication.",0,"The score is 0.00 because the actual output demonstrates a balanced perspective without any biased elements, as evidenced by the absence of reasons indicating bias."
+Name some of the immune mediators released by activated mast cells via rapid degranulation.,"
+text: ∗ Corresponding author.
+E-mail address: lunswort@ualberta.ca (L.D. Unsworth).
+ 
+cells in the inﬂamed tissues, in synergy with the characteristic de- granulation of activated mast cells extend the leverage of targeted immunological therapies through the mast cell released bioactive mediators as localized stimulus.
+Activated mast cells rapidly degranulate to release bioactive molecules from their secretory granules [1,17–19]. Mast cell activa- tion were thought to be orchestrated through the FcɛRI, and other ligand speciﬁc receptors like Toll like Receptors (TLR), KIT receptor, and C5a and C3a complement receptors [20–22]. However, the re- cently identiﬁed mas related G protein-coupled receptor X2 (MRG- PRX2) on mast cells has been shown to initiate mast cell activa- tion against a variety of endogenous and synthetic peptides, and approved drugs [23,24]. Few of the well characterized molecules that are released in the vicinity of inﬂamed tissue by the activated mast cells include: (i) pro-inﬂammatory cytokines (interleukin (IL)
+- 4,5,6,15); (ii) tumor necrosis factor - α; (iii) vascular endothe-
+lial growth factors (VEGFs); (iv) biogenic amines (histamines); (v) tissue remodeling and chemoattractant proteases (tryptase, chy- mase, and carboxypeptidases); and (vi) pathogen neutralizing hy-
+ 
+
+
+https://doi.org/10.1016/j.actbio.2023.01.024
+1742-7061/© 2023 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+ 
+S. Raj and L.D. Unsworth	Acta Biomaterialia 159 (2023) 21–37
+
+text: drolases (β-hexosaminidase, (β-hex)) [1,17,25–28]. Intra- and ex- tracellular reactive oxygen species (ROS) are also formed during the acute activation of mast cells [29,30]. Adding to these, chronic mast cell activation concurrently leads to the de novo expression and release of cytokines, chemokines, and largely mast cell spe- ciﬁc enzymes, whilst increasing the density of mast cell receptors like FcɛRI and MRGPRX2 [31–35]. Table 1 lists few of the various molecules that are released upon mast cell activation. Ultimately, the activation of mast cells leads to the release of a plethora of bioactive compounds that are spatiotemporally regulated to spe- ciﬁc inﬂammatory processes, and that are tissue speciﬁc and work together to restore homeostasis. That said, these mast cell unique bioactive molecules that are only available depending on disease state and tissue location, provide unprecedented targets for biore- sponsive materials to modulate inﬂammations.
+
+text: 2.	Mast cell speciﬁc enzymes as inﬂammatory stimulus
+
+Mast cell activation results in the rapid release of preformed granular enzymes like β-hex, tryptase, and chymase, which have a speciﬁc and well-deﬁned activity against a limited set of substrates (Fig. 1). Chronic activation of mast cells induces the de novo ex- pression and release of metalloproteinase-9 (MMP-9), among other mediators, which digests gelatin and collagen. Herein, these en- zymes and their substrates are discussed in terms of their use in developing bioactive materials to target regions of active inﬂam- mation.
+
+2.1.	Mast cell enzymes released via degranulation
+
+text: 22
+ 
+Table 1
+Molecules released from mast cell upon activation.
+
+
+Mediator (Type)	Mast Cell Source	Stimulus	Time (min)	Technique used	Reference
+ 
+β-hex (Granular)	Laboratory of Allergic Disease 2 (LAD 2)	Antibody-Antigen (Ab-Ag), compound 48/80,
+Mastoparan, Icatibant, Atracurium, Ciproﬂoxacin
+ 
+30	Colorimetry (hydrolysis of p-nitrophenyl- N-acetyl-β-D- glucosaminide)
+ 
+[23]
+ 
+LAD 2	PAMP-12	30	[36]
+Rat serosal mast cell	Ab-Ag	0	[37]
+Mouse bone marrow-derived mast cells (mBMMC)	Ab-Ag	90	[38]
+Human lung mast cell		Ab-Ag			5			[39] Tryptase (Granular)	HMC-1, human skin mast cell		Solubilized by sonication			NA	ELISA		[40] Human skin mast cell		PAMP-12		120	ddPCR (TPSAB1 expression)	[36]
+Human scar tissue mast cell	NA	NA	Immunostaining	[41]
+ 
+Human foreskin mast cell	Solubilized by sonication	NA	ELISA, colorimetry (hydrolysis of
+tosyl-L-Gly-Pro- Lys-p-nitroanilide)
+Human lung mast cell	Ab-Ag	5	Colorimetry (hydrolysis of tosyl- L-Arg-methyl ester)
+Human lung mast cell	Solubilized by sonication	NA	ELISA, colorimetry (hydrolysis of tosyl-L-Gly-Pro- Lys-p-nitroanilide)
+ 
+[42]
+
+[39]
+
+[7]
+ 
+
+
+Chymase (Granular)
+ 
+Rat heart mast cell	Heart surgery (transverse aortic constriction)	NA	Immunostaining, western blot, ELISA	[26] LAD 2	Covid spike protein	120	ELISA	[27] Human scar tissue mast cell	NA	NA	Immunostaining	[41]
+ 
+Human foreskin mast cell	ELISA, colorimetry (hydrolysis of
+D-Suc-L-Ala-Ala- Pro-Phe-p-nitroanilide)
+ 
+[42]
+ 
+Human lung mast cell (from patients with chronic obstructive pulmonary disease)
+Human lung mast cell (from patients with congenital heart disease)
+Human lung mast Cell (from patients with asthma)
+Human lung mast cell (from patients with Chronic obstructive pulmonary disease)
+ 
+hCMA1 expression	[28]
+
+Immunostaining	[8]
+
+[43]","Some of the immune mediators released by activated mast
+cells via rapid degranulation include pro-inflammatory
+cytokines (interleukin (IL) - 4,5,6,15), tumor necrosis
+factor - α, vascular endothelial growth factors (VEGFs),
+biogenic amines (histamines), tissue remodeling and
+chemoattractant proteases (tryptase, chymase, and
+carboxypeptidases).",0.908109020056322,1.0,"The score is 1.00 because the provided answer directly addresses the question by listing immune mediators released by activated mast cells via rapid degranulation, with no irrelevant information included. Great job on maintaining focus!",0.966541054984124,"The actual output accurately lists several immune mediators released by activated mast cells via rapid degranulation, without any discrepancies, contradictions, or irrelevant information. It directly addresses the request made in the input.",0.875,"The score is 0.88 because the actual output inaccurately includes carboxypeptidases as immune mediators released by activated mast cells, a detail that is not specified in the retrieval context.",0.0,"The score is 0.00 because there are no factual alignments or contradictions identified between the actual output and the provided context, indicating a perfect match or no detectable errors in the information given.",0,"The score is 0.00 because the actual output is free from any toxic content, demonstrating respectful and positive communication.",0,"The score is 0.00 because the actual output appears to be completely unbiased, demonstrating an exemplary balance and fairness in its presentation without any provided reasons suggesting otherwise."
+What are some of the immune mediators released by mast cells during long-term de novo expression?,"
+text: drolases (β-hexosaminidase, (β-hex)) [1,17,25–28]. Intra- and ex- tracellular reactive oxygen species (ROS) are also formed during the acute activation of mast cells [29,30]. Adding to these, chronic mast cell activation concurrently leads to the de novo expression and release of cytokines, chemokines, and largely mast cell spe- ciﬁc enzymes, whilst increasing the density of mast cell receptors like FcɛRI and MRGPRX2 [31–35]. Table 1 lists few of the various molecules that are released upon mast cell activation. Ultimately, the activation of mast cells leads to the release of a plethora of bioactive compounds that are spatiotemporally regulated to spe- ciﬁc inﬂammatory processes, and that are tissue speciﬁc and work together to restore homeostasis. That said, these mast cell unique bioactive molecules that are only available depending on disease state and tissue location, provide unprecedented targets for biore- sponsive materials to modulate inﬂammations.
+
+text: ∗ Corresponding author.
+E-mail address: lunswort@ualberta.ca (L.D. Unsworth).
+ 
+cells in the inﬂamed tissues, in synergy with the characteristic de- granulation of activated mast cells extend the leverage of targeted immunological therapies through the mast cell released bioactive mediators as localized stimulus.
+Activated mast cells rapidly degranulate to release bioactive molecules from their secretory granules [1,17–19]. Mast cell activa- tion were thought to be orchestrated through the FcɛRI, and other ligand speciﬁc receptors like Toll like Receptors (TLR), KIT receptor, and C5a and C3a complement receptors [20–22]. However, the re- cently identiﬁed mas related G protein-coupled receptor X2 (MRG- PRX2) on mast cells has been shown to initiate mast cell activa- tion against a variety of endogenous and synthetic peptides, and approved drugs [23,24]. Few of the well characterized molecules that are released in the vicinity of inﬂamed tissue by the activated mast cells include: (i) pro-inﬂammatory cytokines (interleukin (IL)
+- 4,5,6,15); (ii) tumor necrosis factor - α; (iii) vascular endothe-
+lial growth factors (VEGFs); (iv) biogenic amines (histamines); (v) tissue remodeling and chemoattractant proteases (tryptase, chy- mase, and carboxypeptidases); and (vi) pathogen neutralizing hy-
+ 
+
+
+https://doi.org/10.1016/j.actbio.2023.01.024
+1742-7061/© 2023 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+ 
+S. Raj and L.D. Unsworth	Acta Biomaterialia 159 (2023) 21–37
+
+text: 2.	Mast cell speciﬁc enzymes as inﬂammatory stimulus
+
+Mast cell activation results in the rapid release of preformed granular enzymes like β-hex, tryptase, and chymase, which have a speciﬁc and well-deﬁned activity against a limited set of substrates (Fig. 1). Chronic activation of mast cells induces the de novo ex- pression and release of metalloproteinase-9 (MMP-9), among other mediators, which digests gelatin and collagen. Herein, these en- zymes and their substrates are discussed in terms of their use in developing bioactive materials to target regions of active inﬂam- mation.
+
+2.1.	Mast cell enzymes released via degranulation
+
+text: 22
+ 
+Table 1
+Molecules released from mast cell upon activation.
+
+
+Mediator (Type)	Mast Cell Source	Stimulus	Time (min)	Technique used	Reference
+ 
+β-hex (Granular)	Laboratory of Allergic Disease 2 (LAD 2)	Antibody-Antigen (Ab-Ag), compound 48/80,
+Mastoparan, Icatibant, Atracurium, Ciproﬂoxacin
+ 
+30	Colorimetry (hydrolysis of p-nitrophenyl- N-acetyl-β-D- glucosaminide)
+ 
+[23]
+ 
+LAD 2	PAMP-12	30	[36]
+Rat serosal mast cell	Ab-Ag	0	[37]
+Mouse bone marrow-derived mast cells (mBMMC)	Ab-Ag	90	[38]
+Human lung mast cell		Ab-Ag			5			[39] Tryptase (Granular)	HMC-1, human skin mast cell		Solubilized by sonication			NA	ELISA		[40] Human skin mast cell		PAMP-12		120	ddPCR (TPSAB1 expression)	[36]
+Human scar tissue mast cell	NA	NA	Immunostaining	[41]
+ 
+Human foreskin mast cell	Solubilized by sonication	NA	ELISA, colorimetry (hydrolysis of
+tosyl-L-Gly-Pro- Lys-p-nitroanilide)
+Human lung mast cell	Ab-Ag	5	Colorimetry (hydrolysis of tosyl- L-Arg-methyl ester)
+Human lung mast cell	Solubilized by sonication	NA	ELISA, colorimetry (hydrolysis of tosyl-L-Gly-Pro- Lys-p-nitroanilide)
+ 
+[42]
+
+[39]
+
+[7]
+ 
+
+
+Chymase (Granular)
+ 
+Rat heart mast cell	Heart surgery (transverse aortic constriction)	NA	Immunostaining, western blot, ELISA	[26] LAD 2	Covid spike protein	120	ELISA	[27] Human scar tissue mast cell	NA	NA	Immunostaining	[41]
+ 
+Human foreskin mast cell	ELISA, colorimetry (hydrolysis of
+D-Suc-L-Ala-Ala- Pro-Phe-p-nitroanilide)
+ 
+[42]
+ 
+Human lung mast cell (from patients with chronic obstructive pulmonary disease)
+Human lung mast cell (from patients with congenital heart disease)
+Human lung mast Cell (from patients with asthma)
+Human lung mast cell (from patients with Chronic obstructive pulmonary disease)
+ 
+hCMA1 expression	[28]
+
+Immunostaining	[8]
+
+[43]","Some of the immune mediators released by mast cells during
+long-term de novo expression include cytokines, chemokines,
+mast cell-specific enzymes, and mast cell-specific
+receptors.",0.8845536387072895,1.0,The score is 1.00 because the response perfectly matches the query with no irrelevant information provided. Keep up the great work!,0.8956279880824077,"The actual output successfully identifies key immune mediators such as cytokines, chemokines, mast cell-specific enzymes, and receptors, directly addressing the query with accurate and relevant information. The deduction stems from a slight lack of detail regarding the function or impact of these mediators, which could provide a more comprehensive understanding but does not significantly detract from the overall quality of the answer.",0.8,"The score is 0.80 because the actual output erroneously suggests that mast cell-specific receptors are released by mast cells during long-term de novo expression, which is a contradiction to the retrieval context. The context clearly states that chronic mast cell activation increases the density of mast cell receptors like FcɛRI and MRGPRX2, not their release.",0.0,"The score is 0.00 because all identified contradictions are actually factual alignments, indicating a complete agreement between the actual output and the provided context with no evidence of factual inaccuracies or hallucinations.",0,"The score is 0.00 because the actual output contains no toxic elements and demonstrates positive or neutral language, making it commendable and inclusive.",0,"The score is 0.00 because the actual output demonstrates a balanced and unbiased approach without any flagged reasons for bias, indicating meticulous care in ensuring equity and fairness in the presentation of information."
+What happens to the density of mast cell unique receptors like MRGPRX2 during chronic mast cell activation?,"
+text: 6.	Mast cell MRGPRX2 as inﬂamed tissue speciﬁc receptor for targeted therapies
+
+MRGPRX2 is predominantly expressed by mast cells, but has also been reported to be found on sensory neurons, and other im- mune cells (i.e. basophils and eosinophils); however, their expres- sion on unstimulated immune cells have been reported to be neg- ligible [155,156]. MRGPRX2 offers a direct route of mast cell acti- vation, in parallel with the immunoglobulin mediated FcɛRI acti- vation pathway, to cause mast cell degranulation [23,34,157]. The expression proﬁle of this receptor on mast cell has been shown to vary with mast cell subclass (dominant in MCTC , but not in MCT ) and anatomical sites in normal physiological conditions, as well with disease conditions [158,159]. Increased density of mast cell MRGPRX2 receptor has been shown in the lung mast cells of patients with asthma [34]; and skin mast cells of patients with atopic dermatitis, psoriasis, urticaria and prurigo [11,160,161]. Fur- thermore, MRGPRX2 has been shown to be responsible for ad- verse drug allergies as shown in the case of peptide drugs like icatibant, atracurim, antibiotics like ciproﬂoxacin [23,162]; and peri-operative drugs like morphine, vanomycine and cisatracurium [163].
+Recent studies have identiﬁed several small molecules, antibod- ies, and peptide ligands which are speciﬁc to MRGPRX2 recep- tor [164–166]. The presence of the ‘distinct core structure’ within the amino acid sequence that activates MRGPRX2 allows for spe- ciﬁc targeting of the cells [167–169]. Taking this further, our group has proposed a generalized structure to design MRGPRX2 speciﬁc peptides with varied mast cell activating potential. An optimized core peptide structure which can activate mast cell MRGPRX2 re-
+ceptor can be deduced to Xa-(Y)(n ≥ 3)-Xb where - Xa is an aro- matic residue; Xb is a hydrophobic residue; and Y is a minimum
+
+text: ∗Rat mast cells expresses MRGPRX2 ortholog, MRGPRB3 receptor [181].
+
+ 
+3 residue long sequence, containing a minimum of one positively charged residue with the remainder being uncharged residues [24]. Table 5 lists several MRGPRX2 speciﬁc peptide with varying activ- ity towards mast cells. These peptide motifs may be utilized in multiple ways, including as homing peptides as well as a direct way to control the activity of mast cells within the extracellular milieu [170,171]. The idea of targeting a diseased tissue through peptide ligand is already in practice and has been widely used in applications like cargo delivery, detection, and imaging [172]. We herein will highlight a few of the approaches involving the use of synthetic integrin recognizing peptides, as a means of elucidating
+ 
+potential strategies to target inﬂammation using the MRGPRX2 re- ceptor (Fig. 6).
+
+6.1.	Strategies around mast cell MRGPRX2 peptide ligands for targeted delivery
+
+Cell recognition peptides for cancerous tissues have been iden- tiﬁed and are routinely used in cancer research [172]. Tissue target- ing peptides attached to the surface of iron oxide nanoparticles al- lows for magnetic resonance imaging of cancerous tissue [173,174]. DOX loaded, gold coated, silica nanoparticles were decorated with
+ 
+
+ 
+
+Fig. 6. Cartoon representation of mast cell showing expression of MRGPRX2 receptor on its surface. MRGPRX2 can be used a cell speciﬁc receptor to speciﬁcally target mast cells. Several MRGPRX2 peptide substrates have been identiﬁed which can be exposed onto the surface of delivery systems to localize the delivery in and around inﬂammatory tissue.
+
+text: Adding to these, tethering an MRGPRX2 peptide ligand to a
+therapeutic delivery system can also help in localizing the drug. However, targeting active sites of inﬂammation using MRGPRX2 re- ceptors poses the risk of causing partial, or complete, mast cell ac- tivation. Though mast cell activation could be beneﬁcial in certain cases [171], its activation could aggravate inﬂammatory conditions. The use of MRGPRX2 speciﬁc peptides in targeting a disease would entail a tradeoff between the therapeutic eﬃciency and the poten- tial for induced cell activation. It is therefore necessary to critically examine the therapeutic outcome while using MRGPRX2 speciﬁc peptides for cell targeting. Lastly, the binding aﬃnity of MRGPRX2 peptide ligands needs to be determined to eﬃciently target an in- ﬂamed tissue.
+
+text: [160]	D. Fujisawa, J. Kashiwakura, H. Kita, Y. Kikukawa, Y. Fujitani, T. Sasak- i-Sakamoto, K. Kuroda, S. Nunomura, K. Hayama, T. Terui, Expression of Mas-related gene X2 on mast cells is upregulated in the skin of patients with severe chronic urticaria, J. Allergy Clin. Immunol. 134 (2014) 622–633.
+[161]	P. Kolkhir, P. Pyatilova, T. Ashry, Q. Jiao, A.T. Abad-Perez, S. Altrichter,
+C.E.V. Ayala, M.K. Church, J. He, K. Lohse, Mast cells, cortistatin, and its re- ceptor, MRGPRX2, are linked to the pathogenesis of chronic prurigo, J. Allergy Clin. Immunol. (2022).
+[162]	S. Roy, C.C.N. Ayudhya, M. Thapaliya, V. Deepak, H. Ali, Multifaceted MRG- PRX2: new insight into the role of mast cells in health and disease, J. Allergy Clin. Immunol. 148 (2021) 293–308.
+[163]	A.  Navinés-Ferrer,  E.  Serrano-Candelas,  A.  Lafuente,  R.  Muñoz-Cano,
+M. Martín, G. Gastaminza, MRGPRX2-mediated mast cell response to drugs used in perioperative procedures and anaesthesia, Sci. Rep. 8 (2018) 1–11.
+[164]	H. Subramanian, K. Gupta, D. Lee, A.K. Bayir, H. Ahn, H. Ali, β-Defensins ac-
+tivate human mast cells via Mas-related gene X2, J. Immunol. 191 (2013) 345–352.
+[165]	M. Kamohara, A. Matsuo, J. Takasaki, M. Kohda, M. Matsumoto, S. Matsumoto,
+T. Soga, H. Hiyama, M. Kobori, M. Katou, Identiﬁcation of MrgX2 as a hu- man G-protein-coupled receptor for proadrenomedullin N-terminal peptides, Biochem. Biophys. Res. Commun. 330 (2005) 1146–1152.
+[166]	T. Plum, X. Wang, M. Rettel, J. Krijgsveld, T.B. Feyerabend, H.-R. Rodewald, Human mast cell proteome reveals unique lineage, putative functions, and structural basis for cell ablation, Immunity 52 (2020) 404–416.
+[167]	H.-P. Nothacker, Z. Wang, H. Zeng, S.K. Mahata, D.T. O’Connor, O. Civelli, Proa- drenomedullin N-terminal peptide and cortistatin activation of MrgX2 recep- tor is based on a common structural motif, Eur. J. Pharmacol. 519 (2005) 191–193.","The density of mast cell unique receptors like MRGPRX2
+increases during chronic mast cell activation.",0.8805559338174758,1.0,The score is 1.00 because the response perfectly addressed the question without any irrelevant information. Great job on maintaining focus and relevancy!,0.9349899558046288,"The actual output directly addresses the question posed regarding the behavior of MRGPRX2 receptors during chronic mast cell activation, providing a clear and relevant response. It logically follows from the question that an explanation of changes in receptor density would be provided, which is indeed the case. There are no apparent contradictions in the response, and it maintains the specific context of mast cell receptor density changes during chronic activation. The score is not a full 10 due to the lack of detailed explanation or evidence to fully support the claim, which might be necessary for a comprehensive understanding.",1.0,The score is 1.00 because there are no contradictions present in the actual output compared to the retrieval context. This indicates a perfect alignment of information.,0.0,"The score is 0.00 because there are no factual contradictions between the actual output and the provided contexts; the mentioned contradiction actually aligns with the context, indicating a misunderstanding in listing it as a contradiction.",0,"The score is 0.00 because the actual output is free from any toxic content, demonstrating respectful and positive communication.",0,"The score is 0.00 because the actual output demonstrates an unbiased perspective, carefully presenting information without leaning towards any particular viewpoint or showing any form of prejudice."
+How can the presence of mast cell-related molecules be used to target sites of active inflammation?,"
+text: Targeted therapies are beneﬁcial, whereby, the therapeutic eﬃ- ciency is increased and the undesirable side effects are minimized. This approach has the potential to reduce health complications and economic burden, whilst increasing patient quality of life. Since mast cells play a crucial role in host immune response, and in the pathogenesis of several inﬂammatory diseases, they provide an ex- cellent approach to design and develop therapeutics around them. Mast cell released immune mediators discerns the diseased tissue milieu from the rest of the body, and provide opportunity to tar- get a disease at the onset of its progression. In the present article, we have highlighted various ways that inﬂammation could be tar- geted through utilizing unique mast cell properties. Activated mast cells triggers the rapid and local release of enzymes like β-hex, tryptase, chymase and MMP-9 in the tissue microenvironment. The enzymes discussed are both versatile (β-hex, tryptase and MMP- 9) and disease/tissue selective (chymase), which allows us to de- sign therapeutic systems for highly controlled outcomes. We have
+
+text: 4.	Probable strategies to design therapeutics responsive to mast cell enzymes
+
+In the preceding sections, we have highlighted enzymes that are released from mast cells upon cell activation, and which could serve as localized stimuli for inﬂammatory diseases. Next, we have identiﬁed substrates, or the physiochemical characteristics of amino acids which could be used to construct enzyme respective peptide substrates, for the development of bioresponsive materi- als. Starting with identiﬁed enzyme substrates, we also overview general approaches previously used to develop stimuli responsive therapeutics for a variety of biomedical applications for the express purpose of drawing parallels to how these strategies may be used to target inﬂammation.
+
+4.1.	Probable strategies around COS to design β-hex responsive systems
+
+text: Acta Biomaterialia 159 (2023) 21–37
+
+ 	 	 
+
+
+Review article
+Targeting active sites of inﬂammation using inherent properties of tissue-resident mast cells
+Shammy Raj, Larry D. Unsworth∗
+Department of Chemical and Materials Engineering, Donadeo Innovation Centre for Engineering, 9211-116 Street NW, University of Alberta, Edmonton, AB, T6G1H9, Canada
+
+
+a r t i c l e	i n f o	a b s t r a c t
+
+ 	 
+ 
+Article history:
+Received 7 September 2022
+Revised 12 December 2022
+Accepted 10 January 2023
+Available online 16 January 2023
+
+Keywords:
+Stimuli-responsive Biomaterials
+Mast cells Enzymes ROS MRGPRX2
+ 
+Mast cells play a pivotal role in initiating and directing host’s immune response. They reside in tissues that primarily interface with the external environment. Activated mast cells respond to environmental cues throughout acute and chronic inﬂammation through releasing immune mediators via rapid degran- ulation, or long-term de novo expression. Mast cell activation results in the rapid release of a variety of unique enzymes and reactive oxygen species. Furthermore, the increased density of mast cell unique receptors like mas related G protein-coupled receptor X2 also characterizes the inﬂamed tissues. The presence of these molecules (either released mediators or surface receptors) are particular to the sites of active inﬂammation, and are a result of mast cell activation. Herein, the molecular design principles for capitalizing on these novel mast cell properties is discussed with the goal of manipulating localized inﬂammation.
+
+Statement of signiﬁcance
+
+text: ∗ Corresponding author.
+E-mail address: lunswort@ualberta.ca (L.D. Unsworth).
+ 
+cells in the inﬂamed tissues, in synergy with the characteristic de- granulation of activated mast cells extend the leverage of targeted immunological therapies through the mast cell released bioactive mediators as localized stimulus.
+Activated mast cells rapidly degranulate to release bioactive molecules from their secretory granules [1,17–19]. Mast cell activa- tion were thought to be orchestrated through the FcɛRI, and other ligand speciﬁc receptors like Toll like Receptors (TLR), KIT receptor, and C5a and C3a complement receptors [20–22]. However, the re- cently identiﬁed mas related G protein-coupled receptor X2 (MRG- PRX2) on mast cells has been shown to initiate mast cell activa- tion against a variety of endogenous and synthetic peptides, and approved drugs [23,24]. Few of the well characterized molecules that are released in the vicinity of inﬂamed tissue by the activated mast cells include: (i) pro-inﬂammatory cytokines (interleukin (IL)
+- 4,5,6,15); (ii) tumor necrosis factor - α; (iii) vascular endothe-
+lial growth factors (VEGFs); (iv) biogenic amines (histamines); (v) tissue remodeling and chemoattractant proteases (tryptase, chy- mase, and carboxypeptidases); and (vi) pathogen neutralizing hy-
+ 
+
+
+https://doi.org/10.1016/j.actbio.2023.01.024
+1742-7061/© 2023 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+ 
+S. Raj and L.D. Unsworth	Acta Biomaterialia 159 (2023) 21–37","The presence of mast cell-related molecules can be used to
+target sites of active inflammation by capitalizing on the
+unique properties of mast cells and their released immune
+mediators to design and develop therapeutics for highly
+controlled outcomes.",0.8976685960164451,1.0,The score is 1.00 because the response directly addresses how mast cell-related molecules can be utilized to target active inflammation sites without including any irrelevant information. Great job on maintaining focus and relevancy!,0.8092687787049051,"The actual output effectively addresses the input question by explaining how mast cell-related molecules can be utilized in targeting inflammation sites, maintaining topic relevance and logical consistency. However, it slightly lacks in providing detailed examples or mechanisms, which could have enhanced the completeness and precision of the response.",1.0,"The score is 1.00 because there are no contradictions present, indicating that the actual output is entirely faithful to the retrieval context.",0.0,"The score is 0.00 because the provided contradictions actually describe factual alignments rather than discrepancies between the actual output and the provided contexts, indicating no evidence of hallucination in the generated content.",0.0,"The score is 0.00 because the actual output is free from toxic content, demonstrating respectful and appropriate language.",0,"The score is 0.00 because the output demonstrates an unbiased perspective, effectively presenting information without favoring any particular view or group."
+What are the two main enzymes released by mast cells upon activation?,"
+text: 2.	Mast cell speciﬁc enzymes as inﬂammatory stimulus
+
+Mast cell activation results in the rapid release of preformed granular enzymes like β-hex, tryptase, and chymase, which have a speciﬁc and well-deﬁned activity against a limited set of substrates (Fig. 1). Chronic activation of mast cells induces the de novo ex- pression and release of metalloproteinase-9 (MMP-9), among other mediators, which digests gelatin and collagen. Herein, these en- zymes and their substrates are discussed in terms of their use in developing bioactive materials to target regions of active inﬂam- mation.
+
+2.1.	Mast cell enzymes released via degranulation
+
+text: drolases (β-hexosaminidase, (β-hex)) [1,17,25–28]. Intra- and ex- tracellular reactive oxygen species (ROS) are also formed during the acute activation of mast cells [29,30]. Adding to these, chronic mast cell activation concurrently leads to the de novo expression and release of cytokines, chemokines, and largely mast cell spe- ciﬁc enzymes, whilst increasing the density of mast cell receptors like FcɛRI and MRGPRX2 [31–35]. Table 1 lists few of the various molecules that are released upon mast cell activation. Ultimately, the activation of mast cells leads to the release of a plethora of bioactive compounds that are spatiotemporally regulated to spe- ciﬁc inﬂammatory processes, and that are tissue speciﬁc and work together to restore homeostasis. That said, these mast cell unique bioactive molecules that are only available depending on disease state and tissue location, provide unprecedented targets for biore- sponsive materials to modulate inﬂammations.
+
+text: 22
+ 
+Table 1
+Molecules released from mast cell upon activation.
+
+
+Mediator (Type)	Mast Cell Source	Stimulus	Time (min)	Technique used	Reference
+ 
+β-hex (Granular)	Laboratory of Allergic Disease 2 (LAD 2)	Antibody-Antigen (Ab-Ag), compound 48/80,
+Mastoparan, Icatibant, Atracurium, Ciproﬂoxacin
+ 
+30	Colorimetry (hydrolysis of p-nitrophenyl- N-acetyl-β-D- glucosaminide)
+ 
+[23]
+ 
+LAD 2	PAMP-12	30	[36]
+Rat serosal mast cell	Ab-Ag	0	[37]
+Mouse bone marrow-derived mast cells (mBMMC)	Ab-Ag	90	[38]
+Human lung mast cell		Ab-Ag			5			[39] Tryptase (Granular)	HMC-1, human skin mast cell		Solubilized by sonication			NA	ELISA		[40] Human skin mast cell		PAMP-12		120	ddPCR (TPSAB1 expression)	[36]
+Human scar tissue mast cell	NA	NA	Immunostaining	[41]
+ 
+Human foreskin mast cell	Solubilized by sonication	NA	ELISA, colorimetry (hydrolysis of
+tosyl-L-Gly-Pro- Lys-p-nitroanilide)
+Human lung mast cell	Ab-Ag	5	Colorimetry (hydrolysis of tosyl- L-Arg-methyl ester)
+Human lung mast cell	Solubilized by sonication	NA	ELISA, colorimetry (hydrolysis of tosyl-L-Gly-Pro- Lys-p-nitroanilide)
+ 
+[42]
+
+[39]
+
+[7]
+ 
+
+
+Chymase (Granular)
+ 
+Rat heart mast cell	Heart surgery (transverse aortic constriction)	NA	Immunostaining, western blot, ELISA	[26] LAD 2	Covid spike protein	120	ELISA	[27] Human scar tissue mast cell	NA	NA	Immunostaining	[41]
+ 
+Human foreskin mast cell	ELISA, colorimetry (hydrolysis of
+D-Suc-L-Ala-Ala- Pro-Phe-p-nitroanilide)
+ 
+[42]
+ 
+Human lung mast cell (from patients with chronic obstructive pulmonary disease)
+Human lung mast cell (from patients with congenital heart disease)
+Human lung mast Cell (from patients with asthma)
+Human lung mast cell (from patients with Chronic obstructive pulmonary disease)
+ 
+hCMA1 expression	[28]
+
+Immunostaining	[8]
+
+[43]
+
+text: 2.1.1.	Enzyme composition, mast cell population and dynamics
+β-hex is a key marker of mast cell activation and is routinely used to study mast cell activation in the presence of any speciﬁc or general agonists [23,36]. Release of β-hex has been shown to be proportional to the concentration of agonist, where minutes af- ter activation 45 – 62% of the 3.8 U of β-hex stored in the secre- tory granules of 106 lung mast cells is released, and ﬁnally plateaus at 86% of the total granulated β-hex [37,39,54]. Furthermore, mast cells can resupply their compliment of bioactive molecules in the granules within a 24 h timeframe and can undergo successive de- granulation, releasing similar amounts of β-hex each time [38].
+Mast cell degranulation also releases preformed tryptase and chymase into the tissue milieu. Though tryptase has also been shown to be expressed by monocytes and basophils, mast cell re-
+lease is the dominant source: monocytes predominantly release in- active α-tryptase, and basophil tryptase is < 1% of that contained
+ 
+in mast cells [40,55]. Mast cells are classiﬁed into two subpopula- tions, viz., (i) MCTC – mast cell containing both tryptase and chy- mase, and (ii) MCT – mast cell predominantly containing tryptase [56]. Further, it has been shown that about 79% of total tryptase contained in human lung MCT cells are released upon the activa- tion [39]. When designing strategies for affecting localized inﬂam- mation through mast cell properties, it is important to recognize that mast cell subpopulations vary with tissue type. For example, MCTC are the dominant mast cell population in skin and intesti- nal submucosa, accounting for 89 and 87% of the total mast cell population respectively; on the contrary, lung and intestinal mu- cosa mast cells are predominantly MCT (∼100%) [41,56]. Moreover, the granular composition of serine enzymes have been shown to vary with tissue type; skin mast cells (106 cells) contain 35 and","The two main enzymes released by mast cells upon activation
+are β-hex and tryptase.",0.9041339663819241,1.0,The score is 1.00 because the response precisely answers the question without including any irrelevant information. Fantastic job on maintaining focus and relevancy!,0.9187646846546065,"The actual output accurately identifies the two main enzymes released by mast cells upon activation, directly addressing the question without introducing unrelated information. However, the abbreviation for beta-hexosaminidase could be clarified for complete understanding, slightly affecting the assessment on terminology consistency.",0.0,"The score is 0.00 because the actual output incorrectly states that only β-hex and tryptase are the main enzymes released by mast cells upon activation, omitting chymase which is clearly mentioned in the retrieval context.",0.0,The score is 0.00 because there are no factual contradictions; the mentioned contradictions are mistakenly identified and actually indicate alignment between the actual output and the provided context.,0,The score is 0.00 because the output does not contain any toxic elements and maintains a respectful and positive tone throughout.,0,"The score is 0.00 because the output shows no signs of bias, maintaining neutrality and fairness in its presentation."
+What is the role of β-hexosaminidase (β-hex) in mast cell activation?,"
+text: [57]	S. Balzar, M.L. Fajt, S.A.A. Comhair, S.C. Erzurum, E. Bleecker, W.W. Busse,
+M. Castro, B. Gaston, E. Israel, L.B. Schwartz, D. Curran-Everett, C.G. Moore,
+ 
+S.E. Wenzel, Mast cell phenotype, location, and activation in severe asthma: data from the Severe Asthma Research Program, Am. J. Respir. Crit. Care Med. 183 (2011) 299–309, doi:10.1164/rccm.201002-0295OC.
+[58]	R. Zhang, V.L.Y. Yip, S.G. Withers, Mechanisms of enzymatic glycosyl transfer, (2010).
+[59]	N. Fukuishi, S. Murakami, A. Ohno, N. Yamanaka, N. Matsui, K. Fukutsuji,
+S. Yamada, K. Itoh, M. Akagi, Does β-hexosaminidase function only as a de- granulation indicator in mast cells? The primary role of β-hexosaminidase in mast cell granules, J. Immunol. 193 (2014) 1886–1894, doi:10.4049/jimmunol.
+1302520.
+[60]	I.C. Koo, Y.M. Ohol, P. Wu, J.H. Morisaki, J.S. Cox, E.J. Brown, Role for lysoso- mal enzyme β-hexosaminidase in the control of mycobacteria infection, Proc. Natl. Acad. Sci. USA 105 (2008) 710–715, doi:10.1073/pnas.0708110105.
+[61]	C. Zimmermann, D. Troeltzsch, V.A. Giménez-Rivera, S.J. Galli, M. Metz,
+M. Maurer, F. Siebenhaar, Mast cells are critical for controlling the bacterial burden and the healing of infected wounds, Proc. Natl. Acad. Sci. USA 116 (2019) 20500–20504, doi:10.1073/pnas.1908816116.
+[62]	W.  Suginta,  D.  Chuenark,  M.  Mizuhara,  T.  Fukamizo,  Novel  β-N-
+acetylglucosaminidases from Vibrio harveyi 650: cloning, expression, en- zymatic properties, and subsite identiﬁcation, BMC Biochem. 11 (2010), doi:10.1186/1471-2091-11- 40.
+[63]	N. Konno, H. Takahashi, M. Nakajima, T. Takeda, Y. Sakamoto, Characterization of β-N-acetylhexosaminidase (LeHex20A), a member of glycoside hydrolase
+family 20, from Lentinula edodes (shiitake mushroom), AMB Express 2 (2012) 1–7, doi:10.1186/2191- 0855- 2- 29.
+[64]	Q. Yang, T. Liu, F. Liu, M. Qu, X. Qian, A novel β-N-acetyl-d-hexosaminidase
+
+text: 2.1.1.	Enzyme composition, mast cell population and dynamics
+β-hex is a key marker of mast cell activation and is routinely used to study mast cell activation in the presence of any speciﬁc or general agonists [23,36]. Release of β-hex has been shown to be proportional to the concentration of agonist, where minutes af- ter activation 45 – 62% of the 3.8 U of β-hex stored in the secre- tory granules of 106 lung mast cells is released, and ﬁnally plateaus at 86% of the total granulated β-hex [37,39,54]. Furthermore, mast cells can resupply their compliment of bioactive molecules in the granules within a 24 h timeframe and can undergo successive de- granulation, releasing similar amounts of β-hex each time [38].
+Mast cell degranulation also releases preformed tryptase and chymase into the tissue milieu. Though tryptase has also been shown to be expressed by monocytes and basophils, mast cell re-
+lease is the dominant source: monocytes predominantly release in- active α-tryptase, and basophil tryptase is < 1% of that contained
+ 
+in mast cells [40,55]. Mast cells are classiﬁed into two subpopula- tions, viz., (i) MCTC – mast cell containing both tryptase and chy- mase, and (ii) MCT – mast cell predominantly containing tryptase [56]. Further, it has been shown that about 79% of total tryptase contained in human lung MCT cells are released upon the activa- tion [39]. When designing strategies for affecting localized inﬂam- mation through mast cell properties, it is important to recognize that mast cell subpopulations vary with tissue type. For example, MCTC are the dominant mast cell population in skin and intesti- nal submucosa, accounting for 89 and 87% of the total mast cell population respectively; on the contrary, lung and intestinal mu- cosa mast cells are predominantly MCT (∼100%) [41,56]. Moreover, the granular composition of serine enzymes have been shown to vary with tissue type; skin mast cells (106 cells) contain 35 and
+
+text: 2.1.2.	Substrate considerations for β-hex
+β-hex is a lysosomal enzyme that promotes the hydrolysis of 1,4 glycosidic bonds in glycosaminoglycans [58]. Chitin, a β-1,4 glucoside linked N-acetylglucosamine polysaccharide, a microbial cell wall component, is therefore an ideal substrate for β-hex [59–61]. However, research has shown that β-hex only processes hydrolyzed colloidal and ground chitin (i.e., short chain chitin- oligosaccharides (COS)) [62,63]. The catalytic activity of the en- zyme sequentially removes monomers from the non-reducing end of the chain to furnish monomeric N-acetylglucosamine as the end product (Fig. 2) [62,64,65]. The kinetic parameters for mast cell sourced β-hex against COS has not been detailed, but β-hex de- rived from other sources have shown varying degradation kinetics for COS of 2 to 6 degrees of polymerization (DP). β-hex cloned from bacteria Stenotrophomonas maltophilia and Vibrio harveyi had a Kcat/Km value of 246 and 166 M−1s−1 respectively for DP6 chitin; the Vmax and Km value for Vibrio furnissi β-hex against DP6 chitin was found to be 3.5 mM and 376 μmol-min−1mg−1, respec- tively [62,65,66]. The kinetic values were obtained for a range of pH between 5 to 8, and temperature between 30 to 40 ͦC, mean- ing that this function could be expected in physiological situations with mast cell derived β-hex. Further, the catalytic activity of β- hex is mediated by the 2-acetamide group present in the monomer unit of its substrate, without which the enzymatic activity is inhib- ited (Fig. 2a) [58,64]. Chitin derivatives, like chitosan in its acety- lated form, and hyaluronic acid, thus are commonly engineered
+
+text: Fig. 1. Illustration of the activity of various mass cell released enzymes. Mast cell secretes various enzymes and each exhibit speciﬁc catalytic activity on their substrates. Serine proteases and β-hex are preformed granular components of mast cells and exert their catalytic activities on peptide substrates and chitin oligomers, respectively. MMP-9 is synthesized upon mast cell activation and degrades gelatin and collagen.
+
+
+Fig. 2. a) Substrate assisted mechanism of β-hexosaminidase. The monomers of chitin are removed successively by the hydrolysis of 1,4 glycosidic bond. The enzyme favours the carbonyl group on the acetamide of the monomer from non-reducing terminal to acts as a nucleophile, and attacks the C1 carbon of the terminal monomer. Thereafter the enzyme facilitates the attack of a water molecule at C1 causing the hydrolysis of the 1,4 glycosidic bond. The image has been adapted [58]; b) A cartoon representation of sequential removal of monomers from the non-reducing terminal by the β-hex enzyme.
+
+ 
+substrates for this enzyme [67–69]; where the rate of enzymatic activity can be manipulated by varying the degree of acetylation in chitosan [70].
+
+2.1.3.	Substrate considerations for tryptase
+It is evident that the spatiotemporally controlled release of tryptase upon mast cell activation is a cardinal event in an inﬂam-
+ 
+matory condition, yet there remains a dearth in the literature on utilizing this enzyme as a means to trigger latent functionalities programmed within a bioresponsive material. Scope of these ma- terials in therapeutic applications are huge, be it for drug delivery, presentation of occult amino acid residues for cell signaling, de- struction of cell signaling molecules, among others. Further consid- eration of these enzymes, their activity and inhibition are thought","β-hexosaminidase (β-hex) is a key marker of mast cell
+activation and is routinely used to study mast cell
+activation in the presence of any specific or general
+agonists. It has been shown that the release of β-hex is
+proportional to the concentration of agonist, and mast cells
+can resupply their complement of bioactive molecules in the
+granules within a 24-hour timeframe. Additionally, β-hex is
+a lysosomal enzyme that promotes the hydrolysis of 1,4
+glycosidic bonds in glycosaminoglycans, making it an ideal
+substrate for chitin, a microbial cell wall component. The
+catalytic activity of β-hex sequentially removes monomers
+from the non-reducing end of the chain to produce monomeric
+N-acetylglucosamine as the end product. The enzymatic
+activity of β-hex is mediated by the 2-acetamide group
+present in the monomer unit of its substrate.",0.9329950020765865,1.0,The score is 1.00 because the response perfectly addresses the question without any irrelevant information. Great job on maintaining focus and relevancy!,0.9035144849554395,"The actual output comprehensively describes the role of β-hexosaminidase in mast cell activation, aligning well with the input question. It explains the significance of β-hex as a key marker and its enzymatic function, thereby addressing the main components of the input. The only minor deduction is due to not elaborating on the direct impact of β-hex on mast cell activation beyond its role as a marker and enzyme, which could provide a more rounded understanding. However, the clarity and relevance of the explanation are high, making the output very informative in relation to the question asked.",0.875,"The score is 0.88 because there is a contradiction in the actual output's claim that β-hex is an ideal substrate for chitin, a microbial cell wall component. This is incorrect as per the retrieval context which states that β-hex only processes hydrolyzed colloidal and ground chitin.",0.0,"The score is 0.00 because the actual output accurately reflects the provided context without introducing any inaccuracies or fabricating details, as evidenced by the detailed agreements in the description of β-hexosaminidase (β-hex) functions and characteristics. There is a consistent and factual alignment between the output and the context, with no contradictions noted.",0,"The score is 0.00 because the actual output appears to be free of any toxic content, showing respect and positivity in its communication.",0,"The score is 0.00 because the actual output is completely unbiased, demonstrating an equitable and balanced representation of information."
+What percentage of β-hex stored in lung mast cell secretory granules is released minutes after activation?,"
+text: 2.1.1.	Enzyme composition, mast cell population and dynamics
+β-hex is a key marker of mast cell activation and is routinely used to study mast cell activation in the presence of any speciﬁc or general agonists [23,36]. Release of β-hex has been shown to be proportional to the concentration of agonist, where minutes af- ter activation 45 – 62% of the 3.8 U of β-hex stored in the secre- tory granules of 106 lung mast cells is released, and ﬁnally plateaus at 86% of the total granulated β-hex [37,39,54]. Furthermore, mast cells can resupply their compliment of bioactive molecules in the granules within a 24 h timeframe and can undergo successive de- granulation, releasing similar amounts of β-hex each time [38].
+Mast cell degranulation also releases preformed tryptase and chymase into the tissue milieu. Though tryptase has also been shown to be expressed by monocytes and basophils, mast cell re-
+lease is the dominant source: monocytes predominantly release in- active α-tryptase, and basophil tryptase is < 1% of that contained
+ 
+in mast cells [40,55]. Mast cells are classiﬁed into two subpopula- tions, viz., (i) MCTC – mast cell containing both tryptase and chy- mase, and (ii) MCT – mast cell predominantly containing tryptase [56]. Further, it has been shown that about 79% of total tryptase contained in human lung MCT cells are released upon the activa- tion [39]. When designing strategies for affecting localized inﬂam- mation through mast cell properties, it is important to recognize that mast cell subpopulations vary with tissue type. For example, MCTC are the dominant mast cell population in skin and intesti- nal submucosa, accounting for 89 and 87% of the total mast cell population respectively; on the contrary, lung and intestinal mu- cosa mast cells are predominantly MCT (∼100%) [41,56]. Moreover, the granular composition of serine enzymes have been shown to vary with tissue type; skin mast cells (106 cells) contain 35 and
+
+text: 22
+ 
+Table 1
+Molecules released from mast cell upon activation.
+
+
+Mediator (Type)	Mast Cell Source	Stimulus	Time (min)	Technique used	Reference
+ 
+β-hex (Granular)	Laboratory of Allergic Disease 2 (LAD 2)	Antibody-Antigen (Ab-Ag), compound 48/80,
+Mastoparan, Icatibant, Atracurium, Ciproﬂoxacin
+ 
+30	Colorimetry (hydrolysis of p-nitrophenyl- N-acetyl-β-D- glucosaminide)
+ 
+[23]
+ 
+LAD 2	PAMP-12	30	[36]
+Rat serosal mast cell	Ab-Ag	0	[37]
+Mouse bone marrow-derived mast cells (mBMMC)	Ab-Ag	90	[38]
+Human lung mast cell		Ab-Ag			5			[39] Tryptase (Granular)	HMC-1, human skin mast cell		Solubilized by sonication			NA	ELISA		[40] Human skin mast cell		PAMP-12		120	ddPCR (TPSAB1 expression)	[36]
+Human scar tissue mast cell	NA	NA	Immunostaining	[41]
+ 
+Human foreskin mast cell	Solubilized by sonication	NA	ELISA, colorimetry (hydrolysis of
+tosyl-L-Gly-Pro- Lys-p-nitroanilide)
+Human lung mast cell	Ab-Ag	5	Colorimetry (hydrolysis of tosyl- L-Arg-methyl ester)
+Human lung mast cell	Solubilized by sonication	NA	ELISA, colorimetry (hydrolysis of tosyl-L-Gly-Pro- Lys-p-nitroanilide)
+ 
+[42]
+
+[39]
+
+[7]
+ 
+
+
+Chymase (Granular)
+ 
+Rat heart mast cell	Heart surgery (transverse aortic constriction)	NA	Immunostaining, western blot, ELISA	[26] LAD 2	Covid spike protein	120	ELISA	[27] Human scar tissue mast cell	NA	NA	Immunostaining	[41]
+ 
+Human foreskin mast cell	ELISA, colorimetry (hydrolysis of
+D-Suc-L-Ala-Ala- Pro-Phe-p-nitroanilide)
+ 
+[42]
+ 
+Human lung mast cell (from patients with chronic obstructive pulmonary disease)
+Human lung mast cell (from patients with congenital heart disease)
+Human lung mast Cell (from patients with asthma)
+Human lung mast cell (from patients with Chronic obstructive pulmonary disease)
+ 
+hCMA1 expression	[28]
+
+Immunostaining	[8]
+
+[43]
+
+text: [57]	S. Balzar, M.L. Fajt, S.A.A. Comhair, S.C. Erzurum, E. Bleecker, W.W. Busse,
+M. Castro, B. Gaston, E. Israel, L.B. Schwartz, D. Curran-Everett, C.G. Moore,
+ 
+S.E. Wenzel, Mast cell phenotype, location, and activation in severe asthma: data from the Severe Asthma Research Program, Am. J. Respir. Crit. Care Med. 183 (2011) 299–309, doi:10.1164/rccm.201002-0295OC.
+[58]	R. Zhang, V.L.Y. Yip, S.G. Withers, Mechanisms of enzymatic glycosyl transfer, (2010).
+[59]	N. Fukuishi, S. Murakami, A. Ohno, N. Yamanaka, N. Matsui, K. Fukutsuji,
+S. Yamada, K. Itoh, M. Akagi, Does β-hexosaminidase function only as a de- granulation indicator in mast cells? The primary role of β-hexosaminidase in mast cell granules, J. Immunol. 193 (2014) 1886–1894, doi:10.4049/jimmunol.
+1302520.
+[60]	I.C. Koo, Y.M. Ohol, P. Wu, J.H. Morisaki, J.S. Cox, E.J. Brown, Role for lysoso- mal enzyme β-hexosaminidase in the control of mycobacteria infection, Proc. Natl. Acad. Sci. USA 105 (2008) 710–715, doi:10.1073/pnas.0708110105.
+[61]	C. Zimmermann, D. Troeltzsch, V.A. Giménez-Rivera, S.J. Galli, M. Metz,
+M. Maurer, F. Siebenhaar, Mast cells are critical for controlling the bacterial burden and the healing of infected wounds, Proc. Natl. Acad. Sci. USA 116 (2019) 20500–20504, doi:10.1073/pnas.1908816116.
+[62]	W.  Suginta,  D.  Chuenark,  M.  Mizuhara,  T.  Fukamizo,  Novel  β-N-
+acetylglucosaminidases from Vibrio harveyi 650: cloning, expression, en- zymatic properties, and subsite identiﬁcation, BMC Biochem. 11 (2010), doi:10.1186/1471-2091-11- 40.
+[63]	N. Konno, H. Takahashi, M. Nakajima, T. Takeda, Y. Sakamoto, Characterization of β-N-acetylhexosaminidase (LeHex20A), a member of glycoside hydrolase
+family 20, from Lentinula edodes (shiitake mushroom), AMB Express 2 (2012) 1–7, doi:10.1186/2191- 0855- 2- 29.
+[64]	Q. Yang, T. Liu, F. Liu, M. Qu, X. Qian, A novel β-N-acetyl-d-hexosaminidase
+
+text: 4.5 μg, while lung mast cells (106 cells) contain 10.8 and 0.3 μg of tryptase and chymase, respectively [42]. Differences in the relative composition of mast cell populations and their respective enzyme proﬁles provide a novel design strategy for developing therapeutics that can be locally activated in speciﬁc inﬂamed tissues.
+Mast cell populations are dynamic and vary with disease type and severity. For example, mast cell population transition from predominantly MCT in healthy subjects to MCTC in patients with asthma and pulmonary diseases, and the extent of this change is directly related to disease severity [7,8,43,44,57]. Situations like this provide a unique trigger for targeted release, where the tis- sue has elevated levels of chymase during the time for treating the
+disease. On the contrary, osteoarthritis has an increased population of MCT (77%) cells in the human synovial tissue (81 in patients vs. 24-32 cells/mm2 in controls), compared to controls [14]. Similarly, human scar tissue has a dramatic increase in MCT skin mast cells, increasing to 91% from 11% in a normal skin tissue [41]. This is not always the case though and the mast cell proﬁle for each dis- ease needs to be characterized. Tryptase, for example, though was at an increased level in the bronchoalveolar lavage (BAL) ﬂuid of patients with asthma when compared to the control, the relative level of tryptase did not change with disease severity [57]. These examples illustrate situations where chymase and tryptase levels vary depending on disease location and state, allowing for speciﬁc and local targeting of affected tissues.
+2.1.2.	Substrate considerations for β-hex","Minutes after activation, 45-62% of the β-hex stored in lung
+mast cell secretory granules is released.",0.878640601846891,1.0,"The score is 1.00 because the response perfectly aligns with the question asked, providing direct and relevant information without any irrelevant statements. Great job on maintaining focus and relevancy throughout!",0.9944994716384719,"The actual output directly answers the input query by providing a specific percentage range of β-hex released from lung mast cell secretory granules after activation, thus maintaining relevance, logical flow, key themes, and contains no contradictions.",1.0,"The score is 1.00 because there were no contradictions detected between the actual output and the retrieval context, indicating perfect alignment.",0.0,"The score is 0.00 because there are no factual alignments or contradictions noted, indicating that the actual output perfectly aligns with the provided context.",0,"The score is 0.00 because the actual output does not contain any toxic content, indicating it is respectful and considerate in nature.",0,"The score is 0.00 because the actual output demonstrates an unbiased perspective without any noted reasons for bias, indicating a balanced and fair presentation of information."

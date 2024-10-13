@@ -161,4 +161,4 @@ cython_debug/
 
 
 /data/
-/chromadb/
+/chromadb/.DS_Store
